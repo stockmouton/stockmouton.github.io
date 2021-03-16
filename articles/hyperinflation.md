@@ -34,7 +34,7 @@ Hyperinflation is a sudden change of the inflation rate.
 Thanks dummy, WTF is this inflation rate then?
 Inflation (and deflation) are two words to refer to the rate of change in the price of "things". Understand "things" as very broadly here: food, energy, house, stocks, bonds, ETF, etc. Anything that is sold.
 
-What people do is that they look at the current price of things now (p_t) then they look at the price of those things 2 month later (p_t+!) and calculate the ratio: inflation rate = p_t+1 / p_t.
+What people do is that they look at the current price of things now (p_t) then they look at the price of those things 2 month later (p_t+!) and calculate the ratio: $inflation rate = \frac{p_{t+1}}{p_t}$.
 If this ratio is > 1 we use the term inflation, if it's lower, we use the term deflation.
 
 So hyperinflation, is the situation when a sudden and strong change happens. Like you went to buy your baguette yesterday at 1$ and today the baker ask 1.5$ (ho my). In this example the inflation rate would be 50% over one day.
