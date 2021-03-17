@@ -1,8 +1,7 @@
 ```
-inspir: https://www.reddit.com/r/options/comments/m4ffmx/long_commodities_short_bonds_protection_against/
+inspi: https://www.reddit.com/r/options/comments/m4ffmx/long_commodities_short_bonds_protection_against/
 ```
-
-# HyperInflation, crisis and opportunities
+## HyperInflation, doomsday and opportunities
 Meh!
 
 A not so quick article about what is coming in the market. It's going to be quite dense so ake yourself comfortable and enjoy the learn!
@@ -13,7 +12,7 @@ It is in no way precise nor perfectly accurate. As usual, the devil hide in the 
 Obviously, this is not financial advice but only some educational material for apes.
 
 
-## TLDR
+# TLDR
 - Inflation is real and observed in many sectors
 - Reopening the economy might be the match that light the inflation rocket leading to hyperinflation
 - Interest rates will increase all over the board and loans will get very expensive
@@ -211,12 +210,12 @@ If you are not living in a bubble, commodities stocks are presented as no braine
 ### Anything else?
 If you scared, you should go into gold or something like, by definition, it should match "real rate" which should be >= inflation rate. 
 
-## Conclusion
+# Conclusion
 Find value stocks in commodities and short bonds.
 Secure yourself into metals, gold, uranium, whatever.
 Short the current bubble: SPACs (which is the new tech bubble for sure)
 
 Cheers!
 
-# Other links
+# Resources
 https://www.investopedia.com/terms/l/liquidity.asp
