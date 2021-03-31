@@ -10,15 +10,6 @@
 TODO:
 - Make sure this comment is completely included in the post
 
-- Investors are investors: they maximise ROI. The goal is to not lose money for sure, but they ask for more: Not lose purchasing power or even better: winning money and increasing purchasing power and wealth
-- Inflation is what threatens the investor, it's the pressure that keeps investors on the lookout.
-- The goal of investors: ROI > inflation rate over a fixed period.
-- What is inflation? What is hyperinflation?
-- To avoid losing power, investors can look into different kind of investment opportunities
-- Let's limit ourselves to bonds and stocks
-- What are stocks? (high risk, high return, you might lose money)
-- What are bonds? (low risk, quite deterministic, the defined interest rate associated) description of the bond market with yield explication
-- so bonds yield > inflation rate to be interesting.
 - What would be the impact of hyperinflation?
 - Surprise and strong inflation would make investors stop investing in bonds with a lower yield than inflation. (they might invest  in riskier bonds, in stocks or other bond markets, not the US)
 - Supply/demand will lower bonds price, increasing their yield
@@ -41,12 +32,6 @@ BUT
 - As a country, you have to compete with the rest of the world concerning investment opportunities.
 
 - All right, but what could start hyperinflation? Reopening economy with low supply and slow growth + helicopter money.
-
-To recap:
-- inflation rate < bond yield
-- inflation rate up -> bond yield up -> bond price down -> investment rotate to bond market after the crash -> stock down (not all, companies selling stuff at higher price and banks at higher loan yield will make more money -> value stocks and good banks up)
-- inflation rate low or down -> bond yield can be low -> investment rotate to other possibilities like stock -> stock up (also companies can borrow cheaply -> growth stocks up)
-- inflation rate low, no need for high economic growth, no need for high debt, your country stays good for investment
 
 Ok, so what to look for?
 - inflation rate
@@ -82,11 +67,11 @@ I would already secure myself against a crash
 # HyperInflation and market dynamics: A primer
 Meh!
 
-I've been lurking in Reddit `r/options` lately and I stumbled upon this [post](https://www.reddit.com/r/options/comments/m4ffmx/long_commodities_short_bonds_protection_against/) predicting doomsday, hyperinflation, the crash of the bond market and subsequently, the stock market.
+I've been lurking in the [Reddit r/options](https://www.reddit.com/r/options/) lately and I stumbled upon this [post](https://www.reddit.com/r/options/comments/m4ffmx/long_commodities_short_bonds_protection_against/) predicting doomsday, hyperinflation, the crash of the bond market and subsequently, the stock market.
 
 I don't know if thoses hypotheses hold or not. But I saw an opportunity to fill some holes in my knowledge about what would trigger this doomsday crash. So, I decided to explore the subject and write a quick recap about this hyperinflation thing and why it matters.
 
-It is in no way state-of-the-art thinking nor perfectly accurate. The devil always hides in the details and this is not the aim of this post. Remember to do your own DD, apply what you learn, make your own prediction, observe what happens, learn from your mistakes and repeat!
+It is in no way state-of-the-art thinking nor perfectly accurate. The devil always hides in the details and this is not the aim of this post. On top of that, it took me quite a while to research and write this piece os it might feel a little bit late to be published. Remember to do your own DD, apply what you learn, make your own prediction, observe what happens, learn from your mistakes and repeat!
 
 Also, I'm quite new to the finance subject overall so take this post as a primer on market dynamics.
 
@@ -217,6 +202,8 @@ We are going to dive into the basics of the bond and stock market to understand 
 > What signal?
 >
 > [Google trend inflation](https://trends.google.com/trends/explore?date=today%205-y&geo=US&q=inflation)
+<!-- TODO: find links -->
+> [long term bonds yield (see the bonds paragraph to understand why)]() 
 
 ## Bonds and Stocks
 Bonds and stocks represent two very different way to invest. Bonds are loans and stocks are a pure investment. The main difference is that for bonds, you have a contract dictating how much return you will make when you buy it, and for stocks, you are mainly buying a promise that the company will grow and make more money.
@@ -252,56 +239,62 @@ Outside of those two shiny category, you have many other kind of stocks in every
 
 
 ### Bonds
-When you invest in bonds, things are very different.
+When you invest in bonds, things are very different. First, bonds are not only issued from corporations but also municipals, states and governments. Second, a bond is issued with more properties than stocks:
 
-First, bonds can not only be issued from corporations but also municipals, states and governments.
-Second, a bond is issued with the following properties:
+- The face value: the original price at which the bond is issued
+- The coupon rate (interest rate): Annual percentage of the face value paid to the bondholder. Can be fixed or variable.
+- Maturity date: the date at which the amount of borrowed money (Called "the principal" = the face value) is given back to the bondholder.
 
-- Face value: the price at which the bond is issued
-- The coupon rate (interest rate): Percentage per year of the face value paid to the bondholder. Can be fixed or variable.
-- Maturity date: the date at which the amount of borrowed money (Call the principal = the face value) is given back to the bondholder.
+Bonds are interesting because they lower the risk of losing money. Let's say one buys some bonds when they are issued:
 
-Bonds are interesting because they lower the risk of losing money. The usual flow for bonds is as follow:
+- One pays the face value of the bonds to acquire them.
+- One then receives a fixed-income equal to the coupon annual payment every year.
+- One gets back its money at the maturity date.
 
-- You pay the face value to buy the bonds when they are issued
-- You receive a fixed-income equal to the coupon rate every year.
-- You get back your money at the maturity date.
-
-Good, it reduces uncertainty but in exchange, bonds provide less potential ROI than stocks.
-
-Since bonds are predictable, you can easily compare them with the current economic situation. To be attractive, the coupon rate must be important enough relative to the economic situation and in particular, the inflation rate. But since bonds have a maturity date that can go be very long, people are wary of inflation variation in the future. This is why the expected inflation rate matters some much.
-
-Investors won't buy bonds if they think their interest rate is lower than what they expect inflation to be over the bonds validity period.
-
-On the other side, the one issuing bonds is borrowing money and would rather borrow at low interest. Those opposite incentives control supply and demands in the bond market.
+This is the exact dynamic of a loan. When one lends money, one expects to be fully reimbursed by the end of the loan and receive a little extra in the meantime.
 
 #### What happens after bonds are issued?
-The story does not stop here. If you buy a bond when it is issued, you are not stuck with it until the maturity date. The bond market is here so you can trade bonds after. At that point, bonds are competing with other bonds and more generally with other assets.
+After bonds are issued, they end up on the bond market where their price is subject to the usual market forces. Bonds are competing with eachother and more generally with other assets which means that their current price is not fixed and can fluctuate: this is why we give a different name to the price of the bond when it is issued (the face value). 
 
-Even though the face value of the bond has been fixed when it was emitted, its current price can fluctuate. This leads to a new notion: the yield.
+Now, because all the properties of the bonds are fixed (face value, coupon's rate and maturity date), but its price remains dynamic, it introduces a new notion: the yield.  
 
-The yield is the coupon's value that has been calculated relative to the face value of the bond. This one is fixed through time. The bond yield is the dynamic interest rate and is calculated like that:
+The bond yield can be seen as its dynamic interest rate and is calculated relatively to its current price:
 
-$$ yield = \frac{\text{annual coupon payment}}{\text{current bond price}}$$
+$$ \text{bond yield} = \frac{\text{annual coupon payment}}{\text{current bond price}}$$
 
-As a quick example, a bond with a face value of $1000 with a fixed interest rate of 5% leads to a total coupon of  50$ per year. if the price of the bonds decrease to 900$ the yield is now $\frac{50}{900} = 0.55 = 55%$
-The yield is by definition, inversely linked to the bond price: the yield increase, the bond price decrease and vice-versa.
+As a quick example, a bond with a face value of $1000 with a fixed coupon's rate of 5% per year leads to a total coupon annual payment of 50$. if the price of the bonds decrease to 900$ the yield is now $\frac{50}{900} = 0.55 = 55%$ which is higher than the original coupon's rate and makes the bond more interesting. Not only one would buy that bond at lower price, but one would also receives a higher annual interest rate relative to its investment. Also, if one would keep it until maturity date, one would still receive the full face (which is still $1000).
 
-Bonds yields are a good measure for investors because you can compare it directly to the inflation rate or your expected inflation rate for the period of time you want to hold onto it. Outside of special circumstance or external intervention bonds price should move as to satisify the following:
+> Sidenote: *By definition, the yield is inversely linked to the bond price: if the yield increase, the bond price decrease and vice-versa.*
+
+Bonds yields are a good measure for investors because you can compare it directly to the inflation rate or your expected inflation rate for the period of time you want to hold onto it. This means that the current inflation rate has a direct impact on bonds yield: Outside of any external intervention, supply and demands on bonds should move their price such that their yield satisify the following:
 
 $$ \text{yield} > \text{inflation rate} \Rightarrow \text{current price} < \frac{\text{coupon's value}}{\text{inflation rate}}$$
 
+So far so good. So what is the catch? 
+
+Bonds don't provide a high yield comapred to other potential assets and they still suffer from 2 kinds of risk.
+
 #### How to perceive bonds risk?
-So far we observed only one risk on bond price: the evolution of the inflation rate.
+The first risk is inflation. Since bonds are quite long term investment because of the low yield they provide. They are quite susceptible to expected inflation. As we've seen bonds yield will have to go up if inflation goes up because investors won't hold on bonds that make them lose some purchasing powers.
 
-But there is a second one: the risk that the borrower does not return the money at the maturity date or even can't pay the interest. We say that the bond default.
-It's rare to see a bond default before the maturity date because the coupon's value should not be very high. At maturity, the total principal is huge if the borrower as not grow enough, it might in trouble to reimburse the full amount.
-In most case, and when the economy is all right, the borrower will just restructure, or issue new bonds and everything is fine. But the risk still exists.
+This means that if you buy a bond and you plan to sell it, you better hope that the inflation rate will not increase. Because, first your real ROI will be lower and second, you will have to sell your bonds at a lower price. So investors spend some times trying to predict inflation rate to make sure they are buying bonds at a too high prices.
 
-To mitigate that risk, people came together and created rating agencies. Their goal is to rate bonds on their default risk. There is quite a lot of different grades and those grades are different between agencies but ultimately, the result is that bonds end up being either "investment grade" or "junk bonds".
+This is why a stabilized inflation rate is not dangerous to the open market. If it does not move, it does not impact bonds yield.
 
-The distinction has a big impact on bonds price because naturally, investors will want a higher interest rate for higher risk. If a company starts to struggle financially, its bond might be downgraded by rating agencies and if they happen to fall under the junk bonds umbrella, the market will react by asking for a higher yield and so, the bond price will fall.
-This is especially bad for those so-called zombies company. Zombies company are the ones that survive only thanks to their debt and make barely enough money to reimburse the coupon. Those companies are in real trouble if rates increase and so are very risky.
+This inflation risk is especially important for long-term bonds (>3 years until maturity date). Now for bonds that have their maturity date much closer, there is another risk: the borrower might not be able to return the principals on maturity date. We say that the bond default.
+
+It's rare to see a bond default before the maturity date because the coupon's annual payment should not be very high for the borrower. At maturity on the other hand, the total principal is huge. And if the borrower as not used the money in a sufficiently smart way to be able to grow enough and make enough money, it might be in trouble to reimburse the full amount.
+
+When the economy is all right and the company legit, the borrower will just  roll-over its debt to avoid defaulting its bonds. It just means issuing new bonds to be able to pay back previous bonds and keeps going. The risk is then pushed on the new bondholders. But this asked one question: how do you know that a company is legit?
+
+#### Rating agencies
+This is when rating agencies comes into the picture. Their goal is to rate bonds on their default risk. The rating agencies look at companies fundamentals and conclude on a grade. There is quite a lot of different grades and those grades are different between agencies but ultimately, those grades are separated into two categories: "investment grade" or "junk bonds".
+
+The distinction has a big impact on bonds price because naturally, investors will want a higher yield for a higher risk. If a company starts to struggle financially, its bond might be downgraded by rating agencies and if they happen to fall under the junk bonds umbrella, the market will react by asking for a higher yield and so, the bond price of that company will fall.
+
+This starts a domino effect for the company because now, issuing new bonds will needs a higher coupon's rate which adds increase the cost of borrow for the company and actually increase the risk of that company defaulting its bonds even higher. This is especially bad for companies called "zombies company". Zombies company are the ones struggling to survive, they usually make barely enough money to sustain its operation and pays its bondholders. And their outlook is not great (this is actually the main difference with a growth stocks, usually running on debt too, but with a highly expected success).
+
+Those zombie companies are in real trouble if rates increase and so are very risky.
 
 > Do the work:
 >
@@ -318,11 +311,12 @@ This is especially bad for those so-called zombies company. Zombies company are 
 
 
 ### The link between the bond and stock market
-Those 2 markets compete with each other to provide interesting assets to investors.
+Those 2 markets exists all around the world and compete with each others to provide interesting assets to investors. The important to keep in mind is that big investors (called whale) tend to keep in their portfolio both of those assets.
 
-<!--
-TODO: Investment rotations between the 2 markets
--->
+Yet, depending on the context, they will rotate part of their portfolio from one to the other regularly which can creates strong movements sometimes. It is always intersting to keep track of high level signals of those 2 markets to see when such rotation might happens.
+
+For example, right now (March 31th), the stock market is in the "longest bull market in history". If bonds yields keeps incresing, it will soon start to become an interesting asset for a rotation from stocks to bonds. (One might start to think that stocks will see a correction soon while bonds look attractive).
+
 
 ## Hyperinflation
 
@@ -330,6 +324,8 @@ Hyperinflation is a sudden and strong inflation rate increase. Concretely, if it
 It's never that quick but even if it takes a year it would be extremely difficult for many people to keep a decent life.
 
 ### Impact on the open market
+<!-- I need to add the "bind window", right after hyperinflation it's open bar to buy safe, long maturity date bonds -->
+
 As we've already seen, bonds yield (or the interest rate at issuance) must be higher than inflation to attract investors. But if the inflation rate increase rapidly, what you quickly see will be a demand for higher yields bonds and so existing bonds price will crash and stabilize at a new equilibrium satisfying the new demand for higher yields.
 
 But the impact does not stop here.
