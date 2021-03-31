@@ -79,18 +79,18 @@ I would already secure myself against a crash
 - So you better pick wisely your commodities-value stocks for some nice growth!
 - And short some wisely picked ETF and complex financial instrument to profit from those corrections just in case. -->
 
-# HyperInflation, doomsday and opportunities: A primer
+# HyperInflation and market dynamics: A primer
 Meh!
 
 I've been lurking in Reddit `r/options` lately and I stumbled upon this [post](https://www.reddit.com/r/options/comments/m4ffmx/long_commodities_short_bonds_protection_against/) predicting doomsday, hyperinflation, the crash of the bond market and subsequently, the stock market.
 
-I don't know if the hypotheses hold or not. On the other hand, being a little bit more knowledgeable about the underlying dynamics that would trigger this doomsday crash felt needed. So, I decided to explore the subject and write a quick recap about this hyperinflation thing and why it matters.
+I don't know if thoses hypotheses hold or not. But I saw an opportunity to fill some holes in my knowledge about what would trigger this doomsday crash. So, I decided to explore the subject and write a quick recap about this hyperinflation thing and why it matters.
 
-It is in no way state-of-the-art thinking nor perfectly accurate. The devil hides in the details and this is not the aim of this post. Remember to do your own DD, apply what you learn, make your own prediction, observe what happens, learn from your mistakes and repeat!
+It is in no way state-of-the-art thinking nor perfectly accurate. The devil always hides in the details and this is not the aim of this post. Remember to do your own DD, apply what you learn, make your own prediction, observe what happens, learn from your mistakes and repeat!
 
-Also, I'm quite new to the finance subject overall so take this post as a primer.
+Also, I'm quite new to the finance subject overall so take this post as a primer on market dynamics.
 
-> Obviously, this is not financial advice but only some educational material for apes.
+> Obviously, this is not financial advices and only some educational material.
 
 ## TLDR
 <!-- TODO -->
@@ -98,7 +98,9 @@ Also, I'm quite new to the finance subject overall so take this post as a primer
 ## A quick overview of the game
 Before diving into what is inflation and how it impacts investors, let's look at the game itself.
 
-We are playing the investment game. In this game, you have investors on one side and assets on the other. Investors try to make money by investing in those assets and assets try to attract investors money to grow. This game is played all around the world, 24h/7: it's a global economic competition and collaboration system.
+We are playing the investment game. In this game, you have investors on one side and assets on the other. Investors try to make money by investing in those assets and assets try to attract investors money so they can grow. 
+
+This game is played all around the world, 24h/7: it's a global economic competition and collaboration system.
 
 ### investors
 Investors plan is simple:
@@ -107,56 +109,69 @@ Investors plan is simple:
 - Wait
 - Profit (get back more money)
 
-The difficult part is in "picking the right asset". Investors have a nearly infinite amount of possible investments in this world: Housing, startup, stock, bonds, derivatives, art, etc. And, access to all the investment all around the world is at the tip of their fingers in real-time.
+The difficult part is in "picking the right asset". Investors have a nearly infinite amount of possible investments in this world: Housing, startup, stock, bonds, derivatives, art, crypto, NFTs, etc. you name it. And, access to all those investment all around the world is now at the fingertips and in real-time.
 
-So, anyone can be an investor. Al you need is the will to follow the simple plan. The good news is that you can be any kind of investors by controlling any of those 3 phases:
+So, anyone can be an investor. All one needs is the will to follow the simple plan. The good news is that one can adapt any part of it to fit one's own requirements:
 
-- The amount of your investment (from $0.01 to $1 Trillion).
-- The amount of time you are ready to let money in the asset (from 1 millisecond to a century).
-- The amount of risk you are ready to take (from risk-free assets to lottery ones).
+- The amount of the investment: from $0.01 to $1 Trillion.
+- The amount of time one is wish/must to let money in the asset: from 1 millisecond to a century.
+- The amount of risk one wish/must take: from risk-free assets to lottery ones.
 
-<!-- TODO: I don't like this part -->
-As an investor, all we have is our strategy and our model of the world. It's a tough game because we can lose it all and, by the end of the day, we still need to live in the real world which has a cost: the amount of money we need to maintain our way of life. If we go as far as wanting to live from it or even better increase our wealth, the pressure to perform in this game starts to be aggressive.
-
-We can measure our success with some simple math. As a rough first estimate, we can look at our return on investment (ROI):
+From the investor point of view, it is all about risk management to make money. Investors can measure raw success with some simple math. As a first estimate, we can look directly at our return on investment (ROI):
 
 $$ \text{ROI} = \frac{\text{Final value of the investment} - \text{Cost of the investment}}{\text{Cost of the investment}} $$
 
-Our goal: maximise the ROI.
+Once one decides how much one is willing to invest. From that pont it is good to consider a ROI goal: 
+- how much you want to make? 
+- How long are you ready to wait?
 
 #### Multiple kinds of investors
-<!-- TODO: Whale, pension funds, retail investors. Some notions like window dressing, rotations etc.  -->
+Depending on those previous requirements and goal, investors exist in every kind. I won't go into details but you might want to look how any of those behaves:
+
+- Institution
+- Pension funds: invest a lot, wait a lot, lower risk to maximum. Needs to rebalance portfiolio regularly to minize the risk (Beware of end of quarter!)
+- Funds: invest a lot, wait moderatly. Depending of their style they might be very risky or not. You must do your own work per fund to understands their behaviours
+- High frequency traders (market makers): Invest tiny amounts, very very fast, low risk. Their business is on the economy of scale.
+- Retail traders: you, me, everyone trading from home. Invest a very little comparing to other actors but are many which in our times, start to make a difference.
+
+What you want to look for with those different investors if their generic strategy or if there is any requirement by law on some of them. One concept I tend to emphasize is assets rotation (moving form one kind assets of to other assets).
+
+We will dig more later on, but as an example: because bonds price were going down and stocks price were going up for the past year. It was expeced to see assets rotation from stocks to bonds at the end of this month explaining part of sotck going down for the last 2 weeks of march.
 
 ### Assets
-On the other side, assets try to attract investors money. The need to satisfy any kind of investors spurs into reality any kind of assets: secure, risky, volatile, constant, expensive, cheap, etc. Any opportunity void will soon be filled.
+On the other side, assets try to attract investors money. The need to satisfy any kind of investors spurs into reality any kind of assets: secure, risky, volatile, constant, expensive, cheap, complex, etc. Any opportunity void will soon be filled by the open market.
 
-To attract investors, assets are designed to make a promise of a nice return to investors. Sometimes, the promise is strongly grounded in financial mechanics, sometimes it's just a pure promise, no ties attached.
+To attract investors, assets are designed to make a promise of a nice return. Sometimes, the promise is strongly grounded in financial mechanics (like bonds), sometimes it's just a pure promise, no ties attached (like stocks).
 
-Their prices in the open market are mainly driven by supply and demand. But it's not the only force that influences the market, another important one is inflation.
+Their prices in the open market are driven by multiple forces among is supply and demand but noy only. Another very important force is inflation.
 
 ## What is inflation?
 Inflation (and deflation) are words that refer to the rate of change in the price of "things". Understand "things" very broadly here: food, energy, house, stocks, bonds, ETF, etc. Anything that has a price.
 
 To get the inflation rate:
 
-- you look at the current price of things now: $p_t$.
-- You wait some time $\Delta t$.
-- You look again at those same prices $p_{t + \Delta t}$ and you calculate the ratio:
+- One look at the current price of things now: $p_t$.
+- One wait some time $\Delta t$.
+- One look again at those same prices $p_{t + \Delta t}$ and you calculate the ratio:
 
 $$\text{inflation rate} = R_{inf} = \frac{p_{t + \Delta t}}{p_t}$$
 
-- If you have $R_{inf} \gt 1$ we use the term inflation.
-- If you have $R_{inf} \lt 1$, we use the term deflation.
+- If $R_{inf} \gt 1$ we use the term inflation.
+- If $R_{inf} \lt 1$, we use the term deflation.
 
 Nothing more, nothing less.
 
 > *Sidenote: notice how it is similar to the investor simple plan*
 
-The inflation rate can be measured for anything and people indeed measure the inflation of everything. One inflation rate attracts more attention than the others: the inflation rate measured by the Consumer price index (CPI) https://en.wikipedia.org/wiki/Consumer_price_index. And people tend to focus on it because it is supposed to represent the cost of living for the lower and middle class (can be debated).
+The inflation rate can be measured for anything and people indeed measure the inflation of everything. Having a good way to measure inflation correctly is still a subject of heafty debate because it really depends on how one lives. But the one that is usually taken when people talk about inflation is the [Consumer price index (CPI) ](https://en.wikipedia.org/wiki/Consumer_price_index). 
 
-The problem is that this index is an average of many parts and the government can influence some of them quite directly which could hide actual inflation.
+People tend to focus on it because it is supposed to represent the cost of living for the urban lower and middle class. It contains a basket of goods one has to pay for when living in cities. If you live outside of cities, you want to look at the [Personal Consumption expenditures price index (PCEPI)](https://en.wikipedia.org/wiki/Personal_consumption_expenditures_price_index)
 
-Inflation is something that should be happening but at a moderate rate. As long as inflation fluctuates slowly, the economy can adapt smoothly and it should be fine. Problems arise when quick change happens (like hyperinflation or hyper deflation). Near-zero inflation or deflation is considered harmful too but for other reasons (signs of a worsening economy).
+> *Sidenote: The CPI is an average of different prices, because of that and the fact that governements can change prices thanks to different tax policies makes people are wary that it is not a very good signal. It is usually considered a lagging signal in the sense that it is probably the last one reacting to inflation.*
+
+Inflation in itself is not a problem, it is actually good when it is happening at a moderate rate. As long as inflation fluctuates slowly, the economy can adapt smoothly. Problems arise when quick change happens (like hyperinflation or hyper deflation). 
+
+> *Sidenote: Near-zero inflation or deflation is considered harmful for the economy but for other reasons (signs of a worsening economy in general).*
 
 > Do the work:
 >
@@ -167,27 +182,37 @@ Inflation is something that should be happening but at a moderate rate. As long 
 > What signal?
 >
 > [US CPI](https://fred.stlouisfed.org/series/FPCPITOTLZGUSA)
+> [US PCEPI](https://fred.stlouisfed.org/series/PCE)
 
 ### Impact on investors
-Inflation impacts directly investors because if things start to be more expensive, they need to earn even more money to keep what we call their "purchasing power". The purchasing power is the power to buy things. If $100 this year allows you to buy fewer things than $100 5 years ago, then you lost some purchasing power. Since inflation rate measure how prices change, it becomes the direct measure of how much investors need to grow their amount of money to keep their purchasing power:
+Inflation impacts directly investors because it lowers the value of money which impact what we call the "purchasing power". 
+
+The purchasing power is the power to buy things: If $100 this year allows you to buy fewer things than $100 5 years ago, then you lost some purchasing power. It matters directly to everyone because it is the link betwen money and reality. And since the inflation rate measure how prices change, it becomes the direct measure of how much investors need to grow their amount of money to keep their purchasing power:
 
 $$ \text{ROI} > \text{inflation rate} $$
 
-When people take into account inflation to compute numbers, they add the word "real". For example the real ROI is:
+This is why people tends to take inflation directly into account when computing returns or other measures. You can easily know when that happens because people add the word "real" before the measure. For example the real ROI is:
 
 $$ \text{real ROI} = \text{ROI} - \text{inflation rate}$$
 
-*sidenote: The actual investors benefit per year must be computed by taking into account other costs like taxes and the cost of living during that year*
+> *sidenote: The actual investors benefit per year must be computed by taking into account many other costs like taxes and the cost of living during that investment period*
 
-In a given period of the past, it is easy to compute the real ROI. But things start to be more complicated when we talk about the future. If you want to anticipate what will be your real ROI you now have two numbers to guess: your expected ROI and the expected inflation during that same period.
+### Impact on the open market
+The real ROI is easily computable when we look at the past. But things start to be more complicated when we talk about the future. If we want to anticipate what will be our real ROI on a given period we now have two numbers to guess for that period: 
 
-In this predictions realm, people like to confirm their bias (a psychological trait shared by the human species) so be wary of any humans being too sure about their predictions. It's even harder as the open market is considered [a second-order chaotic system](https://danielmiessler.com/blog/first-second-order-chaos/) and by definition is unpredictable.
+- The expected ROI
+- The expected inflation rate
 
-So we are stuck with statistics (oriented in the past), gut feeling, beliefs, reactive behaviours, etc. But those beliefs, when shared by many are a strong force that also impacts the open market because they create expectations. We don't know how many people that share an expectation is needed to influence the market but when it happens, the expectation becomes a self-fulfilling prophecy: If enough people want an asset to go up or down, it might very well happen.
+> *Sidenote: beware now, when you listen to any kind of forcasters, remember that the open market is considered to be [a second-order chaotic system](https://danielmiessler.com/blog/first-second-order-chaos/) and by definition is nearly unpredictable. 
+> And remember for yourself that one of the most pervasive and unavoidable bias of the human specie is the [confirmation bias](https://en.wikipedia.org/wiki/Confirmation_bias) among other biased emotions like [FUD](https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt) and [FOMO](https://en.wikipedia.org/wiki/Fear_of_missing_out)*
 
-Why I'm talking about that? Because expected inflation in particular is a very powerful force in the market and especially in the bond market.
+If we want to add more objectivity in there, the scientific method is the way to go with tools like statistics but for the future we are left with gut feeling, beliefs, reactive behaviours, etc. 
 
-We are going to dive into the basics of the bond and stock market to understand how those forces interact with each other. we leave out derivatives (options, futures, etc.) and any other markets to keep it simple but we keep looking at the world markets.
+Those beliefs, when shared by many are a strong force that also impacts the open market because they create expectations. Expectations when shared by enough people cane become a self-fulfilling prophecy: If enough people want an asset to go up or down, it will indeed happen.
+
+Why I'm talking about that? Because expected inflation in particular is a very powerful force in the open market and in particular the bond market as this one is more rigid and usually necessitate long investment periods.
+
+We are going to dive into the basics of the bond and stock market to understand how those forces interact with each other. We leave out of the picture financial derivatives (FD) (options, futures, etc.). We will mainly talk about the US open market but it is important to remember the assets in the US open market competes with other assets in other open market around the world  .
 
 > What signal?
 >
@@ -197,24 +222,20 @@ We are going to dive into the basics of the bond and stock market to understand 
 Bonds and stocks represent two very different way to invest. Bonds are loans and stocks are a pure investment. The main difference is that for bonds, you have a contract dictating how much return you will make when you buy it, and for stocks, you are mainly buying a promise that the company will grow and make more money.
 
 ### Stocks
-When you invest in stocks, you buy shares. It means you own a part of the company. The overall value of the company is represented by those share price and the amount of them. If the company makes a profit, it's good to have those shares because you will be paid some money owning them(dividend). Those shares will also become more attractive and by the supply/demand effect, the share price will increase.
+When you invest in stocks, you buy shares. It means you own a part of the company. The overall value of the company on the market (market cap) is represented by the sum of all those share price. 
 
-Those dividends are not certain, you might get any for many years (apple, amazon, etc.) but if the company is still growing anyway. You might not care as your goal could be to sell the shares you bought at a low price, at a high price.
-
-The attractiveness of stocks drives supply/demands and they all compete for investors money. Investors have to make their mind about how a stock is attractive or not and this point of view can wildly differ.
+A second benefit of buying those shares is that if the company is profitable, an investor can receive money regularly (dividens). Supply/demands and exectation of the company's performance are key forces that impact share prices. The more the company is attractive the more share price will increase.
 
 > What signal?
 >
 > - [Vanguard Total Stock Market ETF](https://finance.yahoo.com/quote/VTI)
 
 #### Growth stocks versus value stock
-To keep it simple:
+Besides your belief individual investors tends to end up in two categories: value or growth investors. To keep it simple, one bets on what we call "growth stocks" which have a high potential but needs a lot of investment and loans(with bonds) to realize it. The other one bets on so-called "value stocks" which seeks the opposite undervalued profitable companies. 
 
-- Growth stocks take loans to finance their growth (in the bond market)
-- Value stock on the other hand are undervalued assets.
+Both have a high potential, the first one is expected to grow very much and so its share price too. The other one is consideted undervalued and so should go through a positive correction of its share price in the future. For examples, Tesla is a growth stock and GME was a value stock (this case is interesting because it might transforms itself into a growth stocks!).
 
-Both have a high potential for 2 different reasons but one will suffer if rates hike: growth stocks.
-
+Outside of those two shiny category, you have many other kind of stocks in every industry: penny stocks (share price under 1$), zombie companies (hardly making it), etc. All of them contains different risks and attract different kind of investors.
 
 > Do the work:
 >
@@ -223,8 +244,12 @@ Both have a high potential for 2 different reasons but one will suffer if rates 
 
 > What signal?
 >
-> - value ETF
-> - growth ETFs
+> - [Nasdaq 100 index, 100 of the largest non-financial companies listed on the Nasdaq exchange](https://finance.yahoo.com/quote/%5ENDX?p=^NDX&.tsrc=fin-srch)
+> - [S&P 500, 500 large capitalization companies](https://finance.yahoo.com/quote/%5EGSPC?p=^GSPC&.tsrc=fin-srch)
+> - [Russel 2000, 2000 small capitalization companies](https://finance.yahoo.com/quote/%5ERUT?p=^RUT&.tsrc=fin-srch)
+> - [A value ETF (Vanguard)](https://finance.yahoo.com/quote/VTV?p=VTV&.tsrc=fin-srch)
+> - [A growth ETF (Vanguard)](https://finance.yahoo.com/quote/VUG?p=VUG&.tsrc=fin-srch)q
+
 
 ### Bonds
 When you invest in bonds, things are very different.
@@ -373,6 +398,8 @@ To do so, governments have a set of tools to improve their people life (outside 
 - Laws and Bills. Using the first 2, governments control a gigantic amount of money that they can redirect to different places in the economy. They usually are the only ones that can start tremendous investment which benefits society at large. They could also ban things, you might not know about it but [gold has already been completely controlled by the US at some point](https://en.wikipedia.org/wiki/Gold_Reserve_Act). They might decide to take control over other assets in the future...
 
 Governments impact the bond market because of their treasury bonds. Since those are risk-free, it gives a threshold to the market of what a "risk-free" interest rate is. As long as that rate stays above the inflation rate, those bonds are very interesting for investors seeking very low risk over a long period.
+
+*Side note: it is interesting to note that toot much borrowing from the government can also generate a [crisis](https://blog.independent.org/2019/12/16/how-excessive-federal-spending-sparked-a-liquidity-crisis/). In those thing it always needed to find the sweet spot.*
 
 > Do the work
 >
@@ -553,7 +580,7 @@ https://www.investopedia.com/terms/l/liquidity.asp
 
 > Do the work:
 > 
-> - [Gold Rserver Act](https://en.wikipedia.org/wiki/Gold_Reserve_Act)
+> - [Gold reserve act](https://en.wikipedia.org/wiki/Gold_Reserve_Act)
 
 ### The Obama stimulus and 2008-2009 bond case
 The bias bond market can be very difficult to predict because, in general, the market is not efficient and also because of this bias. The example of the Obama stimulus is a good example.
@@ -572,13 +599,6 @@ But remember, The FED could at any time, intervene to maintain yields low. At th
 > - [https://podcasts.apple.com/de/podcast/planet-money/id290783428?l=en&i=1000510534633](https://podcasts.apple.com/de/podcast/planet-money/id290783428?l=en&i=1000510534633)
 
 
-### The 2019 repo crisis case
-<!-- TODO -->
-
-> Do the work:
-> 
-> [Federal spending and the repo crisis](https://blog.independent.org/2019/12/16/how-excessive-federal-spending-sparked-a-liquidity-crisis/)
-
 ## Why are we talking about it now?
 And, as of March 19th, if we look at [last 20 years in price change](https://www.bls.gov/charts/consumer-price-index/consumer-price-index-by-category-line-chart.htm) we can see mainly three things:
 - The average inflation rate is around 2% even though it always fluctuates.
@@ -591,19 +611,22 @@ Exactly because the rate already increased while the economy was shut down and r
 
 The second problem is that we are in a casino market and we already see the effect with hedge funds being margin called and their rippled effect onto the banks:
 - Margin debt is high as f***
-- SPACs share way too many traits with the internet bubble
-- Everyone is a genius
+- SPACs and NFTs share way too many traits with the internet bubble
+- Everyone is a genius (people suffers risk-addiction)
 
 
 ### What should we do?
 
-The bullish case of the third stimulus: https://twitter.com/LynAldenContact/status/1370569377284812809
+I don't know but whatever you do, keep in mind that risk is all over the market.
 
-Buuuuuuuutttt
+On one side you could be bullish:
+- [Third stimulus only 3 months after the second](https://twitter.com/LynAldenContact/status/1370569377284812809)
+- [Infrastructure stimulus](https://twitter.com/DeItaone/status/1377062211634479104)
 
-this is short term, because of direct payment, we have CPI inflation coming at the door, rates will increase and so stock will fall.
+On the other side, it looks ready to burst:
+- [A consensus of implosion](https://zensecondlife.blogspot.com/2021/03/a-consensus-of-implosion.html)
 
-My anti-bet is on the current bubble which for me are SPACs. Those not yet making money won't be able to re-finance themselves and it will probably mean death.
+For me, we now are in a landmine growth territory. If you move forward securely, you should be allright for a while but don't step on a landmine or you lose a leg.
 
 > Do the work:
 >
