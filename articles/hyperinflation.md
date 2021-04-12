@@ -409,11 +409,13 @@ Central banks are the second pillar of today economy. While governments can gene
 
 Think about it twice. At any point in time, there are institutions that can buy as many things as they want just because the want to. Literally by adding a line in a database somewhere. This is the most powerful intervention that exist on the market and as we all know, with great power comes great responsability. This is why people invented and keep inventing ways of doing this intervention.
 
-**I would like to add a disclaimer right here! Economy is not a science (type 2 chaotic system). So even central banks around the world are not completely sure of what happens when they intervene.** To make it quick, the open amrket is a multi-player cooperative and competitive game with asymetric information all over the places played by humans that are completely irrational and no, irrationality is not averaged off! So no, the market is not efficient (at least, until information flows freely between all the players or irrational entities are removed from the game).
+**I would like to add a disclaimer right here! Economy is not a science (type 2 chaotic system). So even central banks around the world are not completely sure of what happens when they intervene.** To make it quick, the open market is a multi-player cooperative and competitive game with asymetric information all over the places played by humans that are completely irrational and no, irrationality is not averaged off! So no, the market is not efficient (at least, until information flows freely between all the players or irrational entities are removed from the game).
 
 How do they print money you ask? In the past it was the good old printer machine but nowadays it is mainly done on the bond market. Central banks can "monetize debt" which means buying T-bonds. They can also decide to buy any other bonds too.
 
-Why they do that? They do that because they expect their intervention to help their economy achieve some goals. In the US case, you can check the [FED press release](https://www.federalreserve.gov/newsevents/pressreleases.htm) to keep an eye on its objectives and how it plan to achieve them.
+Why they do that? They do that because they expect their intervention to help their economy achieve some goals. In the US case, you can check the [FED press release](https://www.federalreserve.gov/newsevents/pressreleases.htm) to keep an eye on its objectives and how it plan to achieve them. 
+
+*sidenote: those press release are sometimes called opem mouth operations (mirroring the open market operations name). People called them like that because it impact global expectations about the future greatly.*
 
 > What signal?
 >
@@ -428,9 +430,21 @@ I already talked about T-bonds and their impact on the bond market as a treshold
 
 In the US, the most important interest rates (called key rates) are the [federal fund rate](https://www.investopedia.com/terms/f/federalfundsrate.asp) and [the discount rate](https://www.investopedia.com/terms/d/discountrate.asp):
 
-- The federal fund rate is is the amount of interest central private banks charge each-other when lending their excess reserves. This impact all loans across the board as banks will increase their interest rates depending on this one (which impact the cost of credits for the borrower).
+##### The federal fund rate
+It is not a real rate but only a target (objectif) fixed by the Federal reserve. It is defined for all interbank interest rates. The goal of the FED is to bring the effective fund rate (average of all interbank interest rates) as close as possible to its target. It does so using open market/mouth operations and controlling other rates. This is the mother of all rate as the effective fund rate impact how banks make loans and so define a minimal interest rate for any other loans.
 
-- The discount rate is the amount of interest central banks charge private banks for short-term loans. When short-term loans can't borrow money from other private banks, they start to ask their central banks. Acting on it, will either incentivize banks to borrow from the central bank or not. This impact the global money supply on the market as central banks are the only ones creating/destroying money.
+![Fed fund rate](https://fred.stlouisfed.org/graph/fredgraph.png?g=D3Ii)
+
+The problem as we see in this graph, is that the FED tends to be reactionary to the efffective fund rate. Meaning that the FED does not announce a new FED fund rate which clash with the effective one, it usually move the rate before it talks.
+
+
+##### The discount rate
+It is the interest rate central banks charge private banks for short-term loans. When private banks can't borrow money from other private banks (supply problem, loan too big), they start to ask their central banks. The interbank rate has to be lower to it as banks could then just makes loan to the central bank instead of other banks. So it will either incentivize banks to borrow from the central bank or not. This impact the global money supply on the market as central banks are the only ones creating/destroying money.
+
+##### The interest rate of excess reserves (IOER) 
+It is the rate the FED pays other banks for their excess reserve. The excess reserve is the amount the keep in their reserve above what is needed by regulation. By increasing it, banks are incentivized to keep more money in bank reducing the money supply, slowing down their lending dynamic.
+
+![discount rate and IOER](https://fred.stlouisfed.org/graph/fredgraph.png?g=D3J5)
 
 This is why those FED meeting are so important, their decisions on those meeting impact the whole economy at once. they will mention any rate change, provide and update their forecast for the coming years but also announce if they plan some [(called open market operations, OMO)](https://www.federalreserve.gov/monetarypolicy/openmarket.htm).
 
@@ -455,6 +469,50 @@ There exist an infinite number of variations but those have the strongest impact
 >
 > [Money printing](https://twitter.com/SahilBloom/status/1280507304136318986)
 
+### The FED graph
+<div class="stockmouton-data" style="display:none; width:1000px; margin-left:-150px;">
+source,target,type,position
+
+FED, IOER, set, 0 0
+
+FED, fund rate target, set, none
+
+FED, open mouth operations, do, none
+
+FED, open market operations, do, none
+
+FED, discount rate, set, none
+
+IOER, interbank loans supply, impact-, none
+
+fund rate target, market expectations, impact, none
+
+discount rate, effective fund rate, impact+, none
+
+open mouth operations, market expectations, impact, none
+
+open market operations, buy bonds, do, none
+
+open market operations, sell bonds, do, none
+
+interbank loans supply, effective fund rate, impact-, none
+
+market expectations, bonds yields, impact, none
+
+buy bonds, bonds yields, impact-, none
+
+sell bonds, bonds yields, impact+, none
+
+bonds yields, effective fund rate, impact+, none
+
+bonds yields, other interest rates, impact+, none
+
+effective fund rate, other interest rates, impact+, none
+
+other interest rates, economic growth, impact-, none
+
+other interest rates, inflation rate, impact+, none
+</div>
 
 ## Past events you might want to know
 
@@ -539,8 +597,8 @@ y7t6gt
                     -> depending on the winner, more or fewer bond investors rotate in or out (2008 crisis)
 
 <!-- Third case: expected inflation rate increase ahead of inflation rate [MIGHT HAPPEN SOON] -->
-<div class="stockmouton-data" style="display:none">
-source,target,type
+<div class="stockmouton-data" style="display:none; width:1000px; margin-left:-150px;">
+source,target,type,position
 
 Reopening the economy (supply has decrease) + stimulus with direct payment, governement increase debt, positif
 
@@ -572,8 +630,8 @@ FED announce QE or YCC, reverse the dynamic, positif
 </div>                    
 
 <!-- Fourth case: unexpected hyperinflation -->
-<div class="stockmouton-data" style="display:none">
-source,target,type
+<div class="stockmouton-data" style="display:none; width:1000px; margin-left:-150px;">
+source,target,type,position
 
 Hyperinflation happens: drastic price increase,the open market enters into short-term reactionnary behaviour, positif
 
@@ -585,8 +643,8 @@ the open market enters into short-term reactionnary behaviour, Commodities explo
 </div>
 
 <!-- Detailed bond dynamics -->
-<div class="stockmouton-data" style="display:none">
-source,target,type
+<div class="stockmouton-data" style="display:none; width:1000px; margin-left:-150px;">
+source,target,type,position
 
 Expected inflation rise,bonds yield expected to increase,positif
 
@@ -676,12 +734,14 @@ If you are familiar with complex investment vehicles, you could look into those 
 
 > Do the work:
 >
-> [investment idea](https://twitter.com/LynAldenContact/status/1358948694788341762)
-> [ARK fund trades](https://cathiesark.com/ark-funds-combined/trades)
-> [Berkshire Hathaway Portfolio Tracker](https://www.cnbc.com/berkshire-hathaway-portfolio/)
+> - [investment idea](https://twitter.com/LynAldenContact/status/1358948694788341762)
+> - [ARK fund trades](https://cathiesark.com/ark-funds-combined/trades)
+> - [Berkshire Hathaway Portfolio Tracker](https://www.cnbc.com/berkshire-hathaway-portfolio/)
 
 ## Anything else?
 This is not the time to be leveraged, this is not the time to risk it all! Don't YOLO now! Don't be like HWANG!
+
+https://www.currentmarketvaluation.com/models/buffett-indicator.php
 
 You can find a dashboard all of the metric I've been talking bout [here](../hyperinflation)!
 

@@ -23,21 +23,13 @@ drag = simulation => {
         .on("end", dragended);
 }
 
-function linkArc(d) {
-    const r = Math.hypot(d.target.x - d.source.x, d.target.y - d.source.y);
-    return `
-        M ${d.source.x} ${d.source.y}
-        A ${r} ${r} 0 0 1 ${d.target.x} ${d.target.y}
-    `;
-}
-
-function chart(d3, data, types, nodeRadius, color, drag, linkArc){
+function chart(d3, data, types, nodeRadius, color, drag){
 
     const links = data.links;
     const nodes = data.nodes;
 
-    viewBoxWidth = 700
-    viewBoxHeight = 700
+    viewBoxWidth = 1000
+    viewBoxHeight = 500
     centerX = 0
     centerY = 0
   
@@ -47,9 +39,9 @@ function chart(d3, data, types, nodeRadius, color, drag, linkArc){
         // Nodes repulse each other
         .force("charge", d3.forceManyBody().strength(-10*nodeRadius))
         // And can't overlap
-        .force('collide',d3.forceCollide(1*nodeRadius))
+        .force('collide',d3.forceCollide(1.5*nodeRadius))
         // Add a "spring" force to links
-        .force("link", d3.forceLink(links).id(d => d.id).distance(2.5*nodeRadius));
+        .force("link", d3.forceLink(links).id(d => d.id).distance(2*nodeRadius));
   
     const svg = d3.create("svg")
         // .attr("width", 360)
@@ -63,8 +55,8 @@ function chart(d3, data, types, nodeRadius, color, drag, linkArc){
       .join("marker")
         .attr("id", d => `arrow-${d}`)
         .attr("viewBox", `0 -${nodeRadius} ${2*nodeRadius} ${2*nodeRadius}`)
-        .attr("refX", 5.2*nodeRadius)
-        .attr("refY", -0.8*nodeRadius)
+        .attr("refX", 0)
+        .attr("refY", 0)
         // .attr("markerWidth", 6)
         // .attr("markerHeight", 6)
         .attr("orient", "auto-start-reverse")
@@ -80,12 +72,16 @@ function chart(d3, data, types, nodeRadius, color, drag, linkArc){
       .data(nodes)
       .join("g")
         .attr("id", d => `text-${d.id}`)
+        // .attr("transform", d => {
+        //   `translate(${nodeRadius * d.index},${nodeRadius * d.index})`
+        // })
         .call(drag(simulation));
+
 
     node.append("circle").lower()
         .attr("stroke", "black")
-        .attr("stroke-width", 1)
-        .attr("fill", "cyan")
+        .attr("stroke-width", 0)
+        .attr("fill", color("node"))
         .attr("r", nodeRadius);
     
     const link = svg.append("g")
@@ -95,16 +91,28 @@ function chart(d3, data, types, nodeRadius, color, drag, linkArc){
       .data(links)
       .join("path")
         .attr("stroke", d => color(d.type))
-        .attr("stroke-dashoffset", -nodeRadius)
         .attr("marker-end", d => `url(#arrow-${d.type})`);
 
     simulation.on("tick", () => {
-      link.attr("d", linkArc);
-      link.attr("stroke-dasharray", d => {
-        const r = Math.hypot(d.target.x - d.source.x, d.target.y - d.source.y);
-        return r  - 2 * nodeRadius
+      node.attr("transform", d => {
+        if (d.fixed === true) {
+          return `translate(${d.position[0]},${d.position[1]})`
+        } else {
+          return `translate(${d.x},${d.y})`
+        }
       });
-      node.attr("transform", d => `translate(${d.x},${d.y})`);
+
+      link.attr("d", d => {
+        const r = Math.hypot(d.target.x - d.source.x, d.target.y - d.source.y);
+        const unit = [
+          (d.target.x - d.source.x) / r, 
+          (d.target.y - d.source.y) / r
+        ]
+        return `
+            M ${d.source.x + nodeRadius * unit[0]} ${d.source.y + nodeRadius * unit[1]}
+            L ${d.target.x - nodeRadius * unit[0]} ${d.target.y - nodeRadius * unit[1]}
+        `;
+      });
     });
   
     return svg.node();
@@ -119,6 +127,7 @@ htmlNodes.forEach(htmlNode => {
             "source": l.source.trim(),
             "target": l.target.trim(),
             "type": l.type.trim(),
+            "position": l.position.trim().split(" "),
         }
     })
 
@@ -143,10 +152,10 @@ htmlNodes.forEach(htmlNode => {
     })
     data = ({nodes, links})
 
-    color = d3.scaleOrdinal(types, d3.schemeCategory10)
-    nodeRadius = 50
+    color = d3.scaleOrdinal(types, d3.schemePastel1)
+    nodeRadius = 40
 
-    svgNode = chart(d3, data, types, nodeRadius, color, drag, linkArc)
+    svgNode = chart(d3, data, types, nodeRadius, color, drag)
     htmlNode.innerHTML = ""
     htmlNode.append(svgNode)
     htmlNode.style.display = ""
