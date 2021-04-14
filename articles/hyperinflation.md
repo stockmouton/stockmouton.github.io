@@ -155,7 +155,7 @@ To glance at it quickly, there 3 forces basically:
 - Cost of production: all the cost one must pay to make thing real: labour wages, raw materials cost, etc.)
 - Cost of distribution: all the cost one must pay to bring the product to the people and make the people aware of it: delivery cost, marketing, communication, etc.)
 - Other costs like insurance etc.
-- Finally, supply and demand: how much people want that thing compared to how many one can produce of that thing. A good example are all apple products.
+- Finally, supply and demand: how much people want that thing compared to how many one can be produced.
 
 Price changes because one of those factors is impacted. A sudden high demand would lead to what we call a demand-pool effect, increasing prices. A drop of supply would lead to the same outcome (called a cost-push). Tax cuts or hikes can raises or lowers cost of production and distribution. Insurance risk can increase, etc.
 
@@ -544,6 +544,7 @@ Any idea, what assets could be really interesting to hold en masse in the coming
 > - [](https://www.investopedia.com/articles/forex-currencies/092316/how-us-dollar-became-worlds-reserve-currency.asp)
 
 ### The Obama stimulus and 2008-2009 bond case
+
 In 2009, post housing crisis, Obama injected 800 Billion into the economy (It was big at the time). Those 800 billions were created thanks to tax cuts and treasury bonds creation. As expected the debt increase drastically and people were scared that all those T-bonds would [make the bond market crash](https://money.cnn.com/2009/01/20/markets/bondcenter/credit/index.htm). [Some big bonds investors](https://business.time.com/2011/03/10/the-worlds-largest-bond-fund-gets-out-of-us-debt-good-news/) were even advocating that the crash was upton them and started selling all their bonds. It could have been the start of a self-fulfilling prophecy.
 
 But it did not happens. Why is that?
@@ -559,6 +560,26 @@ An other reason is inflation expectation. The Obama government stimulus succeede
 > - [https://podcasts.apple.com/de/podcast/planet-money/id290783428?l=en&i=1000510534633](https://podcasts.apple.com/de/podcast/planet-money/id290783428?l=en&i=1000510534633)
 > - [Bill gross bad bond bet](https://money.cnn.com/2011/08/30/markets/bondcenter/bonds_pimco_bill_gross/index.htm)
 
+
+### Venezuela hyperinflation
+Sadly for Venezuela we can look at a case happening right now (the scale is logarithmic!):
+
+![Value of 1 US dollar Venezuelan Bolivian Fuertes](https://commons.wikimedia.org/wiki/File:Time_BsF_would_take_to_lose_90_percent_of_its_value.png#/media/File:Time_BsF_would_take_to_lose_90_percent_of_its_value.png)
+
+As we can see, the money started to lose value aggressively in 2016. It is common to hear about the problem of printing money leading to this but it is not the prime factor. As we've seen price are mainly affected by the supply/demand ratio and the problem with Venezuela is that it is a country massively importing everything. The only thing Venezuela export is its oil.
+
+You might already understand what happens. Since Venezuela is exporting massively its oil to import massively everything else, you have the definition of an Achilles heel. If oil price starts to decrease, Venezuela must sell more oil to reach equilibrum again. This is not necessarily a problem when you are the country with the most oil on earth ... normally.
+
+But because of corruption and other political problems, Venezuela never invested enough in its oil production system. So, when oil price saw a sudden decrease of 50% in 2014 the country struggle to keep pace.
+
+Soon enough, it couldn't import as many as things as before and nearly all supplies started to decrease drastically too. But since the population did not change (and so demand did not change), Inflation started naturally to kicks in: when supplys id reduced, the natural way to restrict the population consumption is the increase of price. And even if you are a seller that would rather not too, you yourself need to eat too and to keep your purchasing power, you will have to sell at a higher price too.
+
+Inflation kicks in and situation did not improve at all. At this point, the population starts a revolte and government are pressured to make the situation nicer. This is when they start to print money and use helicopter money to give it to the poeple. But at that point the problem does not come from a lack of demand and over-supply, it is the opposite: under-supply and no way to increase it so adding money did not solve the problem and actually made it worse.
+
+
+> Do the work:
+>
+> - [Hyperinflation in Venezuela](https://en.wikipedia.org/wiki/Hyperinflation_in_Venezuela)
 
 ## Open market dynamics summary
 https://twitter.com/Newsquawk/status/1380076368675942400
@@ -673,8 +694,6 @@ An event should math the light,depending on the ecosystem;it might start s bond 
 </div>
 
 
-
-
 When you add direct payment:
 
 - https://twitter.com/BurryArchive/status/1366550818716078080/photo/1
@@ -687,32 +706,29 @@ When you add direct payment:
 > - [Effect of QE and QE + fiscal spending](https://twitter.com/LynAldenContact/status/1358067930286743552)
 
 ## Why are we talking about it now?
-<!-- TODO: finish this part
-- Reopening the economy
-- Existing inflation
-- bond yield increase
+You might now but people are talking [about inflation now](https://trends.google.com/trends/explore?date=all&geo=US&q=inflation), why?
 
-- Where is the money?
--->
-https://www.thebalance.com/what-is-hyperinflation-definition-causes-and-examples-3306097
-- printing money (stimulus) and demand-pull (reopening the economy) are both here. One has already been quite hot and the other one is about to bu unleashed.
+For two reasons:
+- The first one is the fact that because of Covid, supply has been naturally reduced to follow the reducing demand. Now that we are about to reopen economy, it might very well create a short period of high-demand facing a quite low-supply.
+- The second one, is coming from people that believe that stimulus + direct payment influence inflation. As we've seen, this is not a good argument. On the other hand, it does impact expected inflation which could impact bond yields on the short term too.
 
 And, as of March 19th, if we look at [last 20 years in price change](https://www.bls.gov/charts/consumer-price-index/consumer-price-index-by-category-line-chart.htm) we can see mainly three things:
 - The average inflation rate is around 2% even though it always fluctuates.
 - Inflation increased sharply before the housing crisis and sharply decrease during and shortly after.
 - The COVID, on the other hand, Literally froze prices (the rate went down to 0) and it's starting to increase again.
 
-So, why do people are talking [about inflation now](https://trends.google.com/trends/explore?date=all&geo=US&q=inflation)? Why do we see more information about hyperinflation online?
-
 Exactly because the rate already increased while the economy was shut down and reopening the economy might be the match that can light the hyperinflation rocket.
+
+
+
+
+### What does it tell me?
 
 The second problem is that we are in a casino market and we already see the effect with hedge funds being margin called and their rippled effect onto the banks:
 - Margin debt is high as f***
 - SPACs and NFTs share way too many traits with the internet bubble
 - Everyone is a genius (people suffers risk-addiction)
 
-
-### What should we do?
 I don't know but whatever you do, keep in mind that risk is all over the market.
 
 On one side you could be bullish:
