@@ -33,18 +33,21 @@ I've been lurking in the [Reddit r/options](https://www.reddit.com/r/options/) l
 
 I don't know if thoses hypotheses hold or not. But I saw an opportunity to fill some holes in my knowledge about what would trigger this doomsday crash. So, I decided to explore the subject and write a quick recap about this hyperinflation thing and why it matters.
 
-It is in no way state-of-the-art thinking nor perfectly accurate. The devil always hides in the details and this is not the aim of this post. On top of that, it took me quite a while to research and write this piece os it might feel a little bit late to be published. Remember to do your own DD, apply what you learn, make your own prediction, observe what happens, learn from your mistakes and repeat!
+It is in no way state-of-the-art thinking nor perfectly accurate. The devil always hides in the details and this is not the aim of this post. On top of that, it took me quite a while to do the research, learn and finally write this piece. If it feels like you would have rather read it a month ago, I feel you my friend, I do too...
 
-Also, I'm quite new to the finance subject overall so take this post as a primer on market dynamics.
+Anyway, remember to do your own DD, apply what you learn, make your own prediction, observe what happens, learn from your mistakes and repeat!
 
 > Obviously, this is not financial advices and only some educational material.
 
 ## TLDR
-Inflation rate (and expected inflation) will rise, Bonds yield will increase, bonds market will crash (hopefully in a kind of controlled manner), a massive amount of investment will rotate in other assets like stocks and crypto. Where though?
-Some good candidates are the company supported by the current government infrastructure plan. Some bad candidates are zombies companies, shady chinese stocks and SPACs far away from rentability. One might want to diversify with some crypto too (on a longer term maybe).
-Anyway, it's not the time to YOLO as the market will probably be shaken overall and so, having a diversified portfolio and an eye on stock market to be able to react seems the best possible behaviours.
+Expected inflation and inflation will rise but should be transient as the FOMC said (AMinly because of the surge in demand when the economy reopens). This means that we are going to be in a transient dynamic for the end of the year. Bonds yield will probably increase which might create a small bond market crash (hopefully in a controlled manner), a massive amount of investment will rotate in other assets like stocks and crypto for a while.
+In the short term any company selling goods, loans or having strong fundamentals should see a good run, on the other hand risky ones functionning on high interest debts will have to survive in those troubled times. 
+After a while, inflation will get back to its 2% target, and economy should boom again. 
+The ramining question is: what will be the size of the correction? Probably big because of how fast the margin debt is increasing which hints as bubbles and an overall casino market.
 
-And to keep an eye on the market, just look at our [hyperinflation dashboard](../hyperinflation)
+To conclude,  it's not the time to YOLO as the market will probably be shaken overall and so, having a diversified portfolio and an eye on stock market to be able to react seems the best possible behaviours in the coming month.
+
+To do so, you can look at this [hyperinflation dashboard](../hyperinflation)
 
 ## A quick overview of the game
 Before diving into what is inflation and how it impacts investors, let's look at the game itself.
@@ -60,7 +63,7 @@ Investors plan is simple:
 - Wait
 - Profit (get back more money)
 
-The difficult part is in "picking the right assets". Investors have a nearly infinite amount of possible investments in this world: Housing, startup, stock, bonds, derivatives, art, crypto, NFTs, etc. you name it. And, access to all those investment around the world has never been so easy.
+The difficult part is in "picking the right assets". Investors have a nearly infinite amount of possible investments in this world: Housing, startup, stock, bonds, derivatives, art, crypto, NFTs, etc. you name it. And, access to all those investment has never been so easy.
 
 So, anyone can be an investor. All one needs is the will to follow the simple plan. The good news is that one can adapt any part of it to fit one's own requirements:
 
@@ -68,35 +71,35 @@ So, anyone can be an investor. All one needs is the will to follow the simple pl
 - The amount of time one wish to/must let money in the asset: from 1 millisecond to a century.
 - The amount of risk one wish/must take: from risk-free assets to lottery ones.
 
-To track its success the investor can measure (as a gross estimate) his return on investment (ROI):
+To track its success, the investor can easily measure (as a gross estimate) his return on investment (ROI):
 
 $$ \text{ROI} = \frac{\text{Final value of the investment} - \text{Cost of the investment}}{\text{Cost of the investment}} $$
 
 
-Once one decides how much one is willing to invest. From that pont it is good to consider a ROI goal:
+Once one decides how much one is willing to invest, it is good to define a ROI goal:
 
 - how much you want to make?
 - How long are you ready to wait?
 
 #### Multiple kinds of investors
-Depending on those previous requirements and goal, investors exist in every kind. I won't go into details but you might want to look how any of those behaves:
+Depending on those previous requirements and goals, investors exist in every kind. I won't go into details but you might want to look how any of those behave:
 
-<!-- - Institution TODO -->
+- Central banks: tend to buy bonds tand hold until death? No risk whatsoever because it creates money.
 - Pension funds: invest a lot, wait a lot, lower risk to maximum. Needs to rebalance portfiolio regularly to minize the risk (Beware of end of quarter!)
 - Other Funds (mutual, etf, familly office, etc.): invest a lot, wait moderatly. Depending of their style they might be very risky or not. You must do your own work per fund to understands their behaviours
-- High frequency traders (market makers): Invest tiny amounts, very very fast, low risk. They are making money by helping the market more than by betting inside of it.
-- Retail traders: you, me, everyone trading from home. Invest very little comparing to other actors but are present in a much bigger number. So much that it definitely starts to make a difference.
+- High frequency traders (market makers): Invest tiny amounts, very very fast, low risk. They are making money by helping the market to its job more than by betting inside of it.
+- Retail traders: you, me, everyone trading from home. Invest very little comparing to other actors but are present in a much bigger number. So much now, that it definitely starts to make a difference (thanks to how fast information propagate).
 
-What you want to look for with those different investors is their generic strategy and to which requirements they are bound by law/contracts. For example, pension funds have to keep a certain level of allocation or risks between bonds and stocks with only minor adjustment. 
+What you want to look for with those different investors is their generic strategy and to which requirements they are bound by law/contracts. For example, pension funds have to keep a certain level of allocation or risks between bonds and stocks with only minor adjustment along the way. 
 
-One concept that investors tend to follow is "investment rotation". As the name suggest, it is when investors "rotate" some investment from one asset to some others. There are many reasons for that ([window dressing](https://www.investopedia.com/terms/w/windowdressing.asp), [portfolio rebalancing](https://www.investopedia.com/terms/r/rebalancing.asp)) but as an example, we can look at the end of the first quarter of 2021: because bonds price were going down and stocks price were going up since the pandemic crash. It was expeced to see assets rotation from stocks to bonds at the end of march.
+One concept that investors tend to follow is "investment rotation". As the name suggest, it is when investors "rotate" some investment from one asset to some others. There are many reasons for that ([window dressing](https://www.investopedia.com/terms/w/windowdressing.asp), [portfolio rebalancing](https://www.investopedia.com/terms/r/rebalancing.asp), etc.) but as an example, we can look at the end of the first quarter of 2021: because bonds price were going down and stocks price were going up since the pandemic crash. It was expeced to see assets rotation from stocks to bonds at the end of march.
 
 ### Assets
-On the other side, assets try to attract investors money. This a prolific area with a lot of creativity, new kind of assets are created all the time: the need to satisfy any kind of investors spurs into reality any kind of assets, secure, risky, volatile, constant, expensive, cheap, complex, etc. 
+On the other side, assets try to attract investors money. This is a prolific area with a lot of creativity, new kind of assets are created all the time: the need to satisfy any kind of investors spurs into reality any kind of assets, secure, risky, volatile, constant, expensive, cheap, complex, etc. 
 
 The way they attract investors is by making a promise. Mainly, a promise of a juicy ROI or low risk. Some assets are backed with strong fundamentals and financial mechanics (like bonds), sometimes it's just a pure promise, no ties attached (like SPACs).
 
-Their prices in the open market are driven by multiple forces among which is supply and demand but noy only. Another very important force is inflation.
+Their prices in the open market are driven by multiple forces among which is supply and demand but not only. Another very important force is inflation.
 
 ## What is inflation?
 Inflation (and deflation) are words that refer to the rate of change in the price of "things". Understand "things" very broadly here: food, energy, house, stocks, bonds, ETF, etc. Anything that has a price.
@@ -104,9 +107,9 @@ Inflation (and deflation) are words that refer to the rate of change in the pric
 To get the inflation rate of a thing:
 
 - One look at the current price of it at a time $t$: $p_t$.
-- One wait some time $\Delta t$.
-- One look again at those same prices $p_{t + \Delta t}$.
-- Finally, you calculate the ratio as follow:
+- One wait some time: $\Delta t$.
+- One look again at those same prices: $p_{t + \Delta t}$.
+- Finally, one calculates the ratio as follow:
 
 $$\text{inflation rate} = R_i = \frac{p_{t + \Delta t} - p_t}{p_t}$$
 
@@ -118,20 +121,20 @@ Nothing more, nothing less.
 
 > *Sidenote: notice how it is similar to the investor simple plan and the ROI formula*
 
-The inflation rate can be measured for anything and people indeed measure the inflation of everything. Having a good way to measure inflation correctly is still a subject of heafty debate because it really depends on how one lives. But the one that is usually taken when people talk about inflation is the [Consumer price index (CPI) ](https://en.wikipedia.org/wiki/Consumer_price_index).
+The inflation rate can be measured for anything and people indeed measure the inflation of everything. Having a good way to measure inflation correctly is still a subject of heafty debate because it really depends on how one lives. But they are a few measure considered as good proxies. 
 
-People tend to focus on it because it is supposed to represent the cost of living for the urban lower and middle class. It contains a basket of goods one has to pay for when living in cities. If you live outside of cities, you want to look at one of its variation: the [Personal Consumption expenditures price index (PCEPI)](https://en.wikipedia.org/wiki/Personal_consumption_expenditures_price_index)
+The first one is the [Consumer price index (CPI) ](https://en.wikipedia.org/wiki/Consumer_price_index). People tend to focus on it because it is supposed to represent the cost of living for the urban lower and middle class. It contains a basket of goods one has to pay for when living in cities. If you live outside of cities, you want to look at one of its variation like the [Personal Consumption expenditures price index (PCEPI)](https://en.wikipedia.org/wiki/Personal_consumption_expenditures_price_index)
+
+> *Sidenote: The CPI is an average of different prices which shoudl represent the average expenditure fo a urban family. IT does not contains inflation for housing or the open market. Because of that people are wary that it is not a very good signal for actual inflation. On top of that, it is usually considered a lagging signal in the sense that it is a measure about the past and not the present.*
 
 An other interesting variation is the [core inflation rate](https://fred.stlouisfed.org/series/CPILFESL). It is the CPI (or the PCEPI) without food and energy which varies a lot (too volatile). For that reason, it is better to detect trends.
-
-> *Sidenote: The CPI is an average of different prices, because of that and the fact that governements can change prices thanks to different tax policies makes people are wary that it is not a very good signal. It is usually considered a lagging signal in the sense that it is probably the last one reacting to inflation.*
 
 The CPI is only useful from the point of view of a consumer. This is why there exist an other one for the point of view of producer: the [Producer Price Index(PPI)](https://en.wikipedia.org/wiki/Producer_price_index).
 
 ### Ok, what about it?
-Inflation in itself is not a problem, it is actually good when it is happening at a moderate rate: as long as it fluctuates slowly with an obivous trend, the economy can adapt smoothly and its impact is not very important on the economy. Problems arise when quick change happens (like hyperinflation or hyper deflation).
+Inflation in itself is not a problem, it is actually good when it is happening at a moderate rate: as long as it fluctuates slowly with an obivous trend, the economy can adapt smoothly and its impact is not very important. Problems arise when quick change happens (like hyperinflation or hyper deflation).
 
-> *Sidenote: Near-zero inflation or deflation is considered harmful for the economy because it is believed that they are signs of a worsening economy).*
+> *Sidenote: Near-zero inflation or deflation is also considered harmful because it is believed that they are signs of a worsening economy).*
 
 > Do the work:
 >
@@ -146,23 +149,24 @@ Inflation in itself is not a problem, it is actually good when it is happening a
 > - [US PCEPI](https://fred.stlouisfed.org/series/PCE)
 
 
-### What creates inflation? Why price of things change by the way?
+### What creates inflation? Why price of things change?
 Before going any further, it is really important to understand that **nobody** understand what creates inflation. We have yet to find a strong causal relationship for it, nainly because they are so much factors that impact something's price.
 
-To glance at it quickly, there 3 forces basically:
+To glance at it quickly, there are 5 obvious forces:
 
-- Cost of borrowing: all the price one has to pay to borrow money (interest rates). It is usually needed for investment to start producing a thing (or scaling it).
-- Cost of production: all the cost one must pay to make thing real: labour wages, raw materials cost, etc.)
-- Cost of distribution: all the cost one must pay to bring the product to the people and make the people aware of it: delivery cost, marketing, communication, etc.)
+- Cost of borrowing: all the price one has to pay to borrow money (interest rates). It is usually needed for investment to start producing anything (or scaling its production).
+- Cost of production: all the cost one must pay to make the thing real: labour wages, raw materials cost, etc.
+- Cost of distribution: all the cost one must pay to bring the product to the people and make the people aware of it: delivery cost, marketing, communication, etc.
 - Other costs like insurance etc.
-- Finally, supply and demand: how much people want that thing compared to how many one can be produced.
+- Finally, supply and demand: how much people want that thing compared to how many one of that thing be produced.
 
-Price changes because one of those factors is impacted. A sudden high demand would lead to what we call a demand-pool effect, increasing prices. A drop of supply would lead to the same outcome (called a cost-push). Tax cuts or hikes can raises or lowers cost of production and distribution. Insurance risk can increase, etc.
+Price changes because one of those factors is impacted.  Tax cuts or hikes can raises or lowers cost of production and distribution. Risk can increase which increase insurance cost, etc.
 
-Of course, Inflation is a major force because it can increase all the cost at the same time. Even demand as people expect inflation to keep rising and would rather buy now than later.
+For supply and demands, it is even more complex. A sudden high demand would lead to what we call a demand-pool effect, increasing prices. A sudden drop of supply would lead to the same outcome (called a cost-push). But anything in between with an increase/decrease of demands could perfectly be met by an increase/decrease of supply instead of price increase/decrease: Producers can adapt to the market. 
 
->sidenote: I'm not talking about money supply as a cause for inflation on purpose. All studies on this belief debunk it. At most, money supply impact inflation on the long term but never in short term.
+> sidenote: I'm not even talking about how humans can be cretive just like with luxury products where their rarity is articificially maintained by luxury brands.
 
+All things being equal, I want to highlight the fact that increasing money supply is **not** a cause of inflation. This belief debunked by experience many times. At most, increasing the money supply can impact inflation on the long term but never in short term. Inflation is much more linked to the other factors.
 
 > Do the work:
 >
@@ -171,7 +175,7 @@ Of course, Inflation is a major force because it can increase all the cost at th
 ### Why should I care?
 Inflation impacts directly investors because it lowers the value of money which impact what we call the "purchasing power".
 
-The purchasing power is the power to buy things: If $100 this year allows you to buy fewer things than $100 5 years ago, then you lost some purchasing power. It matters directly to everyone because it is the link betwen money and reality. And since the inflation rate measure how prices change, it becomes the direct measure of how much investors need to grow their amount of money to keep their purchasing power:
+The purchasing power is the power to buy things: If $100 this year allows you to buy fewer things than $100 5 years ago, then you lost some purchasing power. It matters directly to everyone because it is the link betwen money and reality. And since the inflation rate measure how prices change, it becomes the direct measure of how much anyone (including onvestors obviously) need to grow their amount of money to keep their purchasing power:
 
 $$ \text{ROI} > \text{inflation rate} $$
 
@@ -184,21 +188,24 @@ $$ \text{real ROI} = \text{ROI} - \text{inflation rate}$$
 ### Impact on the open market
 The real ROI is easily computable when we look at the past. But things start to be more complicated when we talk about the future. If we want to anticipate what will be our real ROI on a given period we now have two numbers to guess:
 
-- The expected ROI
+- The expected ROI (which is the goal)
 - The expected inflation rate
 
-> *Sidenote: beware now, when you listen to any kind of forcasters, remember that the open market is considered to be [a second-order chaotic system](https://danielmiessler.com/blog/first-second-order-chaos/) and by definition is nearly unpredictable.
-> And remember for yourself that one of the most pervasive and unavoidable bias of the human species is the [confirmation bias](https://en.wikipedia.org/wiki/Confirmation_bias) among other biased emotions like [FUD](https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt), [FOMO](https://en.wikipedia.org/wiki/Fear_of_missing_out) and many others*
+**beware now, when you listen to any kind of forcasters, remember that the open market is considered to be [a second-order chaotic system](https://danielmiessler.com/blog/first-second-order-chaos/) and by definition is nearly unpredictable.**
 
-If we want to add more objectivity in there, the scientific method is the way to go with tools like statistics. But for the future we are left with models that are usually inspired from the past and those are not hard science. So in general we are left with gut feelings, beliefs, reactive behaviours, and other non rational behaviours (this is also the main reaason why the market is not efficent).
+**Also, remember for yourself, that one of the most pervasive and unavoidable bias of the human species is the [confirmation bias](https://en.wikipedia.org/wiki/Confirmation_bias) among other biased emotions like [FUD](https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt), [FOMO](https://en.wikipedia.org/wiki/Fear_of_missing_out) and many others. Don't trust too good to be true prophecie! Do the fu\*\*g work!**
+
+If we want to add more objectivity in there, the scientific method is the way to go with tools like statistics. But for the future we are left with models that are usually inspired from the past and those are not hard science. So in general we are left with gut feelings, beliefs, reactive behaviours, and other non rational behaviours (this is also the main reaason why the market is not efficient).
 
 As a second-order chaotic system, beliefs about the market impact it directly.Because beliefs tend to create expectations, and expectations when shared by enough people can become a self-fulfilling prophecy: If enough people want an asset to go up or down, it will indeed happen.
 
-How is this all realted to inflation? Because expected inflation is a thing! In particular, it is a very powerful force in the bond market as yields are directly impacted by inflation and investors tend to invest for longer period of time in the bond market.
+How is this all related to inflation? Because expected inflation is a thing! 
 
-Before going on with those twisted feedback loops which influence the open market, we are going to dive into the basics of bonds and stocks. Again, we need to simplify greatly so we will leave out of the picture financial derivatives (FD) (options, futures, etc.) and focus on the USA.
+In particular, it is a very powerful force in the bond market as yields are directly impacted by inflation and investors tend to invest for longer period of time in the bond market.
 
-Still, it is important to remember the assets in the US open market competes with other assets in other open market around the world.
+Before going on with those twisted feedback loops which influence the open market, we are going to dive into the basics of bonds and stocks. Again, we need to simplify greatly so we will leave out of the picture financial derivatives (FD) (options, futures, etc.) and focus on only one country: the USA.
+
+But keep in mind that the US is not the only open market and assets in it compete with other assets in other open market around the world.
 
 > What signal?
 >
@@ -212,16 +219,16 @@ Bonds and stocks represent two very different way to invest. Bonds are loans and
 ### Stocks
 When you invest in stocks, you buy shares. It means you own a part of the company. The overall value of the company on the market (market cap) is represented by the sum of all those share price.
 
-A second benefit of buying those shares is that if the company is profitable, an investor can receive money regularly (dividens). Supply/demands and exectation of the company's performance are key forces that impact share prices. The more the company is attractive the more share price will increase.
+A second benefit of buying those shares is that if the company is profitable, an investor can receive money regularly (called dividends). Supply/demands and expectation of the company's performance are key forces that impact share prices. The more the company is attractive the more share price will increase.
 
 > What signal?
 >
 > - [Vanguard Total Stock Market ETF](https://finance.yahoo.com/quote/VTI)
 
 #### Growth stocks, value stocks and other kind of stocks
-Besides your belief individual investors tends to end up in two categories: value or growth investors. To keep it simple, one bets on what we call "growth stocks" which have a high potential but needs a lot of investment and loans(with bonds) to realize it. The other one bets on so-called "value stocks" which seeks the opposite undervalued profitable companies.
+Besides your belief, individual investors tends to end up in two categories: value or growth investors. To keep it simple, one bets on what we call "growth stocks" which have a high potential but needs a lot of investment and loans(with bonds) to realize it. The other one bets on so-called "value stocks" which are the opposite: undervalued profitable companies.
 
-Both have a high potential, the first one is expected to grow very much and so its share price too. The other one is consideted undervalued and so should go through a positive correction of its share price in the future. For examples, Tesla is a growth stock and GME was a value stock (this case is interesting because it might transforms itself into a growth stocks!).
+Both have a high potential, the first one is expected to grow very much and so its share price too. The other one is consideted undervalued and so should go through a positive correction of its share price in the future. For examples, Tesla is a growth stock and GME was a value stock (Altough it might be a growth stock now!).
 
 Outside of those two shiny category, you have many other kind of stocks in every industry: penny stocks (share price under 1$), zombie companies (companies which aren’t earning enough to cover their interest expenses), etc. All of them contains different risks and attract different kind of investors.
 
@@ -263,37 +270,41 @@ The bond yield can be seen as its dynamic interest rate and is calculated relati
 
 $$ \text{bond yield} = \frac{\text{annual coupon payment}}{\text{current bond price}}$$
 
-As a quick example, a bond with a face value of $\text{\$1000}$ with a fixed coupon's rate of 5% per year leads to a total coupon annual payment of $\text{\$50}$. if the price of the bonds decrease to $\text{\$900}$ the yield is now $\frac{50}{900} = 0.55 = 55\%$ which is higher than the original coupon's rate and makes the bond more interesting. Not only one would buy that bond at lower price, but one would also receives a higher annual interest rate relative to its investment. Also, if one would keep it until maturity date, one would still receive the full face (which is still $1000).
+As a quick example, a bond with a face value of $\text{\$1000}$ with a fixed coupon's rate of 5% per year leads to a total coupon annual payment of $\text{\$50}$. if the price of the bonds decrease to $\text{\$900}$ the yield is now $\frac{50}{900} = 0.55 = 5.5\%$ which is higher than the original coupon's rate and makes the bond more interesting. 
 
-> Sidenote: *By definition, the yield is inversely linked to the bond price: if the yield increase, the bond price decrease and vice-versa.*
+Not only one would buy that bond at a lower price, but one would also receives a higher annual interest rate relative to its investment. Also, if one would keep it until maturity date, one would still receive the full face value (which is still $1000 and which increase even more the yield at amturity).
+
+> Sidenote: *Note that by definition, the yield is inversely linked to the bond price: if the yield increase, the bond price decrease and vice-versa.*
 
 Bonds yields are a good measure for investors because you can compare it directly to the inflation rate or your expected inflation rate for the period of time you want to hold onto it. This means that the current inflation rate has a direct impact on bonds yield: Outside of any external intervention, supply and demands on bonds should move their price such that their yield satisify the following:
 
 $$ \text{yield} > \text{inflation rate} \Rightarrow \text{current price} < \frac{\text{coupon's value}}{\text{inflation rate}}$$
 
-So far so good. So what is the catch?
-
-Bonds don't provide a high yield comapred to other potential assets and they still suffer from 2 kinds of risk.
+So far so good. So what is the catch? For a first bonds don't provide a high expected ROI so one might not be interested to trade bonds, And second they still suffer from 2 kinds of risk.
 
 #### How to perceive bonds risk?
 The first risk is inflation. Since bonds are quite long term investment because of the low yield they provide. They are quite susceptible to expected inflation. As we've seen bonds yield will have to go up if inflation goes up because investors won't hold on bonds that make them lose some purchasing powers.
 
-This means that if you buy a bond and you plan to sell it, you better hope that the inflation rate will not increase. Because, first your real ROI will be lower and second, you will have to sell your bonds at a lower price. So investors spend some times trying to predict inflation rate to make sure they are buying bonds at a too high prices.
+This means that if you buy a bond and you plan to sell it, you better hope that the inflation rate will not increase. Because, first your real ROI will be lower and second, you will have to sell your bonds at a lower price (remember, bond yield increase means bond price decrease). So investors spend some times trying to predict inflation to make sure they are not buying bonds at a too high prices.
 
 This is why a stabilized inflation rate is not dangerous to the open market. If it does not move, it does not impact bonds yield.
 
 This inflation risk is especially important for long-term bonds (>3 years until maturity date). Now for bonds that have their maturity date much closer, there is another risk: the borrower might not be able to return the principals on maturity date. We say that the bond default.
 
-It's rare to see a bond default before the maturity date because the coupon's annual payment should not be very high for the borrower. At maturity on the other hand, the total principal is huge. And if the borrower as not used the money in a sufficiently smart way to be able to grow enough and make enough money, it might be in trouble to reimburse the full amount.
+It's rare to see a bond default before the maturity date because the coupon's annual payment should not be very high for the borrower. At maturity on the other hand, the total principal is huge. And if the borrower does not have the money or is struggling to issue new bonds, it might be in trouble to reimburse the full amount.
 
-When the economy is all right and the company legit, the borrower will just  roll-over its debt to avoid defaulting its bonds. It just means issuing new bonds to be able to pay back previous bonds and keeps going. The risk is then pushed on the new bondholders. But this asked one question: how do you know that a company is legit?
+When the economy is all right and the company legit, the borrower will just  roll-over its debt to avoid defaulting its bonds. It just means issuing new bonds to be able to pay back previous bonds and keeps going. The risk is then pushed on the new bondholders. 
+
+All of this ask one question: how do you know that a company is legit?
 
 #### Rating agencies
 This is when rating agencies comes into the picture. Their goal is to rate bonds on their default risk. The rating agencies look at companies fundamentals and conclude on a grade. There is quite a lot of different grades and those grades are different between agencies but ultimately, those grades are separated into two categories: "investment grade" or "junk bonds".
 
-The distinction has a big impact on bonds price because naturally, investors will want a higher yield for a higher risk. If a company starts to struggle financially, its bond might be downgraded by rating agencies and if they happen to fall under the junk bonds umbrella, the market will react by asking for a higher yield and so, the bond price of that company will fall.
+The distinction has a big impact on bonds price because naturally, investors will want a higher yield for a higher risk. If a company starts to struggle financially, its bond might be downgraded by rating agencies and the grade can fall under the junk bonds umbrella. The bond market will react by asking for a higher yield and so, the bond price of that company will fall.
 
-This starts a domino effect for the company because now, issuing new bonds will needs a higher coupon's rate which increase the cost of borrowing for the company and also increase the risk of default its bonds. This is especially bad for companies called "zombies company". Zombies company are the ones struggling to survive, they usually make barely enough money to sustain its operation and pays its bondholders. And their outlook is not great (this is actually the main difference with a growth stocks, usually running on debt too, but with a highly expected success).
+This starts a domino effect for the company because now, issuing new bonds will needs a higher coupon's rate which increase the cost of borrowing for the company and also increase the risk of default its bonds. 
+
+This is especially bad for companies called "zombies company" which are the ones struggling to survive, they make barely enough (or not enough) money to sustain its operation and pays its interest. And their outlook is not great (this is actually the main difference with growth companies, usually running on debt too, but with a highly expected success).
 
 Those zombie companies are in real trouble if rates increase and so are very risky.
 
@@ -314,7 +325,7 @@ Those zombie companies are in real trouble if rates increase and so are very ris
 ### The link between the bond and stock market
 Those 2 markets exists all around the world and compete with each others to provide interesting assets to investors. It's good to keep in mind that big investors (called whale) tend to keep both assets in their portfolio and regularly change their proportions depending on the context.
 
-Peoples in charge of "secure" funds, will tend to rotate a bit of their portfolio out of markets that has seen a high growth and into markets that have dropped. This usually happens at the end of quarter due to some legal requirements (it is good to keep an open mind in those times, dynamics might change fow a week or two before the end of the quarter).
+Peoples in charge of "secured" investments, will tend to rotate a bit of their portfolio out of markets that has seen a high growth and into markets that have dropped. This usually happens at the end of quarter due to some legal requirements (it is good to keep an open mind in those times, dynamics might change fow a week or two before the end of the quarter).
 
 For example, right now (March 31th), innovative stocks which have seen quite a surge through started to decline mid March. On the other hand, the last 6 months has seen the increase in bonds yields. When does funds will start to rotate agressively from stocks into bonds? It's hard to tell. If yields keep increasing, it will become a more and more interesting assets to rotate into.
 
@@ -323,8 +334,6 @@ For example, right now (March 31th), innovative stocks which have seen quite a s
 Now that we understand a little bit better market dynamics, let's look at the special case of hyperinflation.
 
 Hyperinflation is a sudden and strong inflation rate increase (something like 50% inflation rate per month). If we were to experience hyperinflation on the CPI, it would means that in a few weeks, the price of everything, including the baguette could surge: With a 50% rate month-to-month hyperinflation, a baguette which cost $1 today could cost $1.5 next month !
-
-Hyperinflation is impacting the whole economy at once introducting a period of high uncertainty everywhere including in the open market.
 
 ### Impact on the open market
 As we've already seen, bonds yield (and coupon's rate when issued) must be higher than the inflation rate to be attractive. In an hyperinflation settings, the market will be taken by surprise and will never cathc up in time. Before you know, all bond investors requires higher yields. The bond market will crash violently, until yields get satysfying again (or until companies disappear).
@@ -693,6 +702,21 @@ An event should math the light,junk bond yields start to increase,positif
 An event should math the light,depending on the ecosystem;it might start s bond market crash or not (see https://fred.stlouisfed.org/series/BAMLH0A0HYM2),positif
 </div>
 
+## Why are we talking about it now?
+You might now but people are talking [about inflation now](https://trends.google.com/trends/explore?date=all&geo=US&q=inflation), why?
+
+For two reasons:
+- The first one is the fact that because of Covid, supply has been naturally reduced to follow the reducing demand. Now that we are about to reopen economy, it might very well create a short period of high-demand facing a quite low-supply.
+- The second one, is coming from people that believe that stimulus + direct payment influence inflation. As we've seen, this is not a good argument. On the other hand, it does impact expected inflation which could impact bond yields on the short term too.
+
+
+
+And, as of March 19th, if we look at [last 20 years in price change](https://www.bls.gov/charts/consumer-price-index/consumer-price-index-by-category-line-chart.htm) we can see mainly three things:
+- The average inflation rate is around 2% even though it always fluctuates.
+- Inflation increased sharply before the housing crisis and sharply decrease during and shortly after.
+- The COVID, on the other hand, Literally froze prices (the rate went down to 0) and it's starting to increase again.
+
+Exactly because the rate already increased while the economy was shut down and reopening the economy might be the match that can light the hyperinflation rocket.
 
 When you add direct payment:
 
@@ -704,23 +728,6 @@ When you add direct payment:
 > - https://www.investopedia.com/articles/insights/122016/9-common-effects-inflation.asp
 > - https://www.usbank.com/financialiq/invest-your-money/investment-strategies/effects-of-inflation-on-investments.html
 > - [Effect of QE and QE + fiscal spending](https://twitter.com/LynAldenContact/status/1358067930286743552)
-
-## Why are we talking about it now?
-You might now but people are talking [about inflation now](https://trends.google.com/trends/explore?date=all&geo=US&q=inflation), why?
-
-For two reasons:
-- The first one is the fact that because of Covid, supply has been naturally reduced to follow the reducing demand. Now that we are about to reopen economy, it might very well create a short period of high-demand facing a quite low-supply.
-- The second one, is coming from people that believe that stimulus + direct payment influence inflation. As we've seen, this is not a good argument. On the other hand, it does impact expected inflation which could impact bond yields on the short term too.
-
-And, as of March 19th, if we look at [last 20 years in price change](https://www.bls.gov/charts/consumer-price-index/consumer-price-index-by-category-line-chart.htm) we can see mainly three things:
-- The average inflation rate is around 2% even though it always fluctuates.
-- Inflation increased sharply before the housing crisis and sharply decrease during and shortly after.
-- The COVID, on the other hand, Literally froze prices (the rate went down to 0) and it's starting to increase again.
-
-Exactly because the rate already increased while the economy was shut down and reopening the economy might be the match that can light the hyperinflation rocket.
-
-
-
 
 ### What does it tell me?
 
