@@ -6,7 +6,7 @@ ARTICLES := $(filter-out articles/README.md,$(shell find $(ARTICLES_DIR) -name '
 
 .PHONY: hyperinflation articles
 
-hyperinflation:
+inflation:
 	pandoc --standalone --mathjax -f markdown -t html --metadata title="$@" articles/$@.md -o articles/$@.html
 
 articles: $(ARTICLES)
