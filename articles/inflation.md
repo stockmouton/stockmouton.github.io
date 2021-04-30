@@ -31,7 +31,7 @@ Meh!
 
 I've been lurking in the [Reddit r/options](https://www.reddit.com/r/options/) lately and I stumbled upon this [post](https://www.reddit.com/r/options/comments/m4ffmx/long_commodities_short_bonds_protection_against/) predicting doomsday, hyperinflation, the crash of the bond market and subsequently, the stock market.
 
-I don't know if thoses hypotheses hold or not. But I saw an opportunity to fill some holes in my knowledge about what would trigger this doomsday crash. So, I decided to explore the subject and write a quick recap about this hyperinflation thing and why it matters.
+I don't know if thoses hypotheses hold or not. But I saw an opportunity to fill some holes in my knowledge about what would trigger this doomsday crash. So, I decided to explore the subject and write a quick primer about this inflation thing and why it matters.
 
 It is in no way state-of-the-art thinking nor perfectly accurate. The devil always hides in the details and this is not the aim of this post. On top of that, it took me quite a while to do the research, learn and finally write this piece. If it feels like you would have rather read it a month ago, I feel you my friend, I do too...
 
@@ -40,12 +40,12 @@ Anyway, remember to do your own DD, apply what you learn, make your own predicti
 > Obviously, this is not financial advices and only some educational material.
 
 ## TLDR
-Expected inflation and inflation will rise but should be transient as the FOMC said (Mainly because of the surge in demand when the economy reopens). This means that we are going to be in a transient dynamic for the end of the year. Bonds yield will probably increase which might create a small bond market crash (hopefully in a controlled manner), a massive amount of investment will rotate in other assets like stocks and crypto for a while.
+Expected inflation and inflation will rise but should be transient (Mainly because of the surge in demand when the economy reopens). This means that we are going to be in a transient dynamic at least until the end of the year. Bonds yield will probably increase which might create a small bond market crash (hopefully in a controlled manner), a massive amount of investment will rotate in other assets like stocks and crypto for a while.
 In the short term any company selling goods, loans or having strong fundamentals should see a good run, on the other hand risky ones functionning on high interest debts will have to survive in those troubled times. 
 After a while, inflation will get back to its 2% target, and economy should boom again. 
-The ramining question is: what will be the size of the correction? Probably big because of how fast the margin debt is increasing which hints as bubbles and an overall casino market.
+The ramining question is: what will be the size of the correction? The risk is actually quite high because of how fast the margin debt is increasing and how high volatility remains. It hints that some assets in financial markets currently hyperinflated (bubbles) and we are in an overall casino market.
 
-To conclude,  it's not the time to YOLO as the market will probably be shaken overall and so, having a diversified portfolio and an eye on stock market to be able to react seems the best possible behaviours in the coming month.
+To conclude,  it's not the time to YOLO as the market will probably see corrections here and there and so, having a diversified portfolio and an eye on all financial markets, Governement and FED news is necessary to be able to react rapidly. It looks loke it is the best possible behaviours in the coming month.
 
 To do so, you can look at this [hyperinflation dashboard](../hyperinflation)
 
@@ -63,7 +63,7 @@ If you invest it, you are an investor and the investor plan is very simple:
 
 - Invest money in assets
 - Wait
-- Profit (get back more money)
+- Profit (gets back more money)
 
 The difficult part is in "picking the right assets". Investors have a nearly infinite amount of possible investments in this world: Housing, startup, stock, bonds, derivatives, art, crypto, NFTs, etc. you name it. And, access to all those investment has never been so easy.
 
@@ -73,46 +73,53 @@ So, anyone can be an investor. All one needs is the will to follow the simple pl
 - The amount of time one wish to/must let money in the asset: from 1 millisecond to a century.
 - The amount of risk one wish/must take: from risk-free assets to lottery ones.
 
-To track its success, the investor can easily measure (as a gross estimate) his return on investment (ROI):
+To track its success along the game, the investor can easily measure (as a gross estimate) his return on investment (ROI) like this:
 
 $$ \text{ROI} = \frac{\text{Final value of the investment} - \text{Cost of the investment}}{\text{Cost of the investment}} $$
 
+His goal will then to maximise it. But maximising is not a well defined goal in itself, every investor have to deal with constraints. This is why it is good to consider that maximisation through those 3 sub-goals:
 
-Once one decides how much one is willing to invest, it is good to define a ROI goal:
-
-- how much you want to make?
-- How long are you ready to wait?
+- How much one wants to make?
+- How long is one ready to wait?
+- How much risk one is ready to take?
 
 #### Multiple kinds of investors
-Depending on those previous requirements and goals, investors exist in every kind. I won't go into details but you might want to look how any of those behave:
+Depending on those previous requirements and goals, investors exist in every kind. (I won't go into details but you might want to look how any of those behave in details). They can be separated in 2 big kinds:
 
-- Funds: 
+- The one actually investing in assets.
+- The one trying to provide assets in enough quantity to facilitate trades. (You can consider them as big reseller, they are not really trying to make money on capital gain but much more by taking a little part of every trades).
+ 
+Among those investing, we have:
 - Pension funds: invest a lot, wait a lot, lower risk to maximum. Needs to rebalance portfiolio regularly to minize the risk (Beware of end of quarter!)
 - Other Funds (mutual, etf, familly office, etc.): invest a lot, wait moderatly. Depending of their style they might be very risky or not. You must do your own work per fund to understands their behaviours
-- High frequency traders (market makers): Invest tiny amounts, very very fast, low risk. They are making money by helping the market to its job more than by betting inside of it.
 - Retail traders: you, me, everyone trading from home. Invest very little comparing to other actors but are present in a much bigger number. So much now, that it definitely starts to make a difference (thanks to how fast information propagate).
 
-What you want to look for with those different investors is their generic strategy and to which requirements they are bound by law/contracts. For example, pension funds have to keep a certain level of allocation or risks between bonds and stocks with only minor adjustment along the way. 
+Among those trying to facilitat trades:
+- High frequency traders and market makers: Invest tiny amounts, very very fast, low risk. They are making money by helping the market to its job more than by betting inside of it.
 
-One concept that investors tend to follow is "investment rotation". As the name suggest, it is when investors "rotate" some investment from one asset to some others. There are many reasons for that ([window dressing](https://www.investopedia.com/terms/w/windowdressing.asp), [portfolio rebalancing](https://www.investopedia.com/terms/r/rebalancing.asp), etc.) but as an example, we can look at the end of the first quarter of 2021: because bonds price were going down and stocks price were going up since the pandemic crash. It was expeced to see assets rotation from stocks to bonds at the end of march.
+What you want to look for with those different investors is their generic strategy and to which requirements they are bound by law/contracts. For example, pension funds have to keep a certain level of allocation or risks between bonds and stocks with only minor adjustment along the way. Indeed, if we play with our own money, we are the only one responsible for a loss, but organisation taking other people money for investing ensure to their customer that they manage their risks properly, or at least in such away that their customer are aware of it.
+
+One last concept that investors tend to follow is "investment rotation". As the name suggest, it is when investors "rotate" some investment from one asset to some others. It tends to create temporary trend in the market (along a few days to a few weeks). There are many reasons for that ([window dressing](https://www.investopedia.com/terms/w/windowdressing.asp), [portfolio rebalancing](https://www.investopedia.com/terms/r/rebalancing.asp), [sector rotation](https://www.investopedia.com/articles/trading/05/020305.asp), etc.) for example. 
+
 
 ### Assets
-On the other side, assets try to attract investors money. This is a prolific area with a lot of creativity, new kind of assets are created all the time: the need to satisfy any kind of investors spurs into reality any kind of assets, secure, risky, volatile, constant, expensive, cheap, complex, etc. 
+On the other side, assets try to attract investors money. This is a prolific area with a lot of creativity, new kind of assets are created all the time: the need to satisfy any kind of investors spurs into reality any kind of assets: secure, risky, volatile, constant, expensive, cheap, complex, etc. 
 
-The way they attract investors is by making a promise. Mainly, a promise of a juicy ROI or low risk. Some assets are backed with strong fundamentals and financial mechanics (like bonds), sometimes it's just a pure promise, no ties attached (like SPACs).
+The way they attract investors is by making a promise. Mainly, a promise of a juicy ROI and/or low risk. Some assets are backed with strong fundamentals and financial mechanics like bonds, others are just pure promises, no ties attached (like SPACs).
 
-Their prices in the open market are driven by multiple forces among which is supply and demand. And supply and demande needs a place to express itself.
+Their prices in the financial markets are driven by multiple forces among which is supply and demand. And supply and demande needs a place to express itself.
 
 ## Financial markets
 Financial markets exist because on one hand, companies and states need a way to finance their work and on the other hand, people needs a way to invest their money.
 
 The goal of financial markets it to make that happen and they are divided into two parts to do so:
+
 - The primary market where securities (stocks, bonds) are issued (created): state/company trade with investors.
-- The secondary market which is a second-hand market basically where the created securities can be traded again and again: investors trade with investors
+- The secondary market (a second-hand market) where existing securities can be traded again and again: investors trade with investors
 
-The first one allows companies and states to raise money, the second one allows investor to change their mind at any time. 
+The first one allows companies and states to raise money, the second one allows investor to change their mind at any time.
 
-On those markets you find 3 kind of products: stocks, bonds and financial derivatives. They represent a standardized and regulated way to facilitate the above 2 goals.
+On those markets you find 3 kind of products: stocks, bonds and financial derivatives. They qll represent a standardized and regulated way to facilitate the above 2 goals.
 
 ### Stocks
 When you invest in stocks, you buy shares. Shares represent a piece of a company, when you buy one, it means you own a part of the company. The overall value of the company called the market capitalization is represented by the sum of all those shares price.
@@ -121,10 +128,12 @@ $$\text{Company valuation} = \text{Market Capitalization} = \text{Number of shar
 Buying them allows one to receive dividends (a redistribution of a part of profit to owner of shares) and to vote on some of the company strategic decision (like the proportion of dividends for example).
 
 The price of those share on the secondary market is mainly set by supply and demands. Investors decides to invest based on three criteria:
+
 - The financial value of the company
 - The debt of the company
-- The potential of the company. 
-Expectation in the company's performance is a key force which usually created heated debates. Also, the more the company is attractive the more its share price increase. 
+- The potential of the company (this is where speculation happens).
+
+Expectation in the company's performance is a key force which usually creates heated debates. Also, fame is also a factor: the more the company is attractive the more its share price increase. 
 
 <sub>*Sidenote: sometime you hear about fundamental analysis to set the valuation of the company. From my point of view, this just gives us a lower bound: the measurable value of the company now. But it leaves out expectations, fame and everything else impacted by human emotions!*</sub>
 
@@ -133,9 +142,9 @@ Expectation in the company's performance is a key force which usually created he
 > - [Vanguard Total Stock Market ETF](https://finance.yahoo.com/quote/VTI)
 
 #### Growth stocks, value stocks and other kind of stocks
-Individual investors tends to end up in two categories: value or growth investors. To keep it simple, one bets on what we call "growth stocks" which have a high potential but needs a lot of investment and loans (with bonds) to realize it. The other one bets on so-called "value stocks" which are the opposite: undervalued profitable companies.
+Individual investors tends to end up in two categories: value or growth investors (not yet talking about gamblers). To keep it simple, one bets on what we call "growth stocks" which have a high potential but needs a lot of investment and loans (with bonds) to realize it. The other one bets on so-called "value stocks" which are the opposite: undervalued profitable companies.
 
-Both have a high potential, the first one is expected to grow very much and so its share price too. The other one is consideted undervalued and so should go through a positive correction of its share price in the future. For examples, Tesla is a growth stock and GME was a value stock (Altough it might be a growth stock now!).
+Both have a high potential, the first one is expected to grow very much and so its share price too. The other one is considered undervalued and so should go through a positive correction of its share price in the future. For examples, Tesla is a growth stock and GME was a value stock (Altough it might be a growth stock now!).
 
 Outside of those two shiny category, you have many other kind of stocks in every industry: penny stocks (share price under 1$), zombie companies (companies which aren’t earning enough to cover their interest expenses), etc. All of them contains different risks and attract different kind of investors.
 
@@ -154,7 +163,7 @@ Outside of those two shiny category, you have many other kind of stocks in every
 
 
 ### Bonds
-Bonds[^1] are very different as they represent a piece of a bigger loan contract. A bond is one piece of the loan. This allows many investors to lend money to one company/state.
+Bonds are very different as they represent a piece of a bigger loan contract. A bond is one piece of the loan. This allows many investors to lend money to one company/state.
 
 As a contract, it is issued with more much properties than stocks (which can be represented by just one number, the price):
 
@@ -169,7 +178,7 @@ Bonds are interesting because they lower the risk of losing money as long as the
 - One then receives a fixed-income equal to the coupon annual payment every year.
 - One gets back the principal at the maturity date.
 
-As you can see, as long as you expect the borrower to be able to reimburse you, you are sure to make money in the meantime. This is alos why they are called "fix income".
+As you can see, as long as you expect the borrower to be able to reimburse you, you are sure to make money in the meantime. This is also why they are called "fix income" securities.
 
 #### What happens on the secondary market?
 After bonds are issued, their price is subject to the usual market forces. Their current price is not fixed and can fluctuate: this is also why the face value is called "face value" and not just "the price". This is also why it is written on the bond: if you want to buy a bond on the secondary market, you must know the face value to know how much you'll get back at maturity.
@@ -184,35 +193,35 @@ $$ \text{bond yield} = \frac{\text{annual coupon payment}}{\text{current bond pr
 
 As a quick example, a bond with a face value of $\text{\$1000}$ with a fixed coupon's rate of 5% per year leads to a total coupon annual payment of $\text{\$50}$. if the price of the bonds decrease to $\text{\$900}$ the yield is now $\frac{50}{900} = 0.55 = 5.5\%$ which is higher than the original coupon's rate and makes the bond more interesting. 
 
-Not only one would buy that bond at a lower price, but one would also receives a higher annual interest rate relative to its investment. Also, if one would keep it until maturity date, one would still receive the full face value (which is still $1000 and which increase even more the yield at maturity).
+Not only one would buy that bond at a lower price, but one would also receives a higher annual interest rate relative to its investment. Also, if one would keep it until maturity date, one would still receive the full face value (which is still $1000 and which increase even more what is called the yield at maturity).
 
 Bonds yields are a good measure for investors because you can compare it directly to the inflation rate or your expected inflation rate for the period of time you want to hold onto it. This means that the current inflation rate has a direct impact on bonds yield: Outside of any external intervention, supply and demands on bonds should move their price such that their yield satisify the following:
 
 $$ \text{yield} > \text{inflation rate} \Rightarrow \text{current price} < \frac{\text{coupon's value}}{\text{inflation rate}}$$
 
-So far so good. So what is the catch? For a first bonds don't provide a high expected ROI so one might not be interested to trade bonds, And second they still suffer from 2 kinds of risk.
+So far so good. So what is the catch? First, bonds don't provide a high expected ROI so one might not be interested to trade bonds. Second, they still suffer from 2 kinds of risk.
 
 #### How to perceive bonds risk?
 The first risk is inflation. Since bonds are quite long term investment because of the low yield they provide. They are quite susceptible to expected inflation. As we've seen bonds yield will have to go up if inflation goes up because investors won't hold on bonds that make them lose some purchasing powers.
 
-This means that if you buy a bond and you plan to sell it, you better hope that the inflation rate will not increase. Because, first your real ROI will be lower and second, you will have to sell your bonds at a lower price (remember, bond yield increase means bond price decrease). So investors spend some times trying to predict inflation to make sure they are not buying bonds at a too high prices.
+This means that if you buy a bond and you plan to sell it, you better hope that the inflation rate will not increase. Because, first your real ROI will be lower and second, you will have to sell your bonds at a lower price (remember, when bond yield increase, bond price decrease). So investors spend some times trying to predict inflation to make sure they are not buying bonds at a too high prices (or too low yield).
 
-This is why a stabilized inflation rate is not dangerous to the open market. If it does not move, it does not impact bonds yield.
+This is why a stabilized inflation rate is not dangerous to the open market. If it does not move, it does not provide a risk for bonds yield and so investors are confident.
 
-This inflation risk is especially important for long-term bonds (>3 years until maturity date). Now for bonds that have their maturity date much closer, there is another risk: the borrower might not be able to return the principals on maturity date. We say that the bond default.
+This inflation risk is especially important for long-term bonds (>3 years until maturity date). Now for bonds that have their maturity date much closer, there is another risk: teh default risk. The borrower might not be able to return the principals on maturity date. We say that the bond default.
 
 It's rare to see a bond default before the maturity date because the coupon's annual payment should not be very high for the borrower. At maturity on the other hand, the total principal is huge. And if the borrower does not have the money or is struggling to issue new bonds, it might be in trouble to reimburse the full amount.
 
-When the economy is all right and the company legit, the borrower will just  roll-over its debt to avoid defaulting its bonds. It just means issuing new bonds to be able to pay back previous bonds and keeps going. The risk is then pushed on the new bondholders. 
+When the economy is all right and the company legit, the borrower will just roll-over its debt to avoid defaulting its bonds. It just means issuing new bonds to be able to pay back previous bonds and keeps going. The risk is then pushed on new bondholders. 
 
 All of this ask one question: how do you know that a company is legit?
 
 #### Rating agencies
-This is when rating agencies comes into the picture. Their goal is to rate bonds on their default risk. The rating agencies look at companies fundamentals and conclude on a grade. There is quite a lot of different grades and those grades are different between agencies but ultimately, those grades are separated into two categories: "investment grade" or "junk bonds".
+This is when rating agencies comes into the picture. Their goal is to rate bonds on their default risk. The rating agencies look at companies fundamentals and conclude on a grade. There is quite a lot of different grades and those grades are different between agencies but ultimately, those grades are separated into two categories: "investment grade" or "junk bonds" (also called "high-yield bonds").
 
-The distinction has a big impact on bonds price because naturally, investors will want a higher yield for a higher risk. If a company starts to struggle financially, its bond might be downgraded by rating agencies and the grade can fall under the junk bonds umbrella. The bond market will react by asking for a higher yield and so, the bond price of that company will fall.
+The distinction has a big impact on bonds price because naturally, investors will want a higher yield for a higher risk. If a company starts to struggle financially, its bond might be downgraded by rating agencies and the grade can fall under the junk bonds umbrella. The bond market will react by asking for a higher yield and so, the bond price of that company will fall rapidly.
 
-This starts a domino effect for the company: issuing new bonds will needs a higher coupon's rate which increase the cost of borrowing for the company and also increase the risk of default its bonds. 
+This starts a domino effect for the company: issuing new bonds will needs a higher coupon's rate which increase the cost of borrowing for the company and so increase the risk of default of its existing bonds. 
 
 This is especially bad for companies called "zombies company" which are the ones struggling to survive, they make barely enough (or not enough) money to sustain its operation and pays its interest. And their outlook is not great (this is actually the main difference with growth companies, usually running on debt too, but with a highly expected success).
 
@@ -240,10 +249,31 @@ Just as a quick example: a call option are a bet that the price of a company's s
 
 
 ### The markets graph
-<!-- TODO: draw this graph -->
+<!-- TODO: It doesn't work -->
 <div class="stockmouton-data" style="display:none; width:1000px; margin-left:-150px;">
 source,target,type,position
 
+states, investment banks (market makers), "sell bonds"
+
+companies, investment banks (market makers), "sell bonds"
+
+companies, investment banks (market makers), sell shares
+
+companies, investors, give dividends
+
+investors, companies, buy shares
+
+companies, workers, give wage
+
+workers, companies, buy goods
+
+workers, funds, savings
+
+investors, secondary market, buy/sell shares
+
+funds, secondary market, buy/sell shares
+
+investment banks (market makers), secondary market, buy/sell shares
 
 
 </div>
@@ -348,11 +378,9 @@ Now, why people would rather be paid in dollar? Because you expect that precise 
 > - [GDP leaderboard](https://www.worldometers.info/gdp/gdp-by-country)
 
 
-
-
-
 ### Different kind of inflation
 We tend to distinguish 5 regime of inflation:
+
 - Hyper-deflation (IR < -50%)
 - Deflation (IR < 0%)
 - Inflation (IR ~= 2%)
@@ -429,26 +457,6 @@ In particular, it is a very powerful force in the bond market as yields are dire
 >
 > - [Google trend inflation](https://trends.google.com/trends/explore?date=today%205-y&geo=US&q=inflation)
 > - [long term bonds yield (see the bonds paragraph to understand why)](https://fred.stlouisfed.org/series/IRLTLT01USM156N)
-
-
-
-### Impact on the financial market
-As we've already seen, bonds yield (and coupon's rate when issued) must be higher than the inflation rate to be attractive. In an hyperinflation settings, the market will be taken by surprise and will never catch up in time. Before you know, all bond investors requires higher yields. The bond market will crash violently, until yields get satysfying again (or until companies disappear).
-
-As bond investors react to hyperinflation, some of them will actually try to front-run (guessing and acting first) it. The inflation expectation will shoot up at the beginning of the high inflation period, accelerating even more hyperinflation impacts on the bond market. This will makes bonds yield to overshoot the inflation rate for a while before finally adjusting back to the real inflation rate.
-
-When the bond market crash, companies that need to borrow money at that moment are in trouble. Since all yields are increasing, it means all interest across the boards are increasing. Cost of borrowing shoot up and one would need to issue high interest rate bonds to attract investors. This might not always be possible nor interesting for a company. Globally the US would see a global economic slowdown of loans.
-
-Existing companies that have variable interest rate might suffer even more as they will have to pay more from now on. Zombie companies which have bonds close to their maturity date will probably staet to default them, incresing risk and uncertainty for bond investors, which means that investors will ask for even higher yields.
-
-After the bond market crash, the dynamics goes on with other assets. Short term, inflation might makes all prices across the bord shoot up, but soon investors will feel that there is too much risk and start to rotate out of those other markets. Stocks and crypto will soon start to see all their bubbles pop! Where do they go? At that point, investors move back into the bond market where prices are low and yields high offering a decent enough securities.
-
-The sweet spot to rotate in bonds is when those yields overshoot the future real inflation rate (obviously nobody would know when the bond market reach the dip). But long term investors will start to rotate from other assets to those sweet sweet investment-grade high-yield bonds slowly but surely. And big part of the stock market will crash.
-
-
-> Do the work:
->
-> https://www.thebalance.com/what-is-hyperinflation-definition-causes-and-examples-3306097
 
 ### Speculative bubbles: hyperinflation without the name
 Because speculative bubbles happened on the secondary market, they are not taken into account when talking about inflation even though they have an impact on the real economy.
