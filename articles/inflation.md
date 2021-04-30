@@ -31,21 +31,21 @@ Meh!
 
 I've been lurking in the [Reddit r/options](https://www.reddit.com/r/options/) lately and I stumbled upon this [post](https://www.reddit.com/r/options/comments/m4ffmx/long_commodities_short_bonds_protection_against/) predicting doomsday, hyperinflation, the crash of the bond market and subsequently, the stock market.
 
-I don't know if thoses hypotheses hold or not. But I saw an opportunity to fill some holes in my knowledge about what would trigger this doomsday crash. So, I decided to explore the subject and write a quick primer about this inflation thing and why it matters.
+I don't know if those hypotheses hold or not. But I saw an opportunity to fill some holes in my knowledge about what would trigger this doomsday crash. So, I decided to explore the subject and write a quick primer about this inflation thing and why it matters.
 
-It is in no way state-of-the-art thinking nor perfectly accurate. The devil always hides in the details and this is not the aim of this post. On top of that, it took me quite a while to do the research, learn and finally write this piece. If it feels like you would have rather read it a month ago, I feel you my friend, I do too...
+It is in no way state-of-the-art thinking nor perfectly accurate. The devil always hides in the details and this is not the aim of this post. On top of that, it took me quite a while to do the research, learn and finally write this piece. If it feels like you would have rather read it a month ago, I feel you, my friend, I do too...
 
-Anyway, remember to do your own DD, apply what you learn, make your own prediction, observe what happens, learn from your mistakes and repeat!
+Anyway, remember to do your own DD, apply what you learn, make your prediction, observe what happens, learn from your mistakes and repeat!
 
-> Obviously, this is not financial advices and only some educational material.
+> Obviously, this is not financial advice and only some educational material.
 
 ## TLDR
 Expected inflation and inflation will rise but should be transient (Mainly because of the surge in demand when the economy reopens). This means that we are going to be in a transient dynamic at least until the end of the year. Bonds yield will probably increase which might create a small bond market crash (hopefully in a controlled manner), a massive amount of investment will rotate in other assets like stocks and crypto for a while.
-In the short term any company selling goods, loans or having strong fundamentals should see a good run, on the other hand risky ones functionning on high interest debts will have to survive in those troubled times. 
-After a while, inflation will get back to its 2% target, and economy should boom again. 
-The ramining question is: what will be the size of the correction? The risk is actually quite high because of how fast the margin debt is increasing and how high volatility remains. It hints that some assets in financial markets currently hyperinflated (bubbles) and we are in an overall casino market.
+In the short term, any company selling goods, loans or having strong fundamentals should see a good run, on the other hand, risky ones functioning on high-interest debts will have to survive in those troubled times. 
+After a while, inflation will get back to its 2% target, and the economy should boom again. 
+The remaining question is: What will be the size of the correction? The risk is quite high because of how fast the margin debt is increasing and how high volatility remains. It hints that some assets in financial markets currently hyperinflated (bubbles) and we are in an overall casino market.
 
-To conclude,  it's not the time to YOLO as the market will probably see corrections here and there and so, having a diversified portfolio and an eye on all financial markets, Governement and FED news is necessary to be able to react rapidly. It looks loke it is the best possible behaviours in the coming month.
+To conclude,  it's not the time to YOLO as the market will probably see corrections here and there and so, having a diversified portfolio and an eye on all financial markets, Government and FED news is necessary to be able to react rapidly. It looks like it is the best possible behaviours in the coming month.
 
 To do so, you can look at this [hyperinflation dashboard](../hyperinflation)
 
@@ -57,7 +57,7 @@ We are playing the investment game. In this game, you have investors on one side
 This game is played all around the world, 24h/7: it's a global economic competition and collaboration system.
 
 ### investors
-When you make a profit in your life, you have only three possiblities: Either you keep it safe somewhere, you spend it to consumme something or you invest it.
+When you make a profit in your life, you have only three possibilities: Either you keep it safe somewhere, you spend it to consume something or you invest it.
 
 If you invest it, you are an investor and the investor plan is very simple:
 
@@ -65,41 +65,41 @@ If you invest it, you are an investor and the investor plan is very simple:
 - Wait
 - Profit (gets back more money)
 
-The difficult part is in "picking the right assets". Investors have a nearly infinite amount of possible investments in this world: Housing, startup, stock, bonds, derivatives, art, crypto, NFTs, etc. you name it. And, access to all those investment has never been so easy.
+The difficult part is in "picking the right assets". Investors have a nearly infinite amount of possible investments in this world: Housing, startup, stock, bonds, derivatives, art, crypto, NFTs, etc. you name it. And, access to all those investments has never been so easy.
 
-So, anyone can be an investor. All one needs is the will to follow the simple plan. The good news is that one can adapt any part of it to fit one's own requirements:
+So, anyone can be an investor. All we need is the will to follow the simple plan. The good news is that we can adapt any part of it to fit one's requirements:
 
 - The amount of the investment: from $0.01 to $1 Trillion.
-- The amount of time one wish to/must let money in the asset: from 1 millisecond to a century.
+- The amount of time one wishes to/must let money in the asset: from 1 millisecond to a century.
 - The amount of risk one wish/must take: from risk-free assets to lottery ones.
 
 To track its success along the game, the investor can easily measure (as a gross estimate) his return on investment (ROI) like this:
 
 $$ \text{ROI} = \frac{\text{Final value of the investment} - \text{Cost of the investment}}{\text{Cost of the investment}} $$
 
-His goal will then to maximise it. But maximising is not a well defined goal in itself, every investor have to deal with constraints. This is why it is good to consider that maximisation through those 3 sub-goals:
+His goal will then to maximise it. But maximising is not a well-defined goal in itself, every investor has to deal with constraints. This is why it is good to consider that maximisation through those 3 sub-goals:
 
 - How much one wants to make?
 - How long is one ready to wait?
 - How much risk one is ready to take?
 
 #### Multiple kinds of investors
-Depending on those previous requirements and goals, investors exist in every kind. (I won't go into details but you might want to look how any of those behave in details). They can be separated in 2 big kinds:
+Depending on those previous requirements and goals, investors exist in every kind. (I won't go into details but you might want to look at how any of those behave in details). They can be separated into 2 big kinds:
 
-- The one actually investing in assets.
-- The one trying to provide assets in enough quantity to facilitate trades. (You can consider them as big reseller, they are not really trying to make money on capital gain but much more by taking a little part of every trades).
+- The one investing in assets.
+- The one trying to provide assets in enough quantity to facilitate trades. (You can consider them as big resellers, they are not trying to make money on capital gain but much more by taking a little part of every trades).
  
 Among those investing, we have:
-- Pension funds: invest a lot, wait a lot, lower risk to maximum. Needs to rebalance portfiolio regularly to minize the risk (Beware of end of quarter!)
-- Other Funds (mutual, etf, familly office, etc.): invest a lot, wait moderatly. Depending of their style they might be very risky or not. You must do your own work per fund to understands their behaviours
-- Retail traders: you, me, everyone trading from home. Invest very little comparing to other actors but are present in a much bigger number. So much now, that it definitely starts to make a difference (thanks to how fast information propagate).
+- Pension funds: invest a lot, wait a lot, lower risk to the maximum. Needs to rebalance portfolio regularly to minimize the risk (Beware of end of quarters!)
+- Other Funds (mutual, ETF, family office, etc.): invest a lot, wait moderately. Depending on their style they might be very risky or not. You must do your work per fund to understands their behaviours
+- Retail traders: you, me, everyone trading from home. Invest very little compared to other actors but are present in a much bigger number. So much now, that it starts to make a difference (thanks to how fast information propagate).
 
-Among those trying to facilitat trades:
-- High frequency traders and market makers: Invest tiny amounts, very very fast, low risk. They are making money by helping the market to its job more than by betting inside of it.
+Among those trying to facilitate trades:
+- High-frequency traders and market makers: Invest tiny amounts, very very fast, low risk. They are making money by helping the market do its job more than by betting inside of it.
 
-What you want to look for with those different investors is their generic strategy and to which requirements they are bound by law/contracts. For example, pension funds have to keep a certain level of allocation or risks between bonds and stocks with only minor adjustment along the way. Indeed, if we play with our own money, we are the only one responsible for a loss, but organisation taking other people money for investing ensure to their customer that they manage their risks properly, or at least in such away that their customer are aware of it.
+What you want to look for with those different investors is their generic strategy and to which requirements they are bound by law/contracts. For example, pension funds have to keep a certain level of allocation of risks between bonds and stocks with only minor adjustment along the way. Indeed, if we play with our own money, we are the only ones responsible for a loss, but organisation taking other people money for investing ensure to their customer that they manage their risks properly, or at least in such a way that their customer is aware of it.
 
-One last concept that investors tend to follow is "investment rotation". As the name suggest, it is when investors "rotate" some investment from one asset to some others. It tends to create temporary trend in the market (along a few days to a few weeks). There are many reasons for that ([window dressing](https://www.investopedia.com/terms/w/windowdressing.asp), [portfolio rebalancing](https://www.investopedia.com/terms/r/rebalancing.asp), [sector rotation](https://www.investopedia.com/articles/trading/05/020305.asp), etc.) for example. 
+One last concept that investors tend to follow is "investment rotation". As the name suggests, it is when investors "rotate" some investment from one asset to some others. It tends to create a temporary trend in the market (along a few days to a few weeks). There are many reasons for that ([window dressing](https://www.investopedia.com/terms/w/windowdressing.asp), [portfolio rebalancing](https://www.investopedia.com/terms/r/rebalancing.asp), [sector rotation](https://www.investopedia.com/articles/trading/05/020305.asp), etc.) for example. 
 
 
 ### Assets
@@ -107,46 +107,46 @@ On the other side, assets try to attract investors money. This is a prolific are
 
 The way they attract investors is by making a promise. Mainly, a promise of a juicy ROI and/or low risk. Some assets are backed with strong fundamentals and financial mechanics like bonds, others are just pure promises, no ties attached (like SPACs).
 
-Their prices in the financial markets are driven by multiple forces among which is supply and demand. And supply and demande needs a place to express itself.
+Their prices in the financial markets are driven by multiple forces among which is supply and demand. And supply/demand needs a place to express itself.
 
 ## Financial markets
 Financial markets exist because on one hand, companies and states need a way to finance their work and on the other hand, people needs a way to invest their money.
 
-The goal of financial markets it to make that happen and they are divided into two parts to do so:
+The goal of financial markets is to make that happen and they are divided into two parts to do so:
 
 - The primary market where securities (stocks, bonds) are issued (created): state/company trade with investors.
 - The secondary market (a second-hand market) where existing securities can be traded again and again: investors trade with investors
 
-The first one allows companies and states to raise money, the second one allows investor to change their mind at any time.
+The first one allows companies and states to raise money, the second one allows investors to change their mind at any time.
 
-On those markets you find 3 kind of products: stocks, bonds and financial derivatives. They qll represent a standardized and regulated way to facilitate the above 2 goals.
+On those markets, you find 4 kinds of products: stocks, bonds, financial derivatives and commodities. They all represent a standardized and regulated way to facilitate the above 2 goals.
 
 ### Stocks
 When you invest in stocks, you buy shares. Shares represent a piece of a company, when you buy one, it means you own a part of the company. The overall value of the company called the market capitalization is represented by the sum of all those shares price.
 $$\text{Company valuation} = \text{Market Capitalization} = \text{Number of shares} * \text{Value of a share}$$
 
-Buying them allows one to receive dividends (a redistribution of a part of profit to owner of shares) and to vote on some of the company strategic decision (like the proportion of dividends for example).
+Buying them allows one to receive dividends (a redistribution of a part of the profit to shareholders) and to vote on some of the company strategic decision (like the proportion of dividends for example).
 
-The price of those share on the secondary market is mainly set by supply and demands. Investors decides to invest based on three criteria:
+The price of those share on the secondary market is mainly set by supply and demands. Investors decide to invest based on three criteria:
 
 - The financial value of the company
 - The debt of the company
 - The potential of the company (this is where speculation happens).
 
-Expectation in the company's performance is a key force which usually creates heated debates. Also, fame is also a factor: the more the company is attractive the more its share price increase. 
+The expectation in the company's performance is a key force that usually creates heated debates. Fame is also a factor: the more the company is attractive the more its share price increase. 
 
-<sub>*Sidenote: sometime you hear about fundamental analysis to set the valuation of the company. From my point of view, this just gives us a lower bound: the measurable value of the company now. But it leaves out expectations, fame and everything else impacted by human emotions!*</sub>
+<sub>*Sidenote: sometimes you hear about fundamental analysis to set the valuation of the company. From my point of view, this just gives us a lower bound: the measurable value of the company now. But it leaves out expectations, fame and everything else impacted by human emotions!*</sub>
 
 > What signal?
 >
 > - [Vanguard Total Stock Market ETF](https://finance.yahoo.com/quote/VTI)
 
-#### Growth stocks, value stocks and other kind of stocks
-Individual investors tends to end up in two categories: value or growth investors (not yet talking about gamblers). To keep it simple, one bets on what we call "growth stocks" which have a high potential but needs a lot of investment and loans (with bonds) to realize it. The other one bets on so-called "value stocks" which are the opposite: undervalued profitable companies.
+#### Growth stocks, value stocks and other kinds of stocks
+Individual investors tend to end up in two categories: value or growth investors (not yet talking about gamblers). To keep it simple, one bets on what we call "growth stocks" which have high potential but needs a lot of investment and loans (with bonds) to realize it. The other one bets on so-called "value stocks" which are the opposite: undervalued profitable companies.
 
-Both have a high potential, the first one is expected to grow very much and so its share price too. The other one is considered undervalued and so should go through a positive correction of its share price in the future. For examples, Tesla is a growth stock and GME was a value stock (Altough it might be a growth stock now!).
+Both have a high potential, the first one is expected to grow very much and so its share price too. The other one is considered undervalued and so should go through a positive correction of its share price in the future. For examples, Tesla is a growth stock and GME was a value stock (Although it might be a growth stock now!).
 
-Outside of those two shiny category, you have many other kind of stocks in every industry: penny stocks (share price under 1$), zombie companies (companies which aren’t earning enough to cover their interest expenses), etc. All of them contains different risks and attract different kind of investors.
+Outside of those two shiny categories, you have many other kinds of stocks in every industry: penny stocks (share price under 1$), zombie companies (companies that aren’t earning enough to cover their interest expenses), etc. All of them contains different risks and attract a different kind of investors.
 
 > Do the work:
 >
@@ -165,17 +165,17 @@ Outside of those two shiny category, you have many other kind of stocks in every
 ### Bonds
 Bonds are very different as they represent a piece of a bigger loan contract. A bond is one piece of the loan. This allows many investors to lend money to one company/state.
 
-As a contract, it is issued with more much properties than stocks (which can be represented by just one number, the price):
+As a contract, it is issued with more properties than stocks (which can be represented by just one number, the price):
 
 - The face value: the original price at which the bond is issued
 - The coupon rate (interest rate): Annual percentage of the face value paid to the bondholder. Can be fixed or variable.
 - Maturity date: the date at which the amount of borrowed money (Called "the principal" = the face value) is given back to the bondholder.
-- The amount of bonds
+- The total number of bonds
 
 Bonds are interesting because they lower the risk of losing money as long as the probability of being reimbursed is high. Let's say one buys some bonds on the primary market:
 
 - One pays the face value of the bonds to acquire them.
-- One then receives a fixed-income equal to the coupon annual payment every year.
+- One then receives a fixed income equal to the coupon annual payment every year.
 - One gets back the principal at the maturity date.
 
 As you can see, as long as you expect the borrower to be able to reimburse you, you are sure to make money in the meantime. This is also why they are called "fix income" securities.
@@ -193,41 +193,41 @@ $$ \text{bond yield} = \frac{\text{annual coupon payment}}{\text{current bond pr
 
 As a quick example, a bond with a face value of $\text{\$1000}$ with a fixed coupon's rate of 5% per year leads to a total coupon annual payment of $\text{\$50}$. if the price of the bonds decrease to $\text{\$900}$ the yield is now $\frac{50}{900} = 0.55 = 5.5\%$ which is higher than the original coupon's rate and makes the bond more interesting. 
 
-Not only one would buy that bond at a lower price, but one would also receives a higher annual interest rate relative to its investment. Also, if one would keep it until maturity date, one would still receive the full face value (which is still $1000 and which increase even more what is called the yield at maturity).
+Not only one would buy that bond at a lower price, but one would also receive a higher annual interest rate relative to its investment. Also, if one would keep it until the maturity date, one would still receive the full face value (which is still $1000 and which increase even more what is called the yield at maturity).
 
-Bonds yields are a good measure for investors because you can compare it directly to the inflation rate or your expected inflation rate for the period of time you want to hold onto it. This means that the current inflation rate has a direct impact on bonds yield: Outside of any external intervention, supply and demands on bonds should move their price such that their yield satisify the following:
+Bonds yields are a good measure for investors because you can compare them directly to the inflation rate or your expected inflation rate for the period you want to hold onto it. This means that the current inflation rate has a direct impact on bonds yield: Outside of any external intervention, supply and demands on bonds should move their price such that their yield satisfy the following:
 
 $$ \text{yield} > \text{inflation rate} \Rightarrow \text{current price} < \frac{\text{coupon's value}}{\text{inflation rate}}$$
 
 So far so good. So what is the catch? First, bonds don't provide a high expected ROI so one might not be interested to trade bonds. Second, they still suffer from 2 kinds of risk.
 
 #### How to perceive bonds risk?
-The first risk is inflation. Since bonds are quite long term investment because of the low yield they provide. They are quite susceptible to expected inflation. As we've seen bonds yield will have to go up if inflation goes up because investors won't hold on bonds that make them lose some purchasing powers.
+The first risk is inflation. Since bonds are quite a long term investment because of the low yield they provide, they are quite susceptible to expected inflation. As we've seen bonds yield will have to go up if inflation goes up because investors won't hold on to bonds that make them lose some purchasing powers.
 
-This means that if you buy a bond and you plan to sell it, you better hope that the inflation rate will not increase. Because, first your real ROI will be lower and second, you will have to sell your bonds at a lower price (remember, when bond yield increase, bond price decrease). So investors spend some times trying to predict inflation to make sure they are not buying bonds at a too high prices (or too low yield).
+This means that if you buy a bond and you plan to sell it, you better hope that the inflation rate will not increase. Because first, your real ROI will be lower and second, you will have to sell your bonds at a lower price (remember, when bond yield increase, bond price decrease). So investors spend some times trying to predict inflation to make sure they are not buying bonds at too high prices (or too low yield).
 
 This is why a stabilized inflation rate is not dangerous to the open market. If it does not move, it does not provide a risk for bonds yield and so investors are confident.
 
-This inflation risk is especially important for long-term bonds (>3 years until maturity date). Now for bonds that have their maturity date much closer, there is another risk: teh default risk. The borrower might not be able to return the principals on maturity date. We say that the bond default.
+This inflation risk is especially important for long-term bonds (>3 years until maturity date). Now for bonds that have their maturity date much closer, there is another risk: the default risk. The borrower might not be able to return the principals on the maturity date. We say that the bond default.
 
-It's rare to see a bond default before the maturity date because the coupon's annual payment should not be very high for the borrower. At maturity on the other hand, the total principal is huge. And if the borrower does not have the money or is struggling to issue new bonds, it might be in trouble to reimburse the full amount.
+It's rare to see a bond default before the maturity date because the coupon's annual payment should not be very high for the borrower. At maturity, on the other hand, the total principal is huge. And if the borrower does not have the money or is struggling to issue new bonds, it might be in trouble to reimburse the full amount.
 
-When the economy is all right and the company legit, the borrower will just roll-over its debt to avoid defaulting its bonds. It just means issuing new bonds to be able to pay back previous bonds and keeps going. The risk is then pushed on new bondholders. 
+When the economy is all right and the company legit, the borrower will just roll over its debt to avoid defaulting its bonds. It just means issuing new bonds to be able to pay back previous bonds and keeps going. The risk is then pushed on new bondholders. 
 
 All of this ask one question: how do you know that a company is legit?
 
 #### Rating agencies
-This is when rating agencies comes into the picture. Their goal is to rate bonds on their default risk. The rating agencies look at companies fundamentals and conclude on a grade. There is quite a lot of different grades and those grades are different between agencies but ultimately, those grades are separated into two categories: "investment grade" or "junk bonds" (also called "high-yield bonds").
+This is when rating agencies come into the picture. Their goal is to rate bonds on their default risk. The rating agencies look at companies fundamentals and conclude on a grade. There is quite a lot of different grades and those grades are different between agencies but ultimately, those grades are separated into two categories: "investment grade" or "junk bonds" (also called "high-yield bonds").
 
 The distinction has a big impact on bonds price because naturally, investors will want a higher yield for a higher risk. If a company starts to struggle financially, its bond might be downgraded by rating agencies and the grade can fall under the junk bonds umbrella. The bond market will react by asking for a higher yield and so, the bond price of that company will fall rapidly.
 
-This starts a domino effect for the company: issuing new bonds will needs a higher coupon's rate which increase the cost of borrowing for the company and so increase the risk of default of its existing bonds. 
+This starts a domino effect for the company: issuing new bonds will need a higher coupon's rate which increases the cost of borrowing for the company and so increases the risk of default of its existing bonds. 
 
-This is especially bad for companies called "zombies company" which are the ones struggling to survive, they make barely enough (or not enough) money to sustain its operation and pays its interest. And their outlook is not great (this is actually the main difference with growth companies, usually running on debt too, but with a highly expected success).
+This is especially bad for companies called "zombies company" which are the ones struggling to survive, they make barely enough (or not enough) money to sustain their operation and pays its interest. And their outlook is not great (it is the main difference with growth companies, usually running on debts too, but with a high expected success).
 
 Those zombie companies are in real trouble if rates increase and so are very risky.
 
-<sub>*Sidenote: One thing very shady with those agencies is that, to get a grade you must pay them. It really sounds like if you pay them a lot you might have a better grade, but what the f\*\*\* do I know?*</sub>
+<sub>*Sidenote: One thing very shady with those agencies is that to get a grade you must pay them. It sounds like if you pay them a lot you might have a better grade, but what the f\*\*\* do I know?*</sub>
 
 > Do the work:
 >
@@ -245,38 +245,11 @@ Those zombie companies are in real trouble if rates increase and so are very ris
 ### Financial derivatives (FD)
 I'm not going to talk about them but you consider them as a bet. Any potential events in the financial market can be transformed into a contract. When you buy or sell one, you either bet for or against that event. 
 
-Just as a quick example: a call option are a bet that the price of a company's share will increase and reach a price level before or at a precise date.
+Just as a quick example: a call option is a bet that the price of a company's share will increase and reach a price level before or at a precise date.
 
 
 ### The markets graph
-<!-- TODO: It doesn't work -->
-<div class="stockmouton-data" style="display:none; width:1000px; margin-left:-150px;">
-source,target,type,position
-
-states, investment banks (market makers), "sell bonds"
-
-companies, investment banks (market makers), "sell bonds"
-
-companies, investment banks (market makers), sell shares
-
-companies, investors, give dividends
-
-investors, companies, buy shares
-
-companies, workers, give wage
-
-workers, companies, buy goods
-
-workers, funds, savings
-
-investors, secondary market, buy/sell shares
-
-funds, secondary market, buy/sell shares
-
-investment banks (market makers), secondary market, buy/sell shares
-
-
-</div>
+![](inflation/financial-markets.png)
 
 ## So, what is inflation?
 Inflation (and deflation) are words that refer to the rate of change in the price of "things". Understand "things" very broadly here: food, energy, house, stocks, bonds, ETF, etc. Anything that has a price.
@@ -298,15 +271,15 @@ Nothing more, nothing less.
 
 <sub>*Sidenote: notice how it is similar to the investor simple plan and the ROI formula*</sub>
 
-The inflation rate can be measured for anything and people indeed measure the inflation of everything. Having a good way to measure inflation correctly is still a subject of heafty debate because it really depends on how one lives. But they are a few measure considered as good proxies. 
+The inflation rate can be measured for anything and people indeed measure the inflation of everything. Having a good way to measure inflation correctly is still a subject of hefty debate because it depends on how one lives. But they are a few measures considered as good proxies. 
 
-The first one is the [Consumer price index (CPI) ](https://en.wikipedia.org/wiki/Consumer_price_index). People tend to focus on it because it is supposed to represent the cost of living for the urban lower and middle class. It contains a basket of goods one has to pay for when living in cities. If you live outside of cities, you want to look at one of its variation like the [Personal Consumption expenditures price index (PCEPI)](https://en.wikipedia.org/wiki/Personal_consumption_expenditures_price_index)
+The first one is the [Consumer price index (CPI) ](https://en.wikipedia.org/wiki/Consumer_price_index). People tend to focus on it because it is supposed to represent the cost of living for the urban lower and middle class. It contains a basket of goods one has to pay for when living in cities. If you live outside of cities, you want to look at one of its variants like the [Personal Consumption expenditures price index (PCEPI)](https://en.wikipedia.org/wiki/Personal_consumption_expenditures_price_index)
 
-<sub>*Sidenote: The CPI is an average of different prices which shoudl represent the average expenditure fo a urban family. IT does not contains inflation for housing or the open market. Because of that people are wary that it is not a very good signal for actual inflation. On top of that, it is usually considered a lagging signal in the sense that it is a measure about the past and not the present.*</sub>
+<sub>*Sidenote: The CPI is an average of different prices which should represent the average expenditure for an urban family. It does not contain inflation for housing or the open market. Because of that people are wary that it is not a very good signal for actual inflation. On top of that, it is usually considered a lagging signal in the sense that it is a measure of the past and not the present.*</sub>
 
-An other interesting variation is the [core inflation rate](https://fred.stlouisfed.org/series/CPILFESL). It is the CPI (or the PCEPI) without food and energy which varies a lot (too volatile). For that reason, it is better to detect trends.
+Another interesting variation is the [core inflation rate](https://fred.stlouisfed.org/series/CPILFESL). It is the CPI (or the PCEPI) without food and energy which varies a lot (too volatile). For that reason, it is better to detect trends.
 
-The CPI is only useful from the point of view of a consumer. This is why there exist an other one for the point of view of producer: the [Producer Price Index(PPI)](https://en.wikipedia.org/wiki/Producer_price_index).
+The CPI is only useful from the point of view of a consumer. This is why there exists another one for the point of view of producer: the [Producer Price Index(PPI)](https://en.wikipedia.org/wiki/Producer_price_index).
 
 > Do the work:
 >
@@ -321,22 +294,22 @@ The CPI is only useful from the point of view of a consumer. This is why there e
 ### Why should I care?
 Inflation impacts directly investors because it lowers the value of money which impact what we call the "purchasing power".
 
-The purchasing power is the power to buy things: If $100 this year allows you to buy fewer things than $100 5 years ago, then you lost some purchasing power. It matters directly to everyone because it is the link betwen money and reality. And since the inflation rate measure how prices change, it becomes the direct measure of how much anyone (including investors) need to grow their amount of money to keep their purchasing power:
+The purchasing power is the power to buy things: If $100 this year allows you to buy fewer things than $100 5 years ago, then you lost some purchasing power. It matters directly to everyone because it is the link between money and reality. And since the inflation rate measure how prices change, it becomes the direct measure of how much anyone (including investors) need to grow their amount of money to keep their purchasing power:
 
 $$ \text{ROI} > \text{inflation rate} $$
 
-This is why people tends to take inflation directly into account when computing returns or other measures. When doing so, people add the word "real" before the measure. For example, the "ROI" become the "real ROI" and can be calculated as:
+This is why people tend to take inflation directly into account when computing returns or other measures. When doing so, people add the word "real" before the measure. For example, the "ROI" become the "real ROI" and can be calculated as:
 
 $$ \text{real ROI} = \text{ROI} - \text{inflation rate}$$
 
-<sub>*Sidenote: The actual investors objective is even higher as one must tak into account many other costs like taxes and the cost of living during the investment period*</sub>
+<sub>*Sidenote: The actual investors objective is even higher as one must take into account many other costs like taxes and the cost of living during the investment period*</sub>
 
-### Why price of things change?
-Before going any further, it is really important to understand that **nobody** understand what creates inflation. We have yet to find a strong causal relationship for it, nainly because they are so much factors that impact something's price.
+### Why the price of things changes?
+Before going any further, it is really important to understand that **nobody** understands what creates inflation. We have yet to find a strong causal relationship for it, mainly because they are so many factors that impact something's price.
 
 On one side we have what goes into the cost of things:
 
-- Cost of borrowing: all the price one has to pay to borrow money (interest rates). It is usually needed for investment to start producing anything (or scaling its production).
+- Cost of borrowing: all the price one has to pay to borrow money (interest rates). It is usually needed for an investment to start producing anything (or scaling its production).
 - Cost of production: all the cost one must pay to make the thing real: labour wages, raw materials cost, etc.
 - Cost of distribution: all the cost one must pay to bring the product to the people and make the people aware of it: delivery cost, marketing, communication, etc.
 - Other costs like insurance etc.
@@ -345,33 +318,33 @@ On the other side we have what goes into the demand of things:
 - People confidence in the future (no needs to save money, let's spend!)
 - Money distribution: how wealth is distributed
 
-Both of those generate the queen force of supply and demand: how much people want that thing compared to how many one of that thing be produced.
+Both of those generate the queen forces of supply and demand: how much people want that thing compared to how many ones of that thing be produced.
 
 Finally, external factors can drastically impact them too:
 - Environmental crisis: climate change, drought, etc.
 - Political instability: war, revolution, treaties, embargo, etc.
 - Random events ([like the evergreen boat stuck in the Suez Canal](https://www.bbc.com/news/business-56559073))
 
-Price changes because one of those factors is impacted. Tax cuts or hikes can raises or lowers cost of production and distribution. Risk can increase which increase insurance cost, etc.
+Price changes because one of those factors is impacted. Tax cuts or hikes can raise or lowers the cost of production and distribution. Risk can increase which increase insurance cost, etc.
 
 For supply and demands, it is even more complex as an increase/decrease in demand is not necessarily met by a price increase/decrease as it could be met by an increase/decrease of supply instead: Producers can adapt to the market. Price will move only if the change is sudden: high demand increase would lead to what we call a demand-pool effect, increasing prices and a sudden drop of supply would lead to the same outcome (called a cost-push).
 
-<sub>*Sidenote: I'm not even talking about how humans can be creative just like with luxury products where their rarity is articificially maintained by luxury brands.*</sub>
+<sub>*Sidenote: I'm not even talking about how humans can be creative just like with luxury products where their rarity is artificially maintained by luxury brands.*</sub>
 
-All things being equal, I want to highlight the fact that increasing money supply is **not** a cause of inflation (sorry Milton). This belief has been debunked by past experience many times. At most, increasing the money supply can impact inflation on the long term but never in short term. Inflation is much more linked to the other factors.
+All things being equal, I want to highlight the fact that increasing the money supply is **not** a cause of inflation (sorry Milton). This belief has been debunked by past experiments many times. At most, increasing the money supply can impact inflation in the long term but never in short term. Inflation is much more linked to the other factors.
 
 > Do the work:
 >
 > - [Inflation theories](https://www.britannica.com/topic/inflation-economics)
 
 #### The special case of the exchange rate
-As long as a country is making business with the outside world, the exchange rate impact all its exportation and importation. So it definitely impact cost of productions and distributions.
+As long as a country is making business with the outside world, the exchange rate impacts all its exportation and importation. So it impacts the cost of productions and distributions.
 
-What make that rate change? Hard to know as it is controlled by a very speculative financial market called the foreign exchange. The only thing I could venture to say is that its trend should be impacted by the relative confidence between currencies.
+What makes that rate change? Hard to know as it is controlled by a very speculative financial market called the foreign exchange. The only thing I could venture to say is that its trend should be impacted by the relative confidence between currencies.
 
-If people see the dollars as a good store of value, they will preferred to be paid in dollar when they sell something. This makes the dollar overall attractive and we should see the foreign exchange value the dollar more relatively to other currencies.
+If people see the dollars as a good store of value, they will prefer to be paid in dollars when they sell something. This makes the dollar overall attractive and we should see the foreign exchange value the dollar more relative to other currencies.
 
-Now, why people would rather be paid in dollar? Because you expect that precise currency to keep its value though time. Why would you believe in that? Probably because the United States of America is the top one country in the world when we look at the GDP per Capita (per people) and this is how we measure happiness in our current belief system.
+Now, why people would rather be paid in dollars? Because you expect that precise currency to keep its value through time. Why would you believe in that? Probably because the United States of America is the top one country in the world when we look at the GDP per Capita (per people) and this is how we measure happiness in our current belief system.
 
 > What signal?:
 >
@@ -387,13 +360,13 @@ We tend to distinguish 5 regime of inflation:
 - High inflation (5% < IR < 50%)
 - Hyperinflation ( IR > 50%)
 
-Inflation is good as long as it is moderate and even more importantly stable. In this case, it give time to the real economy to adapte its price, wages and production. Problems arise when it fluctuates a lot creating a lot of anxiety about price or when it's too high or too low. 
+Inflation is good as long as it is moderate and even more importantly stable. In this case, it gives time to the real economy to adapt its price, wages and production. Problems arise when it fluctuates a lot creating a lot of anxiety about price or when it's too high or too low. 
 
 Deflation is the worst as it creates a self-reinforcing loop pushing a country into more and more misery. And the second worse is hyperinflation where no one in the economy has time to adapt creating a lot of instability.
 
 <sub>*Sidenote: Near-zero inflation is also considered harmful because it is believed that they are signs of a worsening economy, deflation might be on our doorstep).*</sub>
 
-This is why people have decided that 2% of inflation is good. It gives us a safeguard agains deflation, allows the economy to adapt and boost spending. But as always in the economy, there is no proof that this is true, it is completely arbitrary and ism otivated more by past observations than any scientific demonstration.
+This is why people have decided that 2% of inflation is good. It gives us a safeguard against deflation, allows the economy to adapt and boost spending. But as always in the economy, there is no proof that this is true, it is completely arbitrary and is motivated more by past observations than any scientific demonstration.
 
 > Do the work:
 >
@@ -401,57 +374,57 @@ This is why people have decided that 2% of inflation is good. It gives us a safe
 > - [https://www.investopedia.com/terms/h/hyperinflation.asp](https://www.investopedia.com/terms/h/hyperinflation.asp)
 
 ### When does inflation transform into hyperinflation?
-It does not, unless we have some very special and very rare economical conditions, it is always the result of an already very weak economy poorly managed by politics.
+It does not unless we have some very special and very rare economical conditions, it is always the result of an already very weak economy poorly managed by politics.
 
-Hyperinflation is a sudden and strong inflation rate increase (usually when percentage does not hold any meaning anymore). If we were to experience hyperinflation on the CPI, it would means that in a few weeks, the price of everything, including the baguette could surge: With a 50% rate month-to-month hyperinflation, a baguette which cost $1 today could cost $1.5 next month !
+Hyperinflation is a sudden and strong inflation rate increase (usually when percentage does not hold any meaning anymore). If we were to experience hyperinflation on the CPI, it would mean that in a few weeks, the price of everything, including the baguette could surge: With a 50% rate month-to-month hyperinflation, a baguette that cost $1 today could cost $1.5 next month!
 
-<sub>*sidenote: because there is no official threshold on the inflation rate to declare hyperinflation (there is only a conventional one at 50% per month). it is the kind of concept that the media loves to nutrish their feer-mongering business (which will probably increase expected inflation).  I would expect that 10% inflation rate will enough to see the word hyperinflation screamed everywhere, even though that would just be a high inflation rate.*</sub>
+<sub>*sidenote: because there is no official threshold on the inflation rate to declare hyperinflation (there is only a conventional one at 50% per month). it is the kind of concept that the media loves to nourish their fear-mongering business (which will probably increase expected inflation).  I would expect that a 10% inflation rate will be enough to see the word hyperinflation screamed everywhere, even though that would just be a high inflation rate.*</sub>
 
 In history we have mainly 3 cases:
-- The germany case which happened after their defeat in world war 1. They were under drastic limitation from the international community, we could even say they ere suffering a kind pf punishment from the world.
+- The German case happened after their defeat in world war 1. They were under drastic limitation from the international community, we could even say they were suffering a kind of punishment from the world.
 - The current Venezuela case. A perfect Achilles heel example of an economy supported by only one resource (oil). No surprise that a production problem or a lower price of that resource would start a downward spiral for the whole country.
 
-For example, germany saw an hyperinflation period after the first world war because they had to reimburse all the war winners and were forbidden to use some of their financial tools to boost their economy. Currently Venezuela suffers hyperinflation because their whole economy was relying on petrol exportation to be able to import everything else. When the price of petrol fell, everything started to ran out which started hyperinflation (see below for more information).
+For example, Germany saw a hyperinflation period after the first world war because they had to reimburse all the war winners and were forbidden to use some of their financial tools to boost their economy. Currently, Venezuela suffers hyperinflation because their whole economy was relying on petrol exportation to be able to import everything else. When the price of petrol fell, everything started to run out which started hyperinflation (see below for more information).
 
-To conclude, this will not happens in a normally diversified economy not suffering a catastrophic event like a war or a huge natural catastrophe (Climate change is a good candidate in long-term). What is much more probable is a high inflation rate for some time. 
+To conclude, this will not happen in a normally diversified economy not suffering a catastrophic event like a war or a huge natural catastrophe (Climate change is a good candidate in the long-term). What is much more probable is a high inflation rate for some time. 
 
 ### Impact on the real economy
-- Your savings value diminish: Since inflation raise prices, the same amount of money can buy less and less goods the more time passes. So inflation is not good for savers.
-- Your debt value diminish too: Again, since the same amount of money can buy less and less, it is expected to earn more in the future than now. It should then ease your capacity to reimburse your debt the more time passes. So inflation is good for existing borrower.
-- The effect on the debt, make lender mush less happy: because they are on the other side of the credit, they have to make sure that the inflation rate does not increase so much that it overcomes their interest rate. If it does, they will start to increase their interest rate and reduce the quantity of credit. So inflation is bad for lender and new borrower
-- Money redistribution: Companies tend to transfer inflation on their cost to the end customer making more money in the process. But they tend to avoid raising wages too. This extra money is usually redistributed to the shareholders. On overall inflation tends to increase inequalities. This example can be generalised to multiple situations and always depends on the balance of power between the different parties. But in general, it is not so good for the lower class.
-- Uncertainty: If inflation starts to fluctuate a lot, people  starts to be warry about what they should do with their money. This not good for anyone as our current economical system relies on confidence in itself. So high inflation variation is bad for everyone in the end.
+- Your savings value diminish: Since inflation raise prices, the same amount of money can buy fewer and fewer goods the more time passes. So inflation is not good for savers.
+- Your debt value diminish too: Again, since the same amount of money can buy less and less, it is expected to earn more in the future than now. It should then ease your capacity to reimburse your debt the more time passes. So inflation is good for existing borrowers.
+- The effect on the debt, make lender mush less happy: because they are on the other side of the credit, they have to make sure that the inflation rate does not increase so much that it overcomes their interest rate. If it does, they will start to increase their interest rate and reduce the quantity of credit. So inflation is bad for lenders and new borrowers
+- Money redistribution: Companies tend to transfer inflation on their cost to the end customer making more money in the process. But they tend to avoid raising wages too. This extra money is usually redistributed to the shareholders. Overall inflation tends to increase inequalities. This example can be generalised to multiple situations and always depends on the balance of power between the different parties. But in general, it is not so good for the lower class.
+- Uncertainty: If inflation starts to fluctuate a lot, people start to be warry about what they should do with their money. This not good for anyone as our current economical system relies on confidence in itself. So high inflation variation is bad for everyone in the end.
 
 ### Impact on the financial markets
 Ass we've seen, when people talk about inflation, they talk about the measures like the CPI. All those measures are calculated on new things and never on second-hand products. For that reason, whatever happens in the secondary market is never taken into account for inflation: Bubbles never impact it.
 
-But it is not true on the other direction. Inflation impact finacial markets through the bond market and throught the commodity market. The commodity market is the market of the primary sector of the economy, those are real products like fruits, cereals, metals, etc.
+But it is not true in the other direction. Inflation impact financial markets through the bond market and the commodity market. The commodity market is the market of the primary sector of the economy, those are real products like fruits, cereals, metals, etc.
 
-The bond market gets impacted on its bonds yields. Investors will always push to keep the yield above the inflation rate. This means, that bond price must lower if inflation increase, so people must sell bonds. On the overall, it means that people will divest their fund out of the bond market. Those newly released funds will mainly go into the stock market, the crypto market or the commodity market.
+The bond market gets impacted on its bonds yields. Investors will always push to keep the yield above the inflation rate. This means, that bond price must lower if inflation increase, so people must sell bonds. Overall, it means that people will divest their fund out of the bond market. Those newly released funds will mainly go into the stock market, the crypto market or the commodity market.
 
-The commodity market is first in high inflation period because it is impacted positively by definition. Commodities price increase.
+The commodity market is first in a high inflation period because it is impacted positively by definition. Commodities price increase.
 
-What about stocks? The situation is much more complex here because stocks are impacted indirectly through the real economy and their possible bonds: simply put, it depends on their financial situation. Those impacted badly are the ones needing more borrowing to keep going as the cost of borrowing will increase (interest rate > inflation rate). Stocks producing and sellings goods will see their cost of productions increase but their revenu increase too. It will then depends wher inflation hits harder: it can be a winning situation or a loosing one. Wage might increase depending on the government in power (especially the legal minimum wage). One needs to keep an eye on the economy to invest wisely.
+What about stocks? The situation is much more complex here because stocks are impacted indirectly through the real economy and their possible bonds: simply put, it depends on their financial situation. Those impacted badly are the ones needing more borrowing to keep going as the cost of borrowing will increase (interest rate > inflation rate). Stocks producing and selling goods will see their cost of productions increase but their revenue increase too. It will then depends on where inflation hits harder: it can be a winning situation or a losing one. Wage might increase depending on the government in power (especially the legal minimum wage). One needs to keep an eye on the economy to invest wisely.
 
 ### Expectations
-Now that we've seen that inflation impacted the whole economy at once, you start to understand why investors are tracking it so precisely. This lead naturally to the notion of expected inflation. If you expect inflation to get lower or higher, you investment strategy could be completely different.
+Now that we've seen that inflation impacted the whole economy at once, you start to understand why investors are tracking it so precisely. This leads naturally to the notion of expected inflation. If you expect inflation to get lower or higher, your investment strategy could be completely different.
 
 Investors had an easy time computing their real ROI in the present but things start to be more complicated when we talk about the future. If we want to anticipate what will be our real ROI on a given period we now have two numbers to guess:
 
 - The expected ROI (which is the goal)
-- The expected inflation rate (which will be the constaint)
+- The expected inflation rate (which will be the constraint)
 
-**beware now, when you listen to any kind of forcasters, remember that the open market is considered to be [a second-order chaotic system](https://danielmiessler.com/blog/first-second-order-chaos/) and by definition is nearly unpredictable.**
+**beware now, when you listen to any kind of forecasters, remember that the open market is considered to be [a second-order chaotic system](https://danielmiessler.com/blog/first-second-order-chaos/) and by definition is nearly unpredictable.**
 
-**Also, remember for yourself, that one of the most pervasive and unavoidable bias of the human species is the [confirmation bias](https://en.wikipedia.org/wiki/Confirmation_bias) among other biased emotions like [FUD](https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt), [FOMO](https://en.wikipedia.org/wiki/Fear_of_missing_out) and many others. Don't trust too good to be true prophecies! Do the fu\*\*g work!**
+**Also, remember for yourself, that one of the most pervasive and unavoidable biases of the human species is the [confirmation bias](https://en.wikipedia.org/wiki/Confirmation_bias) among other biased emotions like [FUD](https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt), [FOMO](https://en.wikipedia.org/wiki/Fear_of_missing_out) and many others. Don't trust too good to be true prophecies! Do the fu\*\*g work!**
 
-If we want to add more objectivity in there, the scientific method is the way to go with tools like statistics. But for the future we are left with models that are usually inspired from the past and those are not hard science and suffer from a generalization problem (incapacity to tell the future from learning from past events). So in general we are left with gut feelings, beliefs, reactive behaviours, and other non rational behaviours (this is also the main reaaon why the market is not that "efficient").
+If we want to add more objectivity there, the scientific method is the way to go with tools like statistics. But for the future, we are left with models that are usually inspired from the past and those are not a hard science and suffer from a generalization problem (incapacity to tell the future from learning from past events). So in general we are left with gut feelings, beliefs, reactive behaviours, and other non-rational behaviours (this is also the main reason why the market is not that "efficient").
 
-As a second-order chaotic system, beliefs about the market impact it directly. Because beliefs tend to create expectations, and expectations when shared by enough people can become a self-fulfilling prophecy: If enough people want an asset to go up or down, it will indeed happen.
+As a second-order chaotic system, beliefs about the market impact it directly. Because beliefs tend to create expectations, and expectations, when shared by enough people, can become a self-fulfilling prophecy: If enough people want an asset to go up or down, it will indeed happen.
 
 How is this all related to inflation? Because expected inflation is a thing! 
 
-In particular, it is a very powerful force in the bond market as yields are directly impacted by inflation and investors tend to invest for longer period of time in the bond market.
+In particular, it is a very powerful force in the bond market as yields are directly impacted by inflation and investors tend to invest for a longer period in the bond market.
 
 > What signal?
 >
@@ -463,26 +436,26 @@ Because speculative bubbles happened on the secondary market, they are not taken
 
 Bubbles appear because the inflation expectation of certain assets become the predominant force transforming itself again into a self-fulfilling prophecy. The prices start to increase powered by a succession of human emotions like "the fear of missing out" (FOMO).
 
-Pure speculators starts to actively hype up the train because they invested on margin (with a loan) and needs a return as soon as possible. Their power is accelerated by the fact that they are indeed making money and everyday is a new day when peopled to have invested yesterday. Those lucky speculators feel validated and might raise themselves to the guru status arguing that it will keep going up, bringing even more people on the board. This keeps on-going until the price is so high that doubt starts to appear among speculators. At this point, it is all about faith. 
+Pure speculators start to actively hype up the train because they invested on margin (with a loan) and needs a return as soon as possible. Their power is accelerated by the fact that they are indeed making money and every day is a new day when people have invested yesterday. Those lucky speculators feel validated and might raise themselves to the guru status arguing that it will keep going up, bringing even more people on the board. This keeps on going until the price is so high that doubt starts to appear among speculators. At this point, it is all about faith. 
 
-<sub>*Sidenote: a funny thing is that those speculators are usually oblivious to their own behaviours. Some of them will even conduct actual research to prove their point. The problem lies in the fact that they are looking for comfirmation bias and not the real truth. On top of that, being right is not necessarily the best way to make market in the open market.*</sub>
+<sub>*Sidenote: a funny thing is that those speculators are usually oblivious to their behaviours. Some of them will even conduct actual research to prove their point. The problem lies in the fact that they are looking for confirmation bias and not the real truth. On top of that, being right is not necessarily the best way to make a profit in the market.*</sub>
 
 Interestingly, a bubble is an asset (or set of assets) hyperinflation. FUD on that asset increase, volatility increase, risk increase. And the usual dynamic of hyperinflation is the result: 
 - First, prices increase fast
 - Then, prices way overshoot what could be decent values
 - Then, prices decrease fast which might make prices undershoot decent values too
-- Finally, prices settles to a new satisfying value for the market.
+- Finally, prices settle to a new satisfying value for the market.
 
-<sub>*Sidenote: What happened with GME is a textbook example. From a value stock, it went through a bubble period (might still be in as volatility is still high). But the future might be even more interesting as it might become a growth stocks if it successfully execute its own transition (A previous example of a successful digital transiton can be seen with [Netflix](https://en.wikipedia.org/wiki/Netflix#History)).* </sub>
+<sub>*Sidenote: what happened with GME is a textbook example. From a value stock, it went through a bubble period (might still be in as volatility is still high). But the future might be even more interesting as it might become a growth stock if it successfully executes its transition (A previous example of a successful digital transition can be seen with [Netflix](https://en.wikipedia.org/wiki/Netflix#History)).* </sub>
 
 #### From an investment market to a casino
-When the secondary market sees multiple assets getting hyperinflated successively, the stock market can start to look like a casino much more than a market. The problem is that the difference between investing and speculation is so little that it can be hard to spot when an investor is investing and when he si speculating. As long as you bet that a stock will go up, even if you wait 5 years, isn't it a kind of speculation? On the other hand, the GME case show taht short term investment can save a company, isn't it a very good investment? I'll let you think about it.
+When the secondary market sees multiple assets getting hyperinflated successively, the stock market can start to look like a casino much more than a market. The problem is that the difference between investing and speculation is so little that it can be hard to spot when an investor is investing and when he is speculating. As long as you bet that a stock will go up, even if you wait 5 years, isn't it a kind of speculation? On the other hand, the GME case shows that short term investment can save a company, isn't it a very good investment? I'll let you think about it.
 
-Anyway, this tends to change drastically the market dynamic. People are chasing bubbles just for the sake of it without any other goal than making money. The problem is that the real economy is never casino and the market should not be too uncorrelated with the economy. Why? Because the real economy is like gravity for the market, if it starts to levitate too high above reality, it will grounded back violently and a financial crisis always lead to a real economical crisi because of investors being very sad. And now, everybody start to suffers the crisis effect.
+Anyway, this tends to change drastically the market dynamic. People are chasing bubbles just for the sake of it without any other goal than making money. The problem is that the real economy is never casino and the market should not be too uncorrelated with the economy. Why? Because the real economy is like gravity for the market, if it starts to levitate too high above reality, it will be grounded back violently and a financial crisis always leads to a real economical crisis because investors start to be very sad. And now, everybody starts to suffer the crisis effect.
 
-We tend to call a market a casino when the amount of risks taken by investors is too damn high! You can measure it with the global margin debt (amount borrowed by people to invest in the financial markets). The important point here is the acceleration of margin debt: if it increase fast, it is not a good sign as more and more people are risking much more than they have. You can also feel it when you start to observe many bubbles (~~SPACs 👀~~, ~~NFTs 👀~~) and [investment funds start to get margin called](https://www.nytimes.com/2021/04/03/business/bill-hwang-archegos.html). It is also reflected into the bull/bear ratio (weekly poll of investment advisors) which start to be overly positive and tends to see high volatility variation.
+We tend to call a market a casino when the amount of risks taken by investors is too damn high! You can measure it with the global margin debt (the amount borrowed by people to invest in the financial markets). The important point here is the acceleration of margin debt: if it increases fast, it is not a good sign as more and more people are risking much more than they have. You can also feel it when you start to observe many bubbles (~~SPACs 👀~~, ~~NFTs 👀~~) and [investment funds start to get margin called](https://www.nytimes.com/2021/04/03/business/bill-hwang-archegos.html). It is also reflected in the bull/bear ratio (weekly poll of investment advisors) which start to be overly positive and tends to see high volatility variation.
 
-It happens that all of those 3 signals are full on right now. In such market, hyperinflation would crash the whole market as drop in some sectors will margin called big hedge funds and soon, banks discovers that the whole system is tied together and will fall as one (as in 2008, it's particularly relevant today as nothing has been done to prevent the systemic risk of 2008 and we are 13 years later, how time flies!).
+It happens that all of those 3 signals are full-on right now. In such a market, hyperinflation would crash the whole market as a general price drop in some sectors could margin call big hedge funds and soon, banks discover that the whole system is tied together and will fall as one (as in 2008, it's particularly relevant today as nothing has been done to prevent the systemic risk of 2008 and we are 13 years later, how time flies!).
 
 > What signal?
 >
@@ -492,10 +465,10 @@ It happens that all of those 3 signals are full on right now. In such market, hy
 
 ## How to control inflation?
 
-Even though hyperinflation is very unlikely in the US, a too high/low inflation rate or even a negative one would be a bad news for the economy in general. This is why we would feel a lot more safer if we could control inflation. Even though we don't really understand what creates it in the first place, it doesn't stop us to try to mitigate its variations. This is why humans have created 2 specials players in the game: governments and central banks. Those have very special capacities and can intervene in the game dynamics.
+Even though hyperinflation is very unlikely in the US, a too high/low inflation rate or even a negative one would be bad news for the economy in general. This is why we would feel a lot safer if we could control inflation. Even though we don't understand what creates it in the first place, it doesn't stop us to try to mitigate its variations. This is why humans have created 2 specials players in the game: governments and central banks. Those have very special capacities and can intervene in the game dynamics.
 
 ### Governements
-Governments have been created to lead countries on path of sustainability and well-being. The subject in itself is already complex enough so will consider economic growth as a proxy for "sustainability and well-being" and GDP as a proxy for exonomic growth. Those are drastic simplification but it is not so far fetched when one look at economic models, At least this is coherent with the world current dominant belief system where, economic growth through GDP measurement seems to be the indicator to maximise.
+Governments have been created to lead countries on the path of sustainability and well-being. The subject in itself is already complex enough so will consider economic growth as a proxy for "sustainability and well-being" and GDP as a proxy for economic growth. Those are drastic simplification but it is not so far fetched when one look at economic models, At least this is coherent with the world current dominant belief system where, economic growth through GDP measurement seems to be the indicator to maximise.
 
 To facilitate the maximisation of GPD in the economy, governments have a set of tools to influence how all the agents should behave:
 
