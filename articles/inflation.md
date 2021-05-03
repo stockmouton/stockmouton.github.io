@@ -465,27 +465,29 @@ It happens that all of those 3 signals are full-on right now. In such a market, 
 
 ## How to control inflation?
 
-Even though hyperinflation is very unlikely in the US, a too high/low inflation rate or even a negative one would be bad news for the economy in general. This is why we would feel a lot safer if we could control inflation. Even though we don't understand what creates it in the first place, it doesn't stop us to try to mitigate its variations. This is why humans have created 2 specials players in the game: governments and central banks. Those have very special capacities and can intervene in the game dynamics.
+Even though hyperinflation is very unlikely in the US, a too high/low inflation rate or even a negative one would be bad news for the economy in general. This is why we would feel a lot safer if we could control it (or at least, influence it, more on that later). Even though we don't understand what creates it in the first place, it doesn't stop us to try to mitigate its variations. This is one of the goals of the 2 special players in the game: governments and central banks. Those have very special capacities and can intervene in the game dynamics.
 
 ### Governements
-Governments have been created to lead countries on the path of sustainability and well-being. The subject in itself is already complex enough so will consider economic growth as a proxy for "sustainability and well-being" and GDP as a proxy for economic growth. Those are drastic simplification but it is not so far fetched when one look at economic models, At least this is coherent with the world current dominant belief system where, economic growth through GDP measurement seems to be the indicator to maximise.
+Governments have been created to lead their people on the path of sustainability and well-being. The subject in itself is already complex enough so we will consider only its economic side: economic growth is the proxy for "sustainability and well-being" and GDP is the measure for economic growth. Those are drastic simplification but it is not so far fetched when one look at economic models. At least this is coherent with the world's current dominant belief system where economic growth through GDP measurement is maximized all around the world (it is not the subject of this article to ti argue against or for GDP).
 
-To facilitate the maximisation of GPD in the economy, governments have a set of tools to influence how all the agents should behave:
+To maximize the countries GPD, governments influence how all the agents should behave using a set of recognized worldwide tools:
 
-- Taxes: Taxes are all over the place, they are the cornerstone of wealth redistribution and this redistribution is controlled by governments. Money is taken on every business and individual in a country and redirected to problems that matters (one of the most debated question on earth probably). Tax can be applied specifically to industry (add a tax on oil and all the price linked to it will increase mechanically), to some other countries (import tax on china), to special kind of goods (like cigarette), to people directly, etc. This is a good way to control some part of the inflation rate as a tax decrease/increase will decresse/increase cost of production which will usually be transfered on the price of thing impacted.
+- Taxes: Taxes are all over the place, they are the cornerstone of wealth redistribution and this redistribution is controlled by governments. Money is taken on every business and individual in a country and redirected to problems that matter (one of the most debated questions on earth probably). Tax can be applied specifically to industry (add a tax on oil and all the price linked to it will increase mechanically), to some other countries (import tax on china), to special kind of goods (like cigarettes), to people directly (VAT), etc. This is a direct way to control some part of the inflation rate as a tax decrease/increase will decrease/increase the cost of production which will be transferred on the price of things impacted down the line.
 
-- Debt: Even though, at the scale of a  country, tax amount might seems huge, it is usually not enough when you want to invest aggressively. This is why governments take on some debt too. To do so, governments issue treasury bonds on the primary market which are bought by investment banks from all around the world. This money used to invest massively into strategic industry. If those investment banks are so eager to buy treasury bonds, it is because those bonds representing the government debt is special: As long as the country is powerful and stable, the loan is considered "risk-free" because a it is able to keep taxing his population without risking being under attack or seeing a revolution from inside. And since a country life expectancy is usually along hundreds of year, this is not surprising to consider the risk of default to be 0. 
+- Debt: Even though at the scale of a country, taxes amount might seem huge, it is usually not enough when you want to invest aggressively. This is why governments take on some debt too. To do so, governments issue treasury bonds on the primary market which are bought by investment banks from all around the world. The resulting money is then used to invest massively into strategic long-term projects. If those investment banks are so eager to buy treasury bonds, it is because those bonds representing the government debt are special. As long as the country is powerful and stable, the loan is considered "risk-free": a country is expected to outlive any human beings as long as it can keep taxing its population. This means avoiding an attack from other countries and avoiding an internal revolution. The more powerful and stable is a country, the more its debt is considered "risk-free".
 
-- Laws and Bills. When the above two are not enough, governments can go even further and create laws/bills to change the rule of game itself. For example, it can ban things directly, like the [USA banned gold at some point](https://en.wikipedia.org/wiki/Gold_Reserve_Act). They might decide to take control over other assets in the future or enforce regulations in finance, etc.
+- Laws and Bills. When the above two are not enough, governments can go even further and create laws/bills to change the rule of the game itself. For example, it can ban things directly ([the USA banned gold at some point](https://en.wikipedia.org/wiki/Gold_Reserve_Act)). They might decide to take control over other assets in the future or enforce regulations in finance and other industries (like weed/shrooms legalization), etc.
 
 #### About treasury bonds
-The direct link between governments and the financial market lies in the bond market. It is represented by those treasury bonds (T-bonds). Those are important to the whole economy because their coupon's rate dictate what a "risk-free" interest rate is. Any other bonds are considered "riskier" than treasury bonds and so should have an coupon's rate at least above the coupon's rate T-bonds on the same period.
+The direct link between governments and the financial market lies in the bond market. It is represented by those treasury bonds (T-bonds). Those are important to the whole economy because their coupon rate dictates what a "risk-free" interest rate is. Any other bonds are considered "riskier" than treasury bonds and so should have a coupon's rate at least above the coupon's rate T-bonds on the same period.
 
-Those bonds are very interesting for investors seeking very low risk over a long period of time. Although they are considered a [safe-haven](https://www.investopedia.com/terms/s/safe-haven.asp) in troubled times (recession) or when volatility and uncertainty is high.
+Those bonds are very interesting for investors seeking very low risk over a long period: they are considered a [safe-haven](https://www.investopedia.com/terms/s/safe-haven.asp) (a safe asset in troubled times (recession) or when volatility and uncertainty rise).
 
-The only problem with those T-bonds is the fact the government creates debt when they issue those bonds. Debt is not a problem in itself as long as it is used to fuel strategic investment. But what is a strategic investment for a government? You might ask. It should be one that build the foundation taht will help keep the GDP increase from our myopic point of view. And which one are those? The question remains among economist and politics as nobody really knows. And people tend to be scared of non-wise public spending because nobody really understand the effect of governement debt on the economy. Nobody really knows when too much debt is actually too much.
+The only problem with those T-bonds is the fact the government creates debt when they issue those bonds. Debt is not a problem in itself as long as it is used to fuel strategic investment. But what is a strategic investment for a government? You might ask. In our current system, it must be one that builds the foundation needed for the GDP to grow. And which one are those? This question remains unanswered among economists and politics as nobody knows. Also, People tend to be scared of non-wise public spending because nobody really understands the effect of government debt on the economy: nobody knows when too much debt is too much.
 
-A second effect of issuing T-bonds is that governments reduce the money supply on the market to inject it in the real economy:  money is transformed from cash to T-bonds and T-bonds are less liquid than cash by definition. Usually it doesn't matter but in 2019 it actually led to a crisis: the US government issued too much bonds and it started a liquidity issue ([called the repo. crisis](https://blog.independent.org/2019/12/16/how-excessive-federal-spending-sparked-a-liquidity-crisis/). Banks coudln't lend money overnight fast enough which slow down drastically money flow for a while, forcing an other instituion to intervene!
+A side-effect of issuing T-bonds is that governments reduce the money supply on the market to inject it into the real economy:  money is transformed from cash to T-bonds and T-bonds are less liquid than cash by definition. Usually, it doesn't matter but in 2019 it led to a crisis: the US government issued too many bonds and it started to cause a liquidity issue ([called the repo. crisis](https://blog.independent.org/2019/12/16/how-excessive-federal-spending-sparked-a-liquidity-crisis/). Banks couldn't lend money overnight fast enough which slow down drastically money flow for a while.
+
+This crisis was resolved by the second type of special player: central banks.
 
 > Do the work
 >
@@ -501,17 +503,19 @@ A second effect of issuing T-bonds is that governments reduce the money supply o
 > - *be careful, some of them track bond price others bond yield*
 
 ### Central banks
-Central banks are the second pillar of today economy. While governments can generate debt as much as they want, central banks can do even better by creating (or destroying) money as much as they want. Even thoough their money is a little bit special as it can go in retails pocket, it can still go in the banking system which is more than enough to be powerfull.
+Central banks are the second pillar of today's economy. While governments can generate debt as much as they want, central banks can do even better by creating (or destroying) money as much as they want. 
 
-Think about it twice. At any point in time, there are institutions (central banks) that can buy as many things as they want just because they want to. Literally by adding a line in a database somewhere. This is the most powerful intervention that exist on the market and as we all know, with great power comes great responsability. This is why people invented and keep inventing ways of doing this intervention.
+Think about it twice. At any point in time, there are institutions (central banks) that can buy as many things as they want just because they want to. Literally by adding a line in a database somewhere. This is the most powerful intervention that exists on the market and as we all know, with great power comes great responsibility. This is why people invented and keep inventing ways of doing this intervention in the hope of striking a good balance.
 
-**I would like to add a disclaimer right here! Economy is not a science, it is a bunch or abirtrary rules that are then, studied apostiori by economist. On top of it, finance is a type 2 chaotic system. So even central banks around the world are not completely sure of what happens when they intervene in this mess.** Now you probably understand why any action in the economy starts emotionnaly charged debate: the open market is a multi-player cooperative and competitive arbitrary game which evolves all the time, asymetric information (where some players know more than the others) happens all the time and all the players (humans) are completely irrational (and no, irrationality is not averaged off)! So please, don't ever tell me that the market is efficient in any sense (by the way access to information is the number one problem currently and we, at stockmouton, are trying to change that, follow us ;) ). 
+**I would like to add a disclaimer right here! The economy is not a science, it is a bunch of arbitrary rules decided by humans. Their effects are studied a posteriori by economists. On top of it, finance is a type 2 chaotic system. So even central banks around the world are not completely sure of what happens when they intervene in this mess.** Now you probably understand why any action in the economy starts emotionally charged debate: the open market is a multi-player cooperative and competitive arbitrary game which evolves all the time, asymmetric information (where some players know more than the others) happens all the time and all the players (humans) are completely irrational! So please, don't ever tell me that the market is efficient in any sense 
 
-Bakc to central banks, how do they print money you ask? In the past it was the good old printer machine but nowadays it is mainly done on the bond market by buying bonds, any bonds. But of course, Central banks tend to focus on T-bonds  which in this case have a special expression: to "monetize debt" which means buying T-bonds.
+<sub>*By the way, access to investment information is one of the big problems currently and we, at Stockmouton, are trying to change that. interested? Follow us.*</sub>
+ 
+Back to central banks! how do they print money you ask? In the past, it was the good old printer machine but nowadays it is mainly done on the bond market by buying bonds (any kind of bonds). But of course, Central banks tend to focus on T-bonds which in this case have a special expression: to "monetize debt" ( = buying T-bonds).
 
-Why they do that? They do that because they expect their intervention to help their economy achieve some goals. In the US case, you can check the [FED press release](https://www.federalreserve.gov/newsevents/pressreleases.htm) to keep an eye on its objectives and how it plan to achieve them. 
+They do that because they expect their intervention to help their economy achieve some goals. In the US case, you can check the [FED press release](https://www.federalreserve.gov/newsevents/pressreleases.htm) to keep an eye on its objectives and how it plans to achieve them. 
 
-<sub>*Sidenote: those press release are sometimes called opem mouth operations (mirroring the open market operations name). People called them like that because it impact global expectations about the future greatly.*</sub>
+<sub>*Sidenote: those press releases are sometimes called open mouth operations (mirroring the open market operations name). People called them like that because it impacts greatly global expectations about the market future.*</sub>
 
 > What signal?
 >
@@ -520,95 +524,54 @@ Why they do that? They do that because they expect their intervention to help th
 > - [Discount rate](https://fred.stlouisfed.org/series/INTDSRUSM193N)
 
 #### Controlling key rates
-Outside of directly chaging the money supply, central banks have a high impact on the open market through their communication. Since it would require a huge amount of money to oppose a central bank decision from an investors point of view (it might be impossible), it is always best to ensure that your incentives are aligned with them.
+Outside of directly changing the money supply, central banks have a high impact on the open market through their communication. Since it would require a huge amount of money to oppose a central bank decision from an investor's point of view (it might be impossible), it is always best to ensure that your incentives are aligned with them.
 
-I already talked about T-bonds and their impact on the bond market as a treshold for "risk-free" assets. But the minimal interest rate is actually set by central banks in their respective area. 
+I already talked about T-bonds and their impact on the bond market as a threshold for "risk-free" assets. But the minimal interest rate is set by central banks in their respective area. 
 
 In the US, the most important interest rates (called key rates) are the [federal fund rate](https://www.investopedia.com/terms/f/federalfundsrate.asp) and [the discount rate](https://www.investopedia.com/terms/d/discountrate.asp):
 
 ##### The federal fund rate
-It is not a real rate but only a target (objectif) fixed by the Federal reserve. It is defined for all interbank interest rates. The goal of the FED is to bring the effective fund rate (average of all interbank interest rates) as close as possible to its target. It does so using open market/mouth operations and controlling other rates. This is the mother of all rate as the effective fund rate impact how banks make loans and so define a minimal interest rate for any other loans.
+It is not a real rate but only a target (objective) fixed by the Federal Reserve. It is defined for all interbank interest rates. The goal of the FED is to bring the effective fund rate (average of all existing interbank interest rates) as close as possible to its target. It does so using open market/mouth operations and controlling other rates. This is the mother of all rates as the effective fund rate impact how banks make loans and so define a minimal interest rate for any other loans.
 
 ![Fed fund rate](https://fred.stlouisfed.org/graph/fredgraph.png?g=D3Ii)
 
-The problem as we see in this graph, is that the FED tends to be reactionary to the efffective fund rate. Meaning that the FED does not announce a new FED fund rate which clash with the effective one, it usually move the rate before it talks.
-
+The problem as we see in this graph is that the FED tends to be reactionary to the effective fund rate: the FED does not announce a new FED fund rate that goes against the effective one. It begs the question: does it have real control power? I'm not so convinced personally. On the other hand, it can be taken as a good signal that the banking system has moved its interest rates overall.
 
 ##### The discount rate
-It is the interest rate central banks charge private banks for short-term loans. When private banks can't borrow money from other private banks (supply problem, loan too big), they start to ask their central banks. The interbank rate has to be lower to it as banks could then just makes loan to the central bank instead of other banks. So it will either incentivize banks to borrow from the central bank or not. This impact the global money supply on the market as central banks are the only ones creating/destroying money.
+It is the interest rate central banks charge private banks for short-term loans. When private banks can't borrow money from other private banks (supply problem, loan too big), they start to ask their central banks. The discount rate is normally higher than interbank rates because borrowing money from the central bank should be seen as a last resort. 
+
+But by changing it, the FED can either incentivize banks to borrow from the central bank or not. This can impact the global money supply on the market (only central banks are the only ones creating/destroying money).
 
 ##### The interest rate of excess reserves (IOER) 
-It is the rate the FED pays other banks for their excess reserve. The excess reserve is the amount the keep in their reserve above what is needed by regulation. By increasing it, banks are incentivized to keep more money in bank reducing the money supply, slowing down their lending dynamic.
+It is the rate the FED pays other banks for their excess reserve. The excess reserve is the number of money banks keeps in their reserve above what is needed by regulation. By increasing it, banks are incentivized to keep more money in banks reducing the money supply, slowing down their lending dynamic.
 
 ![discount rate and IOER](https://fred.stlouisfed.org/graph/fredgraph.png?g=D3J5)
 
-This is why those FED meeting are so important, their decisions on those meeting impact the whole economy at once. they will mention any rate change, provide and update their forecast for the coming years but also announce if they plan some [(called open market operations, OMO)](https://www.federalreserve.gov/monetarypolicy/openmarket.htm).
+This is why those FED meetings are so important, their decisions on those meetings impact the whole economy at once. they will mention any rate change, provide and update their forecast for the coming years but also announce if they plan some actions on the market [(called open market operations, OMO)](https://www.federalreserve.gov/monetarypolicy/openmarket.htm).
 
 #### Open market operations
-Open market operations are their last tools in their arsenal. This is how they create or destroy money by directly buying (money injection) or selling (money destruction) bonds in the open market. As I already said, new open market operations can be invented at any time but let's look at the one that we know of:
+Open market operations are their last tool in their arsenal. This is how they create or destroy money by directly buying (money injection) or selling (money destruction) bonds in the open market. As I already said, new open market operations can be invented at any time but let's look at the one that we know of:
 
 - [Yield curve control (YCC, continuous control)](https://www.investopedia.com/what-is-yield-curve-control-4797189)
-The FED targets a long term interest rate by buying and/or selling treasury bonds. The amount of bonds to be bought per month is decided and revised at every FOMC meeting. The total number of bonds needed is uncapped. The goal is to control supply/demand on treasury bonds to keep their yield at the targeted long term interest rate. treasury-bonds yields are completely controlled by the central bank forcing the bond market to deal with the targeted risk-free rate decided by the FED. It is a direct way to maintain a interest rate bellow the inflation rate.
+The FED targets a long-term interest rate by buying and/or selling treasury bonds. The number of bonds to be bought per month is decided and revised at every FOMC meeting. The total number of bonds needed is uncapped. The goal is to control supply/demand on treasury bonds to keep their yield at the targeted long-term interest rate. Under this operation, treasury bond yields are heavily controlled by the central bank forcing the bond market to deal with the targeted risk-free rate decided by the FED. It is a direct way to maintain an interest rate below the inflation rate (which goes against the purchasing power threshold).
 
 - [Quantitative Easing  (QE, instantaneous injection)](https://en.wikipedia.org/wiki/Quantitative_easing)
-The FED buys a massive, but specific, amount of bonds at a given time, reducing the supply of those bonds on the bond market. Those bonds are not "government-based" bonds but can be any kind of bond (even junk bonds). It increases their value and so decrease their yield while incresing money supply on the market. This is a good way to keep the bond market around low yield overall. The goal here is to inject liquidity at a given time, not target a specific interest rate: after the move, the market comes back to its usual dynamic.
+The FED buys a massive, but specific, amount of bonds at a given time, reducing the supply of those bonds on the bond market. Those bonds are not necessarily "government-based" bonds but can be any kind of bond (even junk bonds). It increases their value and so decreases their yield while increasing the money supply on the market. This is a good way to keep the bond market around low yield overall. The goal here is to inject liquidity at a given time, not target a specific interest rate: after the move, the market comes back to its usual dynamic. 
 
 - [Helicopter money (people QE, instantaneous injection)](https://en.wikipedia.org/wiki/Helicopter_money)
-This part is done in tandem with governments. A government will sign a law providing money directly to the people. That money comes from a debt increase from the governement (issuing T-bonds) while the central bank monetize it (buy the T-bonds). The term "helicopter money" refers to the direct deposit in people bank accounts. It's a form of quantitative easing but directed at the population directly and not at the open market. It is known to increase demand and inflation more directly.
+This part is done in tandem with governments. A government will sign a law providing money directly to the people. That money comes from a debt increase from the government (issuing T-bonds) while the central bank monetizes it (buy the T-bonds). The term "helicopter money" refers to the direct deposit in people's bank accounts. It's a form of quantitative easing but directed at the population directly and not at the open market. It is known to increase demand which increases inflation more directly.
 
 - Stimulus
 This is just an umbrella term that is mainly used by the government to package a set of bills together. It can contain any mix of previous tools.
 
-There exist an infinite number of variations but those have the strongest impact on the open market.The purpose of this post is not to give a complete overview.
+There exist an infinite number of variations but those have the strongest impact on the open market. The purpose of this post is not to give a complete overview.
 
 > Do the work:
 >
 > [Money printing](https://twitter.com/SahilBloom/status/1280507304136318986)
 
-### The FED graph
-<div class="stockmouton-data" style="display:none; width:1000px; margin-left:-150px;">
-source,target,type,position
-
-FED, IOER, set, 0 0
-
-FED, fund rate target, set, none
-
-FED, open mouth operations, do, none
-
-FED, open market operations, do, none
-
-FED, discount rate, set, none
-
-IOER, interbank loans supply, impact-, none
-
-fund rate target, market expectations, impact, none
-
-discount rate, effective fund rate, impact+, none
-
-open mouth operations, market expectations, impact, none
-
-open market operations, buy bonds, do, none
-
-open market operations, sell bonds, do, none
-
-interbank loans supply, effective fund rate, impact-, none
-
-market expectations, bonds yields, impact, none
-
-buy bonds, bonds yields, impact-, none
-
-sell bonds, bonds yields, impact+, none
-
-bonds yields, effective fund rate, impact+, none
-
-bonds yields, other interest rates, impact+, none
-
-effective fund rate, other interest rates, impact+, none
-
-other interest rates, economic growth, impact-, none
-
-other interest rates, inflation rate, impact+, none
-</div>
+### "How to manually influence inflation" graph
+![](inflation/the-fed.png)
 
 ## Kinds of inflation in the wild
 
