@@ -1,31 +1,3 @@
-<!-- TODO:
-- finish the first version
-- Create the dashboard
-- read it 3 times
-- Correct English
-- Show it to Alex
-- Gather feedback and update
-- publish
-
-----
-Make sure those comments are completely included in the post
-
-Ok, so what to look for?
-- inflation rate
-- 3y/10y/30y Treasury yields (the market pricing in expected inflation rate)
-- Listen to the FED + FED target rate and open market operations
-- Listen to the gov and tax cuts/debt
-- signals of economic growth: unemployment level, GDP,
-- population sentiment about inflation
-- bubbles, casino behaviours (look at margin debt, )
-- Value stocks/ growth stocks and subsequent ETF.
-- money pairs
-- Other parts of the worlds that compete with your country. For the US, China should be watched.
-
-I would already secure myself against a crash
-
--->
-
 ## Inflation and market dynamics: A primer
 Meh!
 
@@ -576,13 +548,13 @@ There exist an infinite number of variations but those have the strongest impact
 ## Kinds of inflation in the wild
 
 ### The Gold Reserve Act
-In 1934, The US government enacted the Gold Reserve Act. The US were in a terrible deflationnary period due to great depression of 1929 and needed a way to boost the country growth. As we've seen, theb est is ti have a little bit of inflation to ensure a booming economy. The government response was to raise the gold price of more than 50% and forbidding US citizens and institutions to hold on it. People were more than happy to sell their gold to the government since it was a nice  50% increase overnight! But it was not restricted to the US citiziens, people all around the world started to sell gold to the US.
+In 1934, The US government enacted the Gold Reserve Act. The US was in a terrible deflationary period due to the great depression of 1929 and needed a way to boost the country's growth. As we've seen, the best is to have a little bit of inflation to ensure a booming economy. The government's response was to raise the gold price by more than 50% and then ban the right to own it for US citizens and institutions. People were more than happy to sell their gold to the government since it was a nice 50% increase overnight! But it was not restricted to US citizens, people all around the world started to sell gold to the US.
 
-This big selling increase drastically the mount of dollars in the world outside of the USA which devalued the money. Since the US has an economy much more centered on exportation at the time, those were highly boosted by the low dollar. This external demand-pull force finally impacted inflation. Since the era was very deflationnary, this actually raised back the US inflation [rate around 2.5%](https://www.in2013dollars.com/inflation-rate-in-1934) (high inflation in a delfationnary period).
+This big selling increases drastically the number of dollars in the world outside of the USA which devalued the money. Since the US has an economy much more centered on exportation at the time, those were highly boosted by the low dollar. This external demand-pull force finally impacted inflation. Since the era was very deflationary, this raised back the US inflation [rate around 2.5%](https://www.in2013dollars.com/inflation-rate-in-1934).
 
-As a side effect, it is interesting to note that the US ended with a s**t amount of gold. The 2nd world ward increased even more that quantity making the USA the largest gold reserve. Both this fact and the fact that they won the war helped them to convince the world to accumulate something else than gold in their central bank. And that something else had to be closed to gold, naturally it would be the dollar. So the dollar became de-facto the new world reserve currency, positionning the USA in a very good place.
+As a side effect, it is interesting to note that the US ended with a s**t amount of gold. The 2nd world ward increased it even more making the USA the largest gold reserve. Both this fact and the fact that they won the war helped them convince the world to accumulate something else than gold in their central bank. And that something else had to be closed to gold. Naturally, the dollar was chosen and it became the new world reserve currency, positioning the USA in a very good place.
 
-<sub>*Sidenote: If we follow this line of thinking, the next world reserve currency will be something close to the dollar, what assets could that be? Remember that it should be recognised by the world de-facto as the new one, meaning, the confidence on that asset should so high that everybody will naturally trust someones who owns a lot of it.*</sub>
+<sub>*Sidenote: No world reserve currency stays forever. If we follow this line of thinking, the next world reserve currency will be something close to the dollar, what assets could that be? Remember that it should be recognized by the world de-facto as the new one, meaning, the confidence in that asset should be so high that everybody will naturally trust someones who owns a lot of it.*</sub>
 
 > Do the work:
 >
@@ -591,12 +563,14 @@ As a side effect, it is interesting to note that the US ended with a s**t amount
 
 ### The Obama stimulus and 2008-2009 bond case
 
-In 2009, post housing crisis, Obama injected 800 Billion into the economy (It was big at the time). Those 800 billions were created thanks to tax cuts and treasury bonds creation. As expected the debt increase drastically and people were scared that all those T-bonds would [make the bond market crash](https://money.cnn.com/2009/01/20/markets/bondcenter/credit/index.htm). [Some big bonds investors](https://business.time.com/2011/03/10/the-worlds-largest-bond-fund-gets-out-of-us-debt-good-news/) were even advocating that the crash was upton them and started selling all their bonds. It could have been the start of a self-fulfilling prophecy.
+In 2009, post housing crisis, Obama injected 800 Billion into the economy (It was a big amount at the time). Those 800 billion were created thanks to tax cuts and the creation of new treasury bonds. As expected the debt increase drastically and people were scared that all those T-bonds would [make the bond market crash](https://money.cnn.com/2009/01/20/markets/bondcenter/credit/index.htm). [Some big bonds investors](https://business.time.com/2011/03/10/the-worlds-largest-bond-fund-gets-out-of-us-debt-good-news/) were even advocating that the crash was upon them and started selling all their bonds. It could have been the start of a self-fulfilling prophecy.
 
 But it did not happens. Why is that?
-Mainly, thanks to the FED. It extended her pledge to keep interest low through the years by buying treasury bonds. In 2011, it even increases [the rates of buying](https://fred.stlouisfed.org/series/TREAST) pushing bonds price even higher and keep yields very low. 
+Mainly, thanks to the FED. It extended her pledge to keep interested low through the years by buying treasury bonds. In 2011, it even increases [the rates of buying](https://fred.stlouisfed.org/series/TREAST) pushing bonds price even higher, keeping yields low. 
 
-An other reason is inflation expectation. The Obama government stimulus succeeded at restarting the economy growth, lowering the fear of a recession year after year. As people believed more and more that inflation will be kept low, they kept buying new bonds. On the overall this continue to [reduce bonds yields across that period and until today](https://fred.stlouisfed.org/series/IRLTLT01USM156N).
+Another reason is inflation expectation. The Obama government stimulus succeeded at restarting the economic growth, lowering the fear of a recession year after year. As people believed more and more that inflation will be kept low, they kept buying new bonds. This continues to [reduce bond yields across that period and until today](https://fred.stlouisfed.org/series/IRLTLT01USM156N).
+
+<sub>*Sidenote: Today with the high inflation expectation, if the FED starts tapering its bond-buying program we might be on for a bad ride.*</sub>
 
 
 > Do the work:
@@ -608,19 +582,21 @@ An other reason is inflation expectation. The Obama government stimulus succeede
 
 
 ### Venezuela hyperinflation
-Sadly for Venezuela we can look at a case happening right now (the scale is logarithmic!):
+Sadly for Venezuela, we can look at a case happening right now:
 
-![Value of 1 US dollar Venezuelan Bolivian Fuertes](https://commons.wikimedia.org/wiki/File:Time_BsF_would_take_to_lose_90_percent_of_its_value.png#/media/File:Time_BsF_would_take_to_lose_90_percent_of_its_value.png)
+![Value of 1 US dollar in Venezuelan Bolivian Fuertes (the scale is logarithmic!)](https://commons.wikimedia.org/wiki/File:Time_BsF_would_take_to_lose_90_percent_of_its_value.png#/media/File:Time_BsF_would_take_to_lose_90_percent_of_its_value.png)
 
-As we can see, the money started to lose value aggressively in 2016. It is common to hear about the problem of printing money leading to this but it is not the prime factor. As we've seen price are mainly affected by the supply/demand ratio and the problem with Venezuela is that it is a country massively importing everything. The only thing Venezuela export is its oil.
+The money started to lose value aggressively in 2016. It is common to hear about the problem of printing money leading to this but it is not the prime factor. As we've seen prices are mainly affected by the supply/demand ratio and the problem with Venezuela is that it is a country massively importing everything. The only thing Venezuela export in high quantity is its oil.
 
-You might already understand what happens. Since Venezuela is exporting massively its oil to import massively everything else, you have the definition of an Achilles heel. If oil price starts to decrease, Venezuela must sell more oil to reach equilibrum again. This is not necessarily a problem when you are the country with the most oil on earth ... normally.
+So Venezuela is exporting massively its oil to be able to import massively everything else, you have the definition of an Achilles heel. If oil price starts to decrease, Venezuela must sell more oil to reach equilibrium again. This is not necessarily a problem when you are the country with the most oil on earth ... normally.
 
 But because of corruption and other political problems, Venezuela never invested enough in its oil production system. So, when oil price saw a sudden decrease of 50% in 2014 the country struggle to keep pace.
 
-Soon enough, it couldn't import as many as things as before and nearly all supplies started to decrease drastically too. But since the population did not change (and so demand did not change), Inflation started naturally to kicks in: when supplys id reduced, the natural way to restrict the population consumption is the increase of price. And even if you are a seller that would rather not too, you yourself need to eat too and to keep your purchasing power, you will have to sell at a higher price too.
+Soon enough, it couldn't import as many things as before and nearly all the imported supplies started to decrease drastically too. But since the population needs did not change (and so demand did not change), inflation started to kick in: when supply is reduced, the natural way to restrict the population consumption is to increase goods price. 
 
-Inflation kicks in and situation did not improve at all. At this point, the population starts a revolte and government are pressured to make the situation nicer. This is when they start to print money and use helicopter money to give it to the poeple. But at that point the problem does not come from a lack of demand and over-supply, it is the opposite: under-supply and no way to increase it so adding money did not solve the problem and actually made it worse.
+<sub>*Sidenote: Even if you are a merchant trying to not raise your prices for your local community, you will be forced to do it anyway. As you still need to keep your purchasing power in an inflationary world. So you will have to sell at a higher price too*</sub>
+
+This is only at this point the government decided to print money to fight back inflation and keep the people happy. But the problem does not come from a lack of demand, it is the opposite: it is coming from a lack of supply, and printing money is not going to magically change that so it made the problem worse.
 
 
 > Do the work:
@@ -740,85 +716,31 @@ An event should math the light,depending on the ecosystem;it might start s bond 
 </div>
 
 ## Why are we talking about it now?
-You might now but people are talking [about inflation now](https://trends.google.com/trends/explore?date=all&geo=US&q=inflation), why?
+You might know but people are more and more talking [about inflation currently](https://trends.google.com/trends/explore?date=all&geo=US&q=inflation), why? Multiple reasons.
 
-For two reasons:
-- The first one is the fact that because of Covid, supply has been naturally reduced to follow the reducing demand. Now that we are about to reopen economy, it might very well create a short period of high-demand facing a quite low-supply.
-- The second one, is coming from people that believe that stimulus + direct payment influence inflation. As we've seen, this is not a good argument. On the other hand, it does impact expected inflation which could impact bond yields on the short term too.
+Because of Covid, supply has been naturally reduced to follow the reducing demand. Now that we are about to reopen the economy, demand is about to face a period of low supply which could create a transitory higher inflation period. One bad news is that even if inflation is transitory, prices are usually not and the impact on purchasing power remains. (See [this tweet](https://twitter.com/LynAldenContact/status/1390419947080364045))
 
+If we look closer and check the [last 20 years in price change](https://www.bls.gov/charts/consumer-price-index/consumer-price-index-by-category-line-chart.htm) we can see that the COVID literally froze prices (the rate went down to 0) and then started to increase again to 2% even though demands was lacking. Now, we are reopening at this point and people are afraid it won't play well.
 
+The second problem is that we are in a casino market:
 
-And, as of March 19th, if we look at [last 20 years in price change](https://www.bls.gov/charts/consumer-price-index/consumer-price-index-by-category-line-chart.htm) we can see mainly three things:
-- The average inflation rate is around 2% even though it always fluctuates.
-- Inflation increased sharply before the housing crisis and sharply decrease during and shortly after.
-- The COVID, on the other hand, Literally froze prices (the rate went down to 0) and it's starting to increase again.
-
-Exactly because the rate already increased while the economy was shut down and reopening the economy might be the match that can light the hyperinflation rocket.
-
-When you add direct payment:
-
-- https://twitter.com/BurryArchive/status/1366550818716078080/photo/1
-- https://twitter.com/BurryArchive/status/1366547342237827075
-
-> Do the work:
->
-> - https://www.investopedia.com/articles/insights/122016/9-common-effects-inflation.asp
-> - https://www.usbank.com/financialiq/invest-your-money/investment-strategies/effects-of-inflation-on-investments.html
-> - [Effect of QE and QE + fiscal spending](https://twitter.com/LynAldenContact/status/1358067930286743552)
-
-### What does it tell me?
-
-The second problem is that we are in a casino market and we already see the effect with hedge funds being margin called and their rippled effect onto the banks:
 - Margin debt is high as f***
 - SPACs and NFTs share way too many traits with the internet bubble
-- Everyone is a genius (people suffers risk-addiction)
-
-I don't know but whatever you do, keep in mind that risk is all over the market.
+- No more bears in the game
+- Even the buffet indicator is through the roof: https://www.currentmarketvaluation.com/models/buffett-indicator.php
 
 On one side you could be bullish:
+
 - [Third stimulus only 3 months after the second](https://twitter.com/LynAldenContact/status/1370569377284812809)
 - [Infrastructure stimulus](https://twitter.com/DeItaone/status/1377062211634479104)
 
-On the other side, it looks ready to burst (beware, perma bear spotted):
+On the other side, it looks ready to burst (beware, perma-bear spotted):
+
 - [A consensus of implosion](https://zensecondlife.blogspot.com/2021/03/a-consensus-of-implosion.html)
 
-For me, we now are in a landmine growth territory. If you move forward securely, you should be allright for a while but don't step on a landmine or you lose a leg.
+For me, we now are in a landmine territory. If you move forward securely, you should be alright for a while but don't step on a landmine or you lose a leg.
 
-Where do those landmines are coming? From the accelerating increase in margins. Everybody is ready to make a shit ton of money, money comes from all over the place to the stock market. But because of that, surprising events can move stocks quite agressively because some dudes will be margin called somewhere.
-
-> Do the work:
->
-> Nowadays and bond vigilantes:
->
-> - https://finance.yahoo.com/m/d5ca49b1-0822-3a66-89a7-436bd744d9a5/bond-vigilantes-are-unlikely.html
-other takes:
-> - https://www.bridgewater.com/research-and-insights/why-in-the-world-would-you-own-bonds-when
-
-### Ok but where to invest?
-First, the global market will probably see a strong correction. If your long, you don't care as Cathie is explaining here. If you are swinging, might be time to be bearish. If you are intraday, come on, do you even care about macro shift??
-
-Before the correction, I would try to get some bucks and ETF that contains growth stock by shorting them or buying some puts. But we don't know when it will happen maybe you aim large.
-
-Another intereting play is some call options on the VIX. It is very risky, but any downward movement will make this index flys up. 
-
-After the correction is done, tear apart ETF in commodities, energy, bank and find value stock. Invest in those.
-
-If you are familiar with complex investment vehicles, you could look into those but in that field, you are on your own.
-
-> Do the work:
->
-> - [investment idea](https://twitter.com/LynAldenContact/status/1358948694788341762)
-> - [ARK fund trades](https://cathiesark.com/ark-funds-combined/trades)
-> - [Berkshire Hathaway Portfolio Tracker](https://www.cnbc.com/berkshire-hathaway-portfolio/)
-
-## Anything else?
-This is not the time to be leveraged, this is not the time to risk it all! Don't YOLO now! Don't be like HWANG!
-
-https://www.currentmarketvaluation.com/models/buffett-indicator.php
-
-You can find a dashboard all of the metric I've been talking bout [here](../hyperinflation)!
-
-If you are not shy to get out of the US stock market, you might find good opportunities too. you could potentially buy Chinese bonds for example as it seems we might soon see a [tectonic shift there](https://www.bridgewater.com/research-and-insights/why-in-the-world-would-you-own-bonds-when)
+<sub>*Sidenote: An interesting play could be to buy some call options on the VIX. It is very risky, but any strong corrections movement will make this index flys up.*</sub>
 
 <p style="text-align: center;">**May your assets be bought when sheep!**</p>
 
