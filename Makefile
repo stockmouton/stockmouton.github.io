@@ -17,5 +17,6 @@ articles: $(ARTICLES)
 		-f markdown \
 		-t html \
 		--metadata title="$(notdir $(basename $(file)))" \
+		--metadata date="`date +%D`" \
 		$(file) -o $(file:.md=.html);\
 	)

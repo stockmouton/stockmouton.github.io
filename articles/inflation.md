@@ -11,7 +11,7 @@ Anyway, remember to do your own DD, apply what you learn, make your prediction, 
 
 > Obviously, this is not financial advice and only some educational material.
 
-## TLDR
+## TL;DR
 Expected inflation and inflation will rise but should be transient (Mainly because of the surge in demand when the economy reopens). This means that we are going to be in a transient dynamic at least until the end of the year. Bonds yield will probably increase which might create a small bond market crash (hopefully in a controlled manner), a massive amount of investment will rotate in other assets like stocks and crypto for a while.
 In the short term, any company selling goods, loans or having strong fundamentals should see a good run, on the other hand, risky ones functioning on high-interest debts will have to survive in those troubled times. 
 After a while, inflation will get back to its 2% target, and the economy should boom again. 
@@ -62,11 +62,13 @@ Depending on those previous requirements and goals, investors exist in every kin
 - The one trying to provide assets in enough quantity to facilitate trades. (You can consider them as big resellers, they are not trying to make money on capital gain but much more by taking a little part of every trades).
  
 Among those investing, we have:
+
 - Pension funds: invest a lot, wait a lot, lower risk to the maximum. Needs to rebalance portfolio regularly to minimize the risk (Beware of end of quarters!)
 - Other Funds (mutual, ETF, family office, etc.): invest a lot, wait moderately. Depending on their style they might be very risky or not. You must do your work per fund to understands their behaviours
 - Retail traders: you, me, everyone trading from home. Invest very little compared to other actors but are present in a much bigger number. So much now, that it starts to make a difference (thanks to how fast information propagate).
 
 Among those trying to facilitate trades:
+
 - High-frequency traders and market makers: Invest tiny amounts, very very fast, low risk. They are making money by helping the market do its job more than by betting inside of it.
 
 What you want to look for with those different investors is their generic strategy and to which requirements they are bound by law/contracts. For example, pension funds have to keep a certain level of allocation of risks between bonds and stocks with only minor adjustment along the way. Indeed, if we play with our own money, we are the only ones responsible for a loss, but organisation taking other people money for investing ensure to their customer that they manage their risks properly, or at least in such a way that their customer is aware of it.
@@ -287,12 +289,14 @@ On one side we have what goes into the cost of things:
 - Other costs like insurance etc.
 
 On the other side we have what goes into the demand of things:
+
 - People confidence in the future (no needs to save money, let's spend!)
 - Money distribution: how wealth is distributed
 
 Both of those generate the queen forces of supply and demand: how much people want that thing compared to how many ones of that thing be produced.
 
 Finally, external factors can drastically impact them too:
+
 - Environmental crisis: climate change, drought, etc.
 - Political instability: war, revolution, treaties, embargo, etc.
 - Random events ([like the evergreen boat stuck in the Suez Canal](https://www.bbc.com/news/business-56559073))
@@ -353,6 +357,7 @@ Hyperinflation is a sudden and strong inflation rate increase (usually when perc
 <sub>*sidenote: because there is no official threshold on the inflation rate to declare hyperinflation (there is only a conventional one at 50% per month). it is the kind of concept that the media loves to nourish their fear-mongering business (which will probably increase expected inflation).  I would expect that a 10% inflation rate will be enough to see the word hyperinflation screamed everywhere, even though that would just be a high inflation rate.*</sub>
 
 In history we have mainly 3 cases:
+
 - The German case happened after their defeat in world war 1. They were under drastic limitation from the international community, we could even say they were suffering a kind of punishment from the world.
 - The current Venezuela case. A perfect Achilles heel example of an economy supported by only one resource (oil). No surprise that a production problem or a lower price of that resource would start a downward spiral for the whole country.
 
@@ -413,6 +418,7 @@ Pure speculators start to actively hype up the train because they invested on ma
 <sub>*Sidenote: a funny thing is that those speculators are usually oblivious to their behaviours. Some of them will even conduct actual research to prove their point. The problem lies in the fact that they are looking for confirmation bias and not the real truth. On top of that, being right is not necessarily the best way to make a profit in the market.*</sub>
 
 Interestingly, a bubble is an asset (or set of assets) hyperinflation. FUD on that asset increase, volatility increase, risk increase. And the usual dynamic of hyperinflation is the result: 
+
 - First, prices increase fast
 - Then, prices way overshoot what could be decent values
 - Then, prices decrease fast which might make prices undershoot decent values too
@@ -428,6 +434,8 @@ Anyway, this tends to change drastically the market dynamic. People are chasing 
 We tend to call a market a casino when the amount of risks taken by investors is too damn high! You can measure it with the global margin debt (the amount borrowed by people to invest in the financial markets). The important point here is the acceleration of margin debt: if it increases fast, it is not a good sign as more and more people are risking much more than they have. You can also feel it when you start to observe many bubbles (~~SPACs 👀~~, ~~NFTs 👀~~) and [investment funds start to get margin called](https://www.nytimes.com/2021/04/03/business/bill-hwang-archegos.html). It is also reflected in the bull/bear ratio (weekly poll of investment advisors) which start to be overly positive and tends to see high volatility variation.
 
 It happens that all of those 3 signals are full-on right now. In such a market, hyperinflation would crash the whole market as a general price drop in some sectors could margin call big hedge funds and soon, banks discover that the whole system is tied together and will fall as one (as in 2008, it's particularly relevant today as nothing has been done to prevent the systemic risk of 2008 and we are 13 years later, how time flies!).
+
+![](inflation/secondary-market-inflation.png)
 
 > What signal?
 >
@@ -603,117 +611,10 @@ This is only at this point the government decided to print money to fight back i
 >
 > - [Hyperinflation in Venezuela](https://en.wikipedia.org/wiki/Hyperinflation_in_Venezuela)
 
-## Open market dynamics summary
-https://twitter.com/Newsquawk/status/1380076368675942400
-
+## Summary
 Following is a summary of what we've seen. Again, remember that those are high-level interaction and the market is unpredictable and any surprising events will probably impact the market more short-terms than those dynamics.
 
-<sub>*Sidenote: I've created multiple scenarios because those were hard to merge into a single big one.*</sub>
-
-<!-- TODO: draw them https://observablehq.com/@d3/gallery -->
-Instead of spending time  writing a paragraph, let me just pus a flywheel to you:
-y7t6gt
-
-<!-- First case: inflation rate increase slowly and FED follow it -->
-- Inflation rate increase: the price of things increase
-    -> Cost of existing debt decrease (good for the existing borrower)
-    -> Commodities price increase (commodities stocks increase)
-    -> Real estate price increase (real estate stocks increase)
-    -> Companies selling goods make more money
-    -> FED decides to increase the federal fund rate and discount rate to follow the inflation rate
-        -> interbank loan rate increase
-            -> everyone loan and credit rate increase
-                -> cost of borrow increase (not good for the new borrower)
-                    -> borrowing, in general, slows down
-                    -> Companies might not be able to borrow anymore (or issue new bonds)
-                        -> zombie companies might struggle to pay back their principals (can't roll-over existing debt)
-                            -> junk-bonds default increase
-                                -> Investors try to rotate out of junk bonds before it happens
-                                    -> other assets value increase
-                    -> Growth companies functioning on debt might struggle to borrow
-                        -> Rating agency might decrease their grade
-                            -> Some companies move from "investment-grade" to "junk" bonds (fallen angel)
-                                -> Drastic bond yield increase
-                                    -> at the beginning (or before) short-term investor rotates out the bond market to avoid bonds price decrease
-                                        -> other assets value increase
-                                    -> at the end (when yield stabilize at a new level), short term investors rotate back in to gather high yield bonds
-                                        -> other assets value decrease
-                    -> bonds treasury yield increase
-                        -> bonds market decrease and so bond yields increase
-                            -> long term investors (pension funds) rotate internally of the bond market to gather those high yields bonds
-
-<!-- Second case: inflation rate increase slowly and FED don't follow it [CURRENT SITUATION] -->
-- Inflation rate increase: the price of things increase
-    -> FED does not like it and uses QE to increase the generic bond price and/or YCC to ensure treasury yields are constant and/or keep key rates low
-        -> increase inflation in the open market (month injection)
-            -> The money dump should increase other assets value (including the stock market)
-        -> real treasury yield starts to be negative
-            -> Long term bond investors (pension fund) might not like it and rotate out of the bond market
-                -> A fight between the FED and other bond investors start to kick in (FED wants to keep low yield, bonds investors want to increase yield)
-                    -> depending on the winner, more or fewer bond investors rotate in or out (2008 crisis)
-
-<!-- Third case: expected inflation rate increase ahead of inflation rate [MIGHT HAPPEN SOON] -->
-<div class="stockmouton-data" style="display:none; width:1000px; margin-left:-150px;">
-source,target,type,position
-
-Reopening the economy (supply has decrease) + stimulus with direct payment, governement increase debt, positif
-
-governement increase debt, rating agency could lower the US grade, positif
-
-rating agency could lower the US grade, treasury yield increase, positif
-
-governement increase debt, Expected inflation rate increase, positif
-
-governement increase debt, Money reach everyone, positif
-        
-Money reach everyone, spending increase, positif
-
-spending increase, demand increase, positif
-
-demand increase, inflation increase, positif
-
-Expected inflation rate increase, The market might preempt increase in bond yields, positif
-
-The market might preempt increase in bond yields, investors rotate out of the bond market, positif
-            
-investors rotate out of the bond market, bond yields increase (self-fulfilling), positif
-
-bond yields increase (self-fulfilling), other assets value (including stock market) increase, positif
-
-other assets value (including stock market) increase, FED announce QE or YCC, positif
-
-FED announce QE or YCC, reverse the dynamic, positif
-</div>                    
-
-<!-- Fourth case: unexpected hyperinflation -->
-<div class="stockmouton-data" style="display:none; width:1000px; margin-left:-150px;">
-source,target,type,position
-
-Hyperinflation happens: drastic price increase,the open market enters into short-term reactionnary behaviour, positif
-
-the open market enters into short-term reactionnary behaviour, Bond market crash, positif
-
-the open market enters into short-term reactionnary behaviour, Growth stock crash, positif
-
-the open market enters into short-term reactionnary behaviour, Commodities explode, positif
-</div>
-
-<!-- Detailed bond dynamics -->
-<div class="stockmouton-data" style="display:none; width:1000px; margin-left:-150px;">
-source,target,type,position
-
-Expected inflation rise,bonds yield expected to increase,positif
-
-bonds yield expected to increase,treasury yields start to increase,positif
-
-treasury yields start to increase,spreads between junk bonds and treasury bonds will lower until a threshold effect,positif
-
-spreads between junk bonds and treasury bonds will lower until a threshold effect,An event should math the light,positif
-
-An event should math the light,junk bond yields start to increase,positif
-
-An event should math the light,depending on the ecosystem;it might start s bond market crash or not (see https://fred.stlouisfed.org/series/BAMLH0A0HYM2),positif
-</div>
+![](inflation/market-interactions.png)
 
 ## Why are we talking about it now?
 You might know but people are more and more talking [about inflation currently](https://trends.google.com/trends/explore?date=all&geo=US&q=inflation), why? Multiple reasons.
@@ -743,8 +644,3 @@ For me, we now are in a landmine territory. If you move forward securely, you sh
 <sub>*Sidenote: An interesting play could be to buy some call options on the VIX. It is very risky, but any strong corrections movement will make this index flys up.*</sub>
 
 <p style="text-align: center;">**May your assets be bought when sheep!**</p>
-
-
-<script src="https://d3js.org/d3.v6.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/d3plus@2"></script>
-<script async="" src="inflation/flywheels.js"></script>
