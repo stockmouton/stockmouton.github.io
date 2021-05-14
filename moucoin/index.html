@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<title>Moucoin</title>
+
+	<script src="https://cdn.jsdelivr.net/gh/ethereum/web3.js/dist/web3.min.js"></script>
+	<script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+
+</head>
+
+<body>
+	<div id="moucoin" style="display: none;">
+        <button class="enableEthereumButton" style="display: none;">Enable Ethereum</button>
+		<h1>Moucoin</h1>
+		you own:
+		<div id="balance"></div>
+	</div>
+
+	<script>
+        const isMetaMaskInstalled = () => {
+            const { ethereum } = window
+            return Boolean(ethereum && ethereum.isMetaMask)
+        }
+
+        const isNetworkRopsten = async () => {
+            const {chainId, networkId} = await getNetworkAndChainId()    
+                
+            if (networkId == 3){
+                return true
+            }
+        }
+
+        async function getNetworkAndChainId() {
+            try {
+                const chainId = await ethereum.request({
+                    method: 'eth_chainId',
+                })
+
+                const networkId = await ethereum.request({
+                    method: 'net_version',
+                })
+                
+                return  {chainId, networkId}
+
+            } catch (err) {
+                console.error(err)
+            }
+            
+            return {}
+        }
+
+        async function updateApp(accounts) {
+            const web3 = new Web3(Web3.givenProvider);
+
+            const firstAccount = accounts[0];
+
+            abi = [{"inputs":[],"stateMutability":"nonpayable","type":"constructor"},{"inputs":[{"internalType":"uint256","name":"requested","type":"uint256"},{"internalType":"uint256","name":"available","type":"uint256"}],"name":"InsufficientBalance","type":"error"},{"anonymous":false,"inputs":[{"indexed":false,"internalType":"address","name":"from","type":"address"},{"indexed":false,"internalType":"address","name":"to","type":"address"},{"indexed":false,"internalType":"uint256","name":"amount","type":"uint256"}],"name":"Sent","type":"event"},{"inputs":[{"internalType":"address","name":"","type":"address"}],"name":"balances","outputs":[{"internalType":"uint256","name":"","type":"uint256"}],"stateMutability":"view","type":"function"},{"inputs":[],"name":"minter","outputs":[{"internalType":"address","name":"","type":"address"}],"stateMutability":"view","type":"function"},{"inputs":[{"internalType":"address","name":"receiver","type":"address"},{"internalType":"uint256","name":"amount","type":"uint256"}],"name":"mint","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"address","name":"receiver","type":"address"},{"internalType":"uint256","name":"amount","type":"uint256"}],"name":"send","outputs":[],"stateMutability":"nonpayable","type":"function"}]
+            address = '0x7e537367195f79b09a73d775ccfa6a6d67476908'
+            let coinContract = new web3.eth.Contract(abi, address);
+
+            let result = await coinContract.methods.balances(firstAccount).call({from: firstAccount})
+            $('#balance').text(result);
+        }
+
+        const initialize = async () => {
+        
+            if (isMetaMaskInstalled()) {
+                const {chainId, networkId} = await getNetworkAndChainId()    
+                
+                if (! await isNetworkRopsten()){
+                    $("#moucoin").html("Reload the page with ropstein network selected").show()
+                    return
+                }
+                
+                $("#moucoin").show()
+                
+                let accounts = await ethereum.request({
+                    method: 'eth_accounts',
+                })
+                
+                if (accounts.length > 0){
+                    updateApp(accounts)
+                } else {
+                    const ethereumButton = $('.enableEthereumButton');
+                    ethereumButton.show()
+                    
+                    ethereumButton.on('click', async () => {
+                        //Will Start the metamask extension
+                        accounts = await ethereum.request({ method: 'eth_requestAccounts' });
+                        
+                        if (accounts.length > 0) {
+                            ethereumButton.hide()
+                            updateApp(accounts)
+                        }
+                        
+                    });
+                }
+            }
+        }
+
+        window.addEventListener('DOMContentLoaded', initialize)        
+	</script>
+
+</body>
+
+</html>
