@@ -34,6 +34,7 @@
 
 	<script>
         let accounts;
+        let currentAccount;
         let coinContract;
 
         const isMetaMaskInstalled = () => {
@@ -77,14 +78,19 @@
             }
         }
 
-        async function mintButtonOnClick() {
-            const firstAccount = accounts[0];
+        async function onAccountsChanged() {
+            accounts = await ethereum.request({
+                method: 'eth_accounts',
+            })
+            updateApp()
+        }
 
+        async function mintButtonOnClick() {
             const receiverAddr = $('#mint-receiver').val();
             const amount = parseInt($('#mint-amount').val());
             
             
-            coinContract.methods.mint(receiverAddr, amount).send({from: firstAccount})
+            coinContract.methods.mint(receiverAddr, amount).send({from: currentAccount})
             .on('transactionHash', function(hash){
                 console.log("hash");
                 console.log(hash);
@@ -102,13 +108,11 @@
         }
 
         async function sendButtonOnClick() {
-            const firstAccount = accounts[0];
-
             const receiverAddr = $('#send-receiver').val();
             const amount = parseInt($('#send-amount').val());
             
             
-            coinContract.methods.send(receiverAddr, amount).send({from: firstAccount})
+            coinContract.methods.send(receiverAddr, amount).send({from: currentAccount})
             .on('transactionHash', function(hash){
                 console.log("hash");
                 console.log(hash);
@@ -126,9 +130,9 @@
         }
 
         async function updateApp() {
-            const firstAccount = accounts[0];
+            currentAccount = accounts[0];
 
-            let result = await coinContract.methods.balances(firstAccount).call({from: firstAccount})
+            let result = await coinContract.methods.balances(currentAccount).call({from: currentAccount})
             $('#balance').text(result);
         }
 
@@ -149,6 +153,9 @@
                     $("#moucoin").html("Reload the page with ropstein network selected").show()
                     return
                 }
+
+                ethereum.on('accountsChanged', onAccountsChanged)
+
                 const web3 = new Web3(Web3.givenProvider);
 
                 accounts = await ethereum.request({
