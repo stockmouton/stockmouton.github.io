@@ -178,7 +178,11 @@
                         currentAccount = accounts[0];
 
                         if (!minterAddress) {
-                            minterAddress = (await moucoinContract.methods.minter().call()).toLowerCase()
+                            try {                                
+                                minterAddress = (await moucoinContract.methods.minter().call()).toLowerCase()
+                            } catch (error) {
+                                console.log(error);
+                            }
                         }
                     }
 
