@@ -1,1 +1,7 @@
+# OSX
 .DS_Store
+
+# Moucoin contract
+moucoin/moucoin_contract/secrets.json
+moucoin/moucoin_contract/build
+moucoin/moucoin_contract/node_modules
