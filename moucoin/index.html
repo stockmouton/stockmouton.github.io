@@ -7,40 +7,48 @@
 	<meta http-equiv="X-UA-Compatible" content="ie=edge">
 	<title>Moucoin</title>
 
+    <script src="https://unpkg.com/@metamask/detect-provider/dist/detect-provider.min.js"></script>
 	<script src="https://cdn.jsdelivr.net/gh/ethereum/web3.js/dist/web3.min.js"></script>
 	<script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
 
 </head>
 
 <body>
-	<div id="moucoin" style="display: none;">
-        <button id="enableEthereumButton" style="display: none;">Enable Ethereum</button>
+	<div id="moucoin">
 		<h1>Moucoin</h1>
-		you own:
-		<div id="balance"></div>
+        <button id="enableEthereumButton" style="display: none;">Enable Ethereum</button>
 
-        <div id="mintzone" style="display: none;">
-            <button id="mint">Mint</button>
-            <input id="mint-receiver" type="text">
-            <input id="mint-amount" type="text">
-        </div>
+        <div id="moucoinzone" style="display: none;">
+            you own:
+            <div id="balance"></div>
 
-        <div id="sendzone">
-            <button id="send">Send</button>
-            <input id="send-receiver" type="text">
-            <input id="send-amount" type="text">
+            <div id="mintzone" style="display: none;">
+                <button id="mint">Mint</button>
+                <input id="mint-receiver" type="text">
+                <input id="mint-amount" type="text">
+            </div>
+
+            <div id="sendzone">
+                <button id="send">Send</button>
+                <input id="send-receiver" type="text">
+                <input id="send-amount" type="text">
+            </div>
         </div>
 	</div>
 
 	<script>
+        const enableEthereumButton = $('#enableEthereumButton');
+        const moucoinZone = $('#moucoinzone');
+        const mintButton = $('#mint');
+        const sendButton = $('#send');
+
         let accounts;
         let currentAccount;
-        let coinContract;
+        let moucoinContract;
+        let minterAddress;
 
-        const isMetaMaskInstalled = () => {
-            const { ethereum } = window
-            return Boolean(ethereum && ethereum.isMetaMask)
-        }
+        const mcABI = [{"inputs":[],"stateMutability":"nonpayable","type":"constructor"},{"inputs":[{"internalType":"uint256","name":"requested","type":"uint256"},{"internalType":"uint256","name":"available","type":"uint256"}],"name":"InsufficientBalance","type":"error"},{"anonymous":false,"inputs":[{"indexed":false,"internalType":"address","name":"from","type":"address"},{"indexed":false,"internalType":"address","name":"to","type":"address"},{"indexed":false,"internalType":"uint256","name":"amount","type":"uint256"}],"name":"Sent","type":"event"},{"inputs":[{"internalType":"address","name":"","type":"address"}],"name":"balances","outputs":[{"internalType":"uint256","name":"","type":"uint256"}],"stateMutability":"view","type":"function"},{"inputs":[],"name":"minter","outputs":[{"internalType":"address","name":"","type":"address"}],"stateMutability":"view","type":"function"},{"inputs":[{"internalType":"address","name":"receiver","type":"address"},{"internalType":"uint256","name":"amount","type":"uint256"}],"name":"mint","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"address","name":"receiver","type":"address"},{"internalType":"uint256","name":"amount","type":"uint256"}],"name":"send","outputs":[],"stateMutability":"nonpayable","type":"function"}]
+        const mcAddress =  '0x7e537367195f79b09a73d775ccfa6a6d67476908'
 
         const isNetworkRopsten = async () => {
             const {chainId, networkId} = await getNetworkAndChainId()    
@@ -71,17 +79,17 @@
 
         async function ethereumButtonOnClick() {
             accounts = await ethereum.request({ method: 'eth_requestAccounts' });
-                        
-            if (accounts.length > 0) {
-                ethereumButton.hide()
-                updateApp(accounts)
-            }
+            currentAccount = accounts[0];
+                    
+            updateApp()
         }
 
         async function onAccountsChanged() {
             accounts = await ethereum.request({
                 method: 'eth_accounts',
             })
+            currentAccount = accounts[0];
+
             updateApp()
         }
 
@@ -89,12 +97,14 @@
             const receiverAddr = $('#mint-receiver').val();
             const amount = parseInt($('#mint-amount').val());
             
-            
-            coinContract.methods.mint(receiverAddr, amount).send({from: currentAccount})
+            moucoinContract.methods.mint(receiverAddr, amount).send({from: currentAccount})
+            // Here you receive the hash of the transaction, which you can check on etherscan
             .on('transactionHash', function(hash){
                 console.log("hash");
                 console.log(hash);
             })
+            // Confirmation is called every time a new block is mined above the one containing the transaction
+            // confirmationNumber is the current number of blockes mined above
             .on('confirmation', function(confirmationNumber, receipt){
                 console.log('confirmation');
                 console.log(confirmationNumber);
@@ -112,7 +122,7 @@
             const amount = parseInt($('#send-amount').val());
             
             
-            coinContract.methods.send(receiverAddr, amount).send({from: currentAccount})
+            moucoinContract.methods.send(receiverAddr, amount).send({from: currentAccount})
             .on('transactionHash', function(hash){
                 console.log("hash");
                 console.log(hash);
@@ -130,55 +140,54 @@
         }
 
         async function updateApp() {
-            currentAccount = accounts[0];
+            if (accounts.length > 0){
+                if (minterAddress == accounts[0]) {
+                    $("#mintzone").show()
+                } else {
+                    $("#mintzone").hide()
+                }
 
-            let result = await coinContract.methods.balances(currentAccount).call({from: currentAccount})
-            $('#balance').text(result);
+                let result = await moucoinContract.methods.balances(currentAccount).call()
+                $('#balance').text(result);
+
+                enableEthereumButton.hide()
+                moucoinZone.show()
+            } else {
+                enableEthereumButton.show()
+                moucoinZone.hide()
+            }
         }
 
         const initialize = async () => {
-            const enableEthereumButton = $('#enableEthereumButton');
-            enableEthereumButton.on('click', ethereumButtonOnClick);
+            const provider = await detectEthereumProvider()
+            if (provider) {
+                const isRopsten = await isNetworkRopsten()
+                if (isRopsten){
+                    enableEthereumButton.on('click', ethereumButtonOnClick);
+                    mintButton.on('click', mintButtonOnClick);
+                    sendButton.on('click', sendButtonOnClick);
+                    ethereum.on('accountsChanged', onAccountsChanged)
 
-            const mintButton = $('#mint');
-            mintButton.on('click', mintButtonOnClick);
+                    const web3 = new Web3(Web3.givenProvider);
+                    moucoinContract = new web3.eth.Contract(mcABI, mcAddress);
+                    accounts = await ethereum.request({
+                        method: 'eth_accounts',
+                    })
 
-            const sendButton = $('#send');
-            sendButton.on('click', sendButtonOnClick);
-        
-            if (isMetaMaskInstalled()) {
-                const {chainId, networkId} = await getNetworkAndChainId()    
-                
-                if (! await isNetworkRopsten()){
-                    $("#moucoin").html("Reload the page with ropstein network selected").show()
-                    return
-                }
+                    if (accounts.length > 0){
+                        currentAccount = accounts[0];
 
-                ethereum.on('accountsChanged', onAccountsChanged)
+                        if (!minterAddress) {
+                            minterAddress = (await moucoinContract.methods.minter().call()).toLowerCase()
+                        }
+                    }
 
-                const web3 = new Web3(Web3.givenProvider);
-
-                accounts = await ethereum.request({
-                    method: 'eth_accounts',
-                })
-
-                abi = [{"inputs":[],"stateMutability":"nonpayable","type":"constructor"},{"inputs":[{"internalType":"uint256","name":"requested","type":"uint256"},{"internalType":"uint256","name":"available","type":"uint256"}],"name":"InsufficientBalance","type":"error"},{"anonymous":false,"inputs":[{"indexed":false,"internalType":"address","name":"from","type":"address"},{"indexed":false,"internalType":"address","name":"to","type":"address"},{"indexed":false,"internalType":"uint256","name":"amount","type":"uint256"}],"name":"Sent","type":"event"},{"inputs":[{"internalType":"address","name":"","type":"address"}],"name":"balances","outputs":[{"internalType":"uint256","name":"","type":"uint256"}],"stateMutability":"view","type":"function"},{"inputs":[],"name":"minter","outputs":[{"internalType":"address","name":"","type":"address"}],"stateMutability":"view","type":"function"},{"inputs":[{"internalType":"address","name":"receiver","type":"address"},{"internalType":"uint256","name":"amount","type":"uint256"}],"name":"mint","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"address","name":"receiver","type":"address"},{"internalType":"uint256","name":"amount","type":"uint256"}],"name":"send","outputs":[],"stateMutability":"nonpayable","type":"function"}]
-                address = '0x7e537367195f79b09a73d775ccfa6a6d67476908'
-                coinContract = new web3.eth.Contract(abi, address);
-
-                const minterAddress = (await coinContract.methods.minter().call({from: accounts[0]})).toLowerCase()
-                if (minterAddress == accounts[0]) {
-                    $("#mintzone").show()
-                }
-
-                $("#moucoin").show()
-                if (accounts.length > 0){
                     updateApp()
                 } else {
-                    enableEthereumButton.show()
+                    $("#moucoin").html("The contract has only been deployed to the ropsten network: change your network to Ropsten and reload the page")
                 }
             } else {
-                $("#moucoin").html("Install MetaMask and reload the page").show()
+                $("#moucoin").html("Install MetaMask and reload the page")
             }
         }
 
